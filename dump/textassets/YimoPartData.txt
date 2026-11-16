@@ -1,0 +1,4 @@
+partID|partGroup|partName|boss_ID|boss_Lv|boss_StarRank|boss_EnemyType|lvPlus|basePartHp|partDescription|partUIPosition|partUIIcon|battleOpenDesc_1|battleOpenDesc_2|battleStage|battlePath|fadeInUIName|battleRoomInCamera|battleCamera|bgm|partModelName|breakPartModelName|needNPCID|battleReward┤
+661000001|1|頭部|NULL|0|3|NULL|1|200000000|破壞後能中止暴走錫樵夫對玩家施予漆黑效果的技能|0|Yimo_Part_Icon_05|暴走錫樵夫|頭部|s008_02|1|BattleScreenFader|YimoRoomInCamera_01|YimoBattleCamera|b02_bpm131|Head|Head_broken|2$3|NULL┤
+661000002|1|胸部|NULL|0|3|NULL|1|200000000|破壞後能中止暴走錫樵夫的自我治療與元素防護，使所有元素效果都能產生作用。|1|Yimo_Part_Icon_03|暴走錫樵夫|胸部|s008_02|1|BattleScreenFader|YimoRoomInCamera_01|YimoBattleCamera|b02_bpm131|Chest|Chest_broken|2$3|NULL┤
+661000003|1|手腕|NULL|0|3|NULL|1|200000000|破壞後能中止暴走錫樵夫對自身的力量強化效果，並避免被暈眩。|2|Yimo_Part_Icon_01|暴走錫樵夫|手腕|s008_02|2|BattleScreenFader|YimoRoomInCamera_01|YimoBattleCamera|b02_bpm131|Hand|Hand_broken|1$4|NULL┤

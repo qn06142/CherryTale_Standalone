@@ -1,0 +1,6 @@
+scenesID|scenesName1|scenesName2|mapAssetID|camera┤
+700000001|競技場|嗜血沙場|s009_01|BattleCameraIn_PVP┤
+700000002|武鬥場|武鬥場|s012_01|BattleCameraIn_PVP┤
+700000003|榮耀之巔|榮耀之巔|s013_01|BattleCameraIn_PVP┤
+700000004|榮耀之巔|榮耀之巔|s014_01|BattleCameraIn_PVP┤
+700000005|榮耀之巔|榮耀之巔|s015_01|BattleCameraIn_PVP┤

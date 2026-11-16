@@ -1,0 +1,16 @@
+id|typeName|isRed|iconName|order┤
+572000000|我的最愛|1|Combine_07_Icon|0┤
+572000001|一般道具|0|Combine_01_Icon|1┤
+572000002|升階素材|0|Combine_02_Icon|2┤
+572000003|升星素材|0|Combine_03_Icon|3┤
+572000004|珍稀物品|0|Combine_04_Icon|4┤
+572000005|祭壇素材|0|Combine_08_Icon|5┤
+572000006|裝備（武器）|0|Combine_05_Icon|6┤
+572000007|裝備（飾品）|0|Combine_12_Icon|8┤
+572000008|裝備（鞋子）|0|Combine_13_Icon|10┤
+572000009|裝備（頭盔）|0|Combine_14_Icon|11┤
+572000010|裝備（身體）|0|Combine_15_Icon|12┤
+572000011|裝備（護腿）|0|Combine_16_Icon|13┤
+572000012|裝備（護身符）|0|Combine_17_Icon|14┤
+572000013|裝備（武器+）|0|Combine_05_Icon|7┤
+572000014|裝備（飾品+）|0|Combine_12_Icon|9┤

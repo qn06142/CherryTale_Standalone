@@ -1,0 +1,3 @@
+wudouSeasonID|wudouName|wudouRewardGroupID┤
+180000001|-1|179000000┤
+180000002|熱身賽|179000001┤

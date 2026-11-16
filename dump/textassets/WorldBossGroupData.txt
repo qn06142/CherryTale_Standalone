@@ -1,0 +1,2 @@
+bossGroupID|bossID|restrainID|restrainDesc|special_EnemyType|dropItems|bossBuff|friendBuff|bannerName┤
+684000001|688000001$688000002|NULL|-1|NULL|200010052$200000956|NULL|NULL|FightBanner_01┤

@@ -1,0 +1,6 @@
+questionId|item_magnify|subject_magnify┤
+933000815|ct051_CG_Spine$ct052_CG_Spine$ct053_CG_Spine$ct050_CG_Spine$ct054_CG_Spine$ct055_CG_Spine$ct056_CG_Spine$ct061_CG_Spine$ct066_CG_Spine|-1┤
+933000818|-1|ct054_CG_Spine┤
+933000820|-1|ct061_CG_Spine┤
+933000822|-1|ct066_CG_Spine┤
+933000919|ct068_CG_Spine$ct057_CG_Spine$ct058_CG_Spine$ct059_CG_Spine$ct102_CG_Spine$ct063_CG_Spine$ct064_CG_Spine$ct065_CG_Spine$ct106_CG_Spine$ct069_CG_Spine$ct070_CG_Spine$ct071_CG_Spine|-1┤

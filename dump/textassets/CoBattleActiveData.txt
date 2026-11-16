@@ -1,0 +1,4 @@
+activeID|groupID|bannerName|restrainDesc|roleInfoIDs|sex|attributeType|element|special_EnemyType┤
+612000001|611000001|FightBanner_02.png|-1|133000100$133000300|-1|-1|-1|NULL┤
+612000002|611000001|FightBanner_02.png|-1|133000100$133000300|-1|-1|-1|NULL┤
+612000003|611000001|FightBanner_02.png|-1|133000100$133000300|-1|-1|-1|NULL┤

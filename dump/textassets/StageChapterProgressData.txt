@@ -1,0 +1,9 @@
+stageChapterProgressID|unlockSectionID|hcgResource1|hcgResource2┤
+103000001|NULL|e001_01_Highlights01|e001_01_Highlights02┤
+103000002|NULL|d008_03_Highlights01|d008_03_Highlights02┤
+103000003|NULL|c001_01_Highlights01|c001_01_Highlights02┤
+103000004|NULL|f001_03_Highlights01|f001_03_Highlights02┤
+103000005|NULL|c007_03_Highlights01|c007_03_Highlights02┤
+103000006|NULL|f002_03_Highlights01|f002_03_Highlights02┤
+103000007|NULL|e004_02_Highlights01|e004_02_Highlights02┤
+103000008|NULL|a002_02_Highlights01|a002_02_Highlights02┤

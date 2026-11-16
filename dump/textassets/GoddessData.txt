@@ -1,0 +1,9 @@
+goddessID|goddessName|goddessIcon|goddesssPic|unlockgoddessLv|unlockPlayerLv|unlockStage|unlockOwnRoles|goddessBuff1ID|goddessBuff2ID|goddessBuff3ID|goddessBuff4ID┤
+190000001|女神之護|Goddess_01_Icon|e010|0|-1|NULL|-1|NULL|NULL|NULL|NULL┤
+190000002|女神之歌|Goddess_02_Icon|e010|5|10|NULL|-1|NULL|NULL|NULL|NULL┤
+190000003|女神之毅|Goddess_03_Icon|e010|10|15|NULL|-1|NULL|NULL|NULL|NULL┤
+190000004|女神之淚|Goddess_04_Icon|e010|15|20|NULL|-1|NULL|NULL|NULL|NULL┤
+190000005|女神之怒|Goddess_05_Icon|e010|20|25|NULL|-1|NULL|NULL|NULL|NULL┤
+190000006|女神之理|Goddess_06_Icon|e010|25|30|NULL|-1|NULL|NULL|NULL|NULL┤
+190000007|女神之輝|Goddess_07_Icon|e010|30|35|NULL|-1|NULL|NULL|NULL|NULL┤
+190000008|女神之翼|Goddess_08_Icon|e010|35|40|NULL|-1|NULL|NULL|NULL|NULL┤

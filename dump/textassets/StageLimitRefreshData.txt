@@ -1,0 +1,4 @@
+limitRefreshID|refreshCostTimes1|refreshCostTimes2|refreshCostTimes3|refreshCostTimes4|refreshCostTimes5┤
+106000001|15|20|30|45|65┤
+106000002|15|25|45|75|115┤
+106000003|20|35|65|95|140┤

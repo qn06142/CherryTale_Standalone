@@ -1,0 +1,9 @@
+stepId|reward|nextOpenTime┤
+1|NULL|1┤
+2|NULL|2┤
+3|NULL|3┤
+4|NULL|4┤
+5|NULL|5┤
+6|NULL|5┤
+7|NULL|5┤
+8|NULL|5┤

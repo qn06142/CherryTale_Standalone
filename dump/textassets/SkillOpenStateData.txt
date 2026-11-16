@@ -1,0 +1,6 @@
+skillOpenID|normalAtk|activeSkill|loopSkill|passive1Skill|passive2Skill|passive3Skill|phase2|awakeningSkill┤
+1|0|0|1|4|6|7|0|2┤
+2|0|0|0|99|99|7|0|0┤
+3|0|0|0|0|0|7|0|0┤
+99|0|0|0|99|99|7|99|99┤
+100|0|99|99|99|99|7|99|99┤

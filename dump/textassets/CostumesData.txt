@@ -1,0 +1,2 @@
+costumesID|name|belongRoleInfo|qualityStar|iconID|assetID|battleAssetID|unlockPrice|unlockCredit0|unlockPrice0|unlockCredit1|unlockPrice1|productSalesType|unlockConditon|propertyID|costumesCPBonusPercent|costumesCPBonus┤
+189000101|餐桌禮儀師|133000100|45|a001_01_Icon|a001_04|a001_04_b|-1|200000001|100|200000001|50|0|購買後解鎖|NULL|100|20┤

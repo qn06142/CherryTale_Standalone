@@ -1,0 +1,7 @@
+attributeAltarID|elementID|attributeAltarName|lvID┤
+850000001|NULL|風之祭壇|NULL┤
+850000002|NULL|土之祭壇|NULL┤
+850000003|NULL|水之祭壇|NULL┤
+850000004|NULL|火之祭壇|NULL┤
+850000005|NULL|光之祭壇|NULL┤
+850000006|NULL|闇之祭壇|NULL┤

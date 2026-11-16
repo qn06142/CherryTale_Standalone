@@ -1,0 +1,4860 @@
+{
+  "a001": {
+    "prefix": "a001",
+    "name_en": "Gretel",
+    "name_zh": "葛麗特",
+    "costumes": [
+      {
+        "en": "Master of Table Manners",
+        "zh": "餐桌禮儀師"
+      }
+    ],
+    "models": [
+      "a001_01_CG",
+      "a001_01_hcg",
+      "a001_03_CG",
+      "a001_03_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "a002": {
+    "prefix": "a002",
+    "name_en": "Aladdin",
+    "name_zh": "阿拉丁",
+    "costumes": [],
+    "models": [
+      "a002_01_CG",
+      "a002_01_hcg",
+      "a002_02",
+      "a002_02_hcg1_spine"
+    ],
+    "dialogues": []
+  },
+  "a003": {
+    "prefix": "a003",
+    "name_en": "Sun",
+    "name_zh": "太陽",
+    "costumes": [],
+    "models": [
+      "a003_01",
+      "a003_01_hcg",
+      "a003_02",
+      "a003_02_HCG"
+    ],
+    "dialogues": []
+  },
+  "a004": {
+    "prefix": "a004",
+    "name_en": "Don Quixote",
+    "name_zh": "唐吉訶德",
+    "costumes": [],
+    "models": [
+      "a004_03_CG_Spine",
+      "a004_03_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "a005": {
+    "prefix": "a005",
+    "name_en": "Alice",
+    "name_zh": "愛麗絲",
+    "costumes": [],
+    "models": [
+      "a005_03_CG",
+      "a005_03_hcg_spine"
+    ],
+    "dialogues": []
+  },
+  "a006": {
+    "prefix": "a006",
+    "name_en": "Mother Goat",
+    "name_zh": "羊媽媽",
+    "costumes": [],
+    "models": [
+      "a006_03",
+      "a006_03_hcg_spine"
+    ],
+    "dialogues": []
+  },
+  "a007": {
+    "prefix": "a007",
+    "name_en": "Yuki",
+    "name_zh": "小雪",
+    "costumes": [],
+    "models": [
+      "a007_03_CG_Spine",
+      "a007_03_hcg1_Spine",
+      "a007_04_CG",
+      "a007_04_Spine"
+    ],
+    "dialogues": []
+  },
+  "a008": {
+    "prefix": "a008",
+    "name_en": "Mermaid",
+    "name_zh": "美人魚",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "a009": {
+    "prefix": "a009",
+    "name_en": "Belle",
+    "name_zh": "貝兒",
+    "costumes": [],
+    "models": [
+      "a009_03_CG",
+      "a009_03_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "a010": {
+    "prefix": "a010",
+    "name_en": "Mysterious Figure",
+    "name_zh": "神秘人士",
+    "costumes": [],
+    "models": [
+      "a010_01_CG"
+    ],
+    "dialogues": []
+  },
+  "b001": {
+    "prefix": "b001",
+    "name_en": "Tin Soldier",
+    "name_zh": "小錫兵",
+    "costumes": [],
+    "models": [
+      "b001",
+      "b001_01_nightshot_CG",
+      "b001_03_hcg1_spine"
+    ],
+    "dialogues": []
+  },
+  "b002": {
+    "prefix": "b002",
+    "name_en": "Kinreiko",
+    "name_zh": "金禮子",
+    "costumes": [],
+    "models": [
+      "b002_02",
+      "b002_02_hcg1_spine"
+    ],
+    "dialogues": []
+  },
+  "b003": {
+    "prefix": "b003",
+    "name_en": "Milnes",
+    "name_zh": "蜜爾妮絲",
+    "costumes": [],
+    "models": [
+      "b003_02",
+      "b003_02_hcg1",
+      "b003_04_CG",
+      "b003_04_hcg1"
+    ],
+    "dialogues": []
+  },
+  "b004": {
+    "prefix": "b004",
+    "name_en": "March Hare",
+    "name_zh": "三月兔",
+    "costumes": [],
+    "models": [
+      "b004_01_CG",
+      "b004_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "b005": {
+    "prefix": "b005",
+    "name_en": "Aunt Tigress",
+    "name_zh": "虎姑婆",
+    "costumes": [],
+    "models": [
+      "b005_03_edit00",
+      "b005_03_hcg1_spine"
+    ],
+    "dialogues": []
+  },
+  "b006": {
+    "prefix": "b006",
+    "name_en": "Hansel",
+    "name_zh": "韓賽兒",
+    "costumes": [],
+    "models": [
+      "b006_03_CG",
+      "b006_03_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "b007": {
+    "prefix": "b007",
+    "name_en": "Eaves",
+    "name_zh": "伊布絲",
+    "costumes": [],
+    "models": [
+      "b007_01_CG",
+      "b007_01_hcg",
+      "b007_03",
+      "b007_03_hcg1"
+    ],
+    "dialogues": []
+  },
+  "b008": {
+    "prefix": "b008",
+    "name_en": "Drizella",
+    "name_zh": "崔西里亞",
+    "costumes": [],
+    "models": [
+      "b008_01_cg",
+      "b008_01_hcg",
+      "b008_02",
+      "b008_02_hcg1_1"
+    ],
+    "dialogues": []
+  },
+  "b009": {
+    "prefix": "b009",
+    "name_en": "Shuten-douji",
+    "name_zh": "酒吞童子",
+    "costumes": [],
+    "models": [
+      "b009_03_01_hcg1",
+      "b009_03_CG_Spine",
+      "b009_04",
+      "b009_04_01_hcg",
+      "b009_04_hcg1_2_spine"
+    ],
+    "dialogues": []
+  },
+  "b010": {
+    "prefix": "b010",
+    "name_en": "Dracula",
+    "name_zh": "德古拉",
+    "costumes": [],
+    "models": [
+      "b010_03_CG_Spine",
+      "b010_03_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "c001": {
+    "prefix": "c001",
+    "name_en": "Dragon",
+    "name_zh": "巨龍",
+    "costumes": [],
+    "models": [
+      "c001_01",
+      "c001_01_hcg1_FIN_Spine",
+      "c001_03_CG_Spine",
+      "c001_03_hcg1"
+    ],
+    "dialogues": []
+  },
+  "c002": {
+    "prefix": "c002",
+    "name_en": "North Wind",
+    "name_zh": "北風",
+    "costumes": [],
+    "models": [
+      "c002_01_CG",
+      "c002_01_hcg1",
+      "c002_03",
+      "c002_03_hcg1"
+    ],
+    "dialogues": []
+  },
+  "c003": {
+    "prefix": "c003",
+    "name_en": "Gabriel",
+    "name_zh": "加百列",
+    "costumes": [],
+    "models": [
+      "c003_01_CG_Spine",
+      "c003_01_hcg_spine"
+    ],
+    "dialogues": []
+  },
+  "c004": {
+    "prefix": "c004",
+    "name_en": "Ugly Duckling",
+    "name_zh": "醜小鴨",
+    "costumes": [
+      {
+        "en": "Eccentric April Fool",
+        "zh": "怪誕愚人"
+      }
+    ],
+    "models": [
+      "c004_03_CG",
+      "c004_03_hcg1_Spine",
+      "c004_04_fas_CG_Spine",
+      "c004_04_hcg1",
+      "c004_05_CG",
+      "c004_05_hcg1"
+    ],
+    "dialogues": []
+  },
+  "c005": {
+    "prefix": "c005",
+    "name_en": "Amaterasu",
+    "name_zh": "天照",
+    "costumes": [],
+    "models": [
+      "c005_03_CG_Spine",
+      "c005_03_hcg1_Spine",
+      "c005_03_story"
+    ],
+    "dialogues": []
+  },
+  "c007": {
+    "prefix": "c007",
+    "name_en": "Captain Hook",
+    "name_zh": "虎克",
+    "costumes": [
+      {
+        "en": "Eccentric April Fool",
+        "zh": "怪誕愚人"
+      }
+    ],
+    "models": [
+      "c007_01_CG",
+      "c007_01_hcg",
+      "c007_03_CG",
+      "c007_03_fas_CG_Spine",
+      "c007_03_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "d001": {
+    "prefix": "d001",
+    "name_en": "Jafar",
+    "name_zh": "賈法爾",
+    "costumes": [],
+    "models": [
+      "d001_03_CG",
+      "d001_03_hcg1",
+      "d001_04_CG",
+      "d001_04_hcg1"
+    ],
+    "dialogues": []
+  },
+  "d002": {
+    "prefix": "d002",
+    "name_en": "Frankenstein",
+    "name_zh": "科學怪人",
+    "costumes": [],
+    "models": [
+      "d002_01_cg",
+      "d002_01_hcg1",
+      "d002_03_CG",
+      "d002_03_hcg1_spine",
+      "d002_04_CG",
+      "d002_04_hcg1"
+    ],
+    "dialogues": []
+  },
+  "d003": {
+    "prefix": "d003",
+    "name_en": "Zhuge Liang",
+    "name_zh": "諸葛亮",
+    "costumes": [],
+    "models": [
+      "d003_03_CG_Spine",
+      "d003_03_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "e001": {
+    "prefix": "e001",
+    "name_en": "Cinderella",
+    "name_zh": "仙度瑞拉",
+    "costumes": [],
+    "models": [
+      "e001_01_CG",
+      "e001_01_hcg1_Spine",
+      "e001_04_CG_spine",
+      "e001_04_hcg1"
+    ],
+    "dialogues": []
+  },
+  "e002": {
+    "prefix": "e002",
+    "name_en": "Snow White",
+    "name_zh": "白雪",
+    "costumes": [],
+    "models": [
+      "e002_03_CG",
+      "e002_03_hcg1",
+      "e002_04_CG_Spine",
+      "e002_04_hcg_Spine"
+    ],
+    "dialogues": []
+  },
+  "e003": {
+    "prefix": "e003",
+    "name_en": "Little Red Riding Hood",
+    "name_zh": "小紅帽",
+    "costumes": [],
+    "models": [
+      "e003_03_CG",
+      "e003_03_hcg1"
+    ],
+    "dialogues": []
+  },
+  "e004": {
+    "prefix": "e004",
+    "name_en": "Dorothy",
+    "name_zh": "桃樂絲",
+    "costumes": [],
+    "models": [
+      "e004_01_CG",
+      "e004_01_hcg",
+      "e004_02",
+      "e004_02_Teaching",
+      "e004_02_hcg1",
+      "e004_04",
+      "e004_04_hcg1",
+      "e004_04_hcg2"
+    ],
+    "dialogues": []
+  },
+  "e005": {
+    "prefix": "e005",
+    "name_en": "Kaguya",
+    "name_zh": "輝夜",
+    "costumes": [],
+    "models": [
+      "e005_03_CG",
+      "e005_03_hcg1"
+    ],
+    "dialogues": []
+  },
+  "e006": {
+    "prefix": "e006",
+    "name_en": "Tinkerbell",
+    "name_zh": "叮噹小仙",
+    "costumes": [],
+    "models": [
+      "e006_03_CG_Spine",
+      "e006_03_hcg1"
+    ],
+    "dialogues": []
+  },
+  "e007": {
+    "prefix": "e007",
+    "name_en": "Valkyrie",
+    "name_zh": "女武神",
+    "costumes": [],
+    "models": [
+      "e007_02_CG",
+      "e007_02_hcg",
+      "e007_04_CG_Spine",
+      "e007_04_hcg1"
+    ],
+    "dialogues": []
+  },
+  "e008": {
+    "prefix": "e008",
+    "name_en": "Sleeping Beauty",
+    "name_zh": "睡美人",
+    "costumes": [],
+    "models": [
+      "e008_03_CG",
+      "e008_03_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "e009": {
+    "prefix": "e009",
+    "name_en": "Rapunzel",
+    "name_zh": "長髮公主",
+    "costumes": [],
+    "models": [
+      "e009_01_CG",
+      "e009_01_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "f001": {
+    "prefix": "f001",
+    "name_en": "Medusa",
+    "name_zh": "梅杜莎",
+    "costumes": [],
+    "models": [
+      "f001_03_CG",
+      "f001_03_hcg1"
+    ],
+    "dialogues": []
+  },
+  "f002": {
+    "prefix": "f002",
+    "name_en": "Lucifer",
+    "name_zh": "路西法",
+    "costumes": [
+      {
+        "en": "Eccentric April Fool",
+        "zh": "怪誕愚人"
+      }
+    ],
+    "models": [
+      "f002_01_CG",
+      "f002_01_hcg",
+      "f002_03",
+      "f002_03_fas_CG_Spine",
+      "f002_03_hcg1",
+      "f002_04_cg",
+      "f002_04_hcg1"
+    ],
+    "dialogues": []
+  },
+  "f003": {
+    "prefix": "f003",
+    "name_en": "Beelzebub",
+    "name_zh": "別西卜",
+    "costumes": [],
+    "models": [
+      "f003_03_CG",
+      "f003_03_hcg1_Spine",
+      "f003_04_CG_Spine",
+      "f003_04_hcg1"
+    ],
+    "dialogues": []
+  },
+  "f004": {
+    "prefix": "f004",
+    "name_en": "Leviathan",
+    "name_zh": "利維坦",
+    "costumes": [],
+    "models": [
+      "f004_03_CG",
+      "f004_03_hcg01"
+    ],
+    "dialogues": []
+  },
+  "f005": {
+    "prefix": "f005",
+    "name_en": "Mammon",
+    "name_zh": "瑪門",
+    "costumes": [],
+    "models": [
+      "f005_01_CG",
+      "f005_01_hcg",
+      "f005_02_edit00",
+      "f005_02_hcg"
+    ],
+    "dialogues": []
+  },
+  "f006": {
+    "prefix": "f006",
+    "name_en": "Belphegor",
+    "name_zh": "貝爾芬格",
+    "costumes": [],
+    "models": [
+      "f006_01_CG",
+      "f006_01_hcg",
+      "f006_03",
+      "f006_03_Hcg_Spine"
+    ],
+    "dialogues": []
+  },
+  "f007": {
+    "prefix": "f007",
+    "name_en": "Asmodeus",
+    "name_zh": "阿斯蒙蒂斯",
+    "costumes": [],
+    "models": [
+      "f007_02",
+      "f007_02_hcg1"
+    ],
+    "dialogues": []
+  },
+  "f008": {
+    "prefix": "f008",
+    "name_en": "Satan",
+    "name_zh": "撒旦",
+    "costumes": [],
+    "models": [
+      "f008_02",
+      "f008_02_hcg01"
+    ],
+    "dialogues": []
+  },
+  "ct001": {
+    "prefix": "ct001",
+    "name_en": "Arthur",
+    "name_zh": "亞瑟",
+    "costumes": [],
+    "models": [
+      "ct001_CG",
+      "ct001_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct002": {
+    "prefix": "ct002",
+    "name_en": "Lancelot",
+    "name_zh": "蘭斯洛特",
+    "costumes": [],
+    "models": [
+      "ct002_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct003": {
+    "prefix": "ct003",
+    "name_en": "Guinevere",
+    "name_zh": "桂妮薇亞",
+    "costumes": [],
+    "models": [
+      "ct003_CG",
+      "ct003_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct004": {
+    "prefix": "ct004",
+    "name_en": "Merlin",
+    "name_zh": "梅林",
+    "costumes": [],
+    "models": [
+      "ct004_CG",
+      "ct004_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct005": {
+    "prefix": "ct005",
+    "name_en": "Gawain",
+    "name_zh": "高文",
+    "costumes": [],
+    "models": [
+      "ct005_CG",
+      "ct005_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct006": {
+    "prefix": "ct006",
+    "name_en": "Mordred",
+    "name_zh": "莫德雷德",
+    "costumes": [],
+    "models": [
+      "ct006_CG",
+      "ct006_hcg1"
+    ],
+    "dialogues": []
+  },
+  "story_free_hcg01": {
+    "prefix": "story_free_hcg01",
+    "name_en": "Prologue: Cinderella's Submission",
+    "name_zh": "序幕：仙度瑞拉契約",
+    "costumes": [],
+    "models": [
+      "story_free_hcg01"
+    ],
+    "dialogues": [
+      "[Cinderella] Give me strength?",
+      "[Cinderella] So the price is really... my life？My soul?",
+      "[Master] I don't take those kinds of things.",
+      "[Master] If you are willing to give yourself to me, show me your sincerity.",
+      "[Master] Take off my pants.",
+      "[Cinderella] Eh？P-pants...?",
+      "[Sylv] Do you not know what to do?",
+      "[Sylv] Should Sylv give you a few tips?",
+      "Holding the timid Cinderella, Sylv spoke by her ear in a seductive whisper. In tandem with Sylv's long breaths, Cinderella's eyes gradually lost focus.",
+      "[Cinderella] No... I...",
+      "[Cinderella] Yes, I know what to do...",
+      "Cinderella put her face close to ${playername}'s crotch, and pulled down the zipper of his pants with her teeth. She also pulled off her top, revealing her plump, fair, and soft breasts.",
+      "[Master] Oh... look at you. Who taught you this?",
+      "[Cinderella] My sisters did...",
+      "[Cinderella] This... will make my future husband happy...",
+      "[Cinderella] I will be happy... and my husband will be happy too...",
+      "[Master] You're beautiful, aren't you？What full breasts you have, and fair and tender skin...",
+      "[Master] What should you do next？I think there is more to your sister's education than that, right?",
+      "[Cinderella] Well... next...",
+      "Cinderella stared at the rod in her hands and couldn't help but part her lips out of instinct.",
+      "[Cinderella] (It feels so fishy and smelly, but I can't stop... I like it...)",
+      "[Cinderella] (My breasts are also strange, I've never felt like this before, it's tingly... I want to...)",
+      "[Master] Good job... giving in to your desires honestly...",
+      "[Cinderella] My-my desires... mmm...",
+      "[Cinderella] (The liquid at the top of the rod... is so salty, I want to... I want to lick it all up... Yes, that's all it takes...!)"
+    ]
+  },
+  "story_free_hcg02": {
+    "prefix": "story_free_hcg02",
+    "name_en": "Prologue: Morning Desire",
+    "name_zh": "序幕：清晨的慾望",
+    "costumes": [],
+    "models": [
+      "story_free_hcg02_spine"
+    ],
+    "dialogues": [
+      "[Lupin] ... Good morning, Lord Archfiend.",
+      "[Master] When you greet someone, shouldn't you look them in the eye?",
+      "[Master] Are you going to have my rod as a delicious breakfast?",
+      "[Lupin] After all, I tasted Lord Archfiend yesterday. Isn't morning the time for men to be in heat?",
+      "[Lupin] ... This is considered \"common interest\".",
+      "[Lupin] Wanting to have a good taste of such a rare and delicious magic power in the morning... it is only natural, isn't it?",
+      "[Master] Don't lie to yourself about the magic....",
+      "[Master] That is merely a condiment, you are simply addicted to the taste of my semen.",
+      "[Lupin] How is it possible... Although... Lord Archfiend's semen has a fascinating taste...",
+      "[Lupin] Why is it so rich and delicious...?",
+      "[Master] It's simple, consume protein, natural foods high in magic content every day...",
+      "[Master] Making love to a woman in bed at night, sleeping until dawn, never leaving fatigue and semen to the next day.",
+      "[Master] With a healthy spirit and body, semen will be thick and abundant...",
+      "[Master] After all, women are very sensitive, they can taste from the semen what was eaten last night.",
+      "[Lupin] Mmm... this taste... can be said to be a delicious memory of a lifetime...",
+      "[Lupin] The sweet, slightly fishy taste invades the brain... addictive like a dessert...",
+      "[Lupin] Whew, mmm... it's like being branded... I can never go back...",
+      "[Lupin] Mmmm... the head is still twitching... it feels good, doesn't it？So cute...",
+      "[Master] You don't have to be so polite.",
+      "[Master] Eat up, breakfast is the source of energy for the day!",
+      "[Lupin] Mmmm...!",
+      "[Lupin] So intense, so early in the morning...",
+      "[Lupin] It's really... mmm... ahhh... so powerful...",
+      "[Lupin] Shaking in the deepest part of the throat... hah mmm...",
+      "[Lupin] I want to let the cum of your cock come out thickly in my throat..."
+    ]
+  },
+  "story_free_hcg03": {
+    "prefix": "story_free_hcg03",
+    "name_en": "Prologue: Sun's Awakening",
+    "name_zh": "序幕：太陽的甦醒",
+    "costumes": [],
+    "models": [
+      "story_free_hcg03_FIN_Spine"
+    ],
+    "dialogues": [
+      "[North Wind] Damned Sun... I swear！Next time... I will never lose again!",
+      "[Master] How many times have you sworn on that?",
+      "[North Wind] Hmm？It's you... you seem to be a very powerful man.",
+      "[North Wind] If it weren't for my nemesis—Sun, I wouldn't be able to resist challenging you right now!",
+      "[Master] Oh... isn't that great？I'm here to challenge you.",
+      "[North Wind] ... It's funny, I'm usually the one who challenges Sun, but I didn't think anyone would want to challenge me.",
+      "[North Wind] What will be the challenge？Come on！I'm going to win, so be prepared to regret it!",
+      "[North Wind] I thought we were competing... but turns out you just wanted to do something horny.",
+      "Holding ${playername}'s rod lightly, North Wind showed a somewhat playful smile.",
+      "[Master] You know that this is a competition, don't you?",
+      "[North Wind] You seem to have a lot of confidence in your own rod... but I'm not going to lose.",
+      "[North Wind] I don't know why I always lose to Sun...",
+      "[North Wind] But I'll make you cry with pleasure soon...♥",
+      "[North Wind] It's so heavy, you must have a lot inside, huh?",
+      "[Master] The amount you can squeeze out depends on your ability.",
+      "[North Wind] So much in one day... you were really born to satisfy women.",
+      "North Wind fondled the sac under the rod, as if weighing it with her hand while stroking the wrinkled skin.",
+      "[Master] Don't get me wrong, it's you who want to satisfy me.",
+      "[North Wind] Isn't it comfortable？The rod looks so delicious...",
+      "[Master] A man who can't make his woman happy is a sorry man indeed.",
+      "[North Wind] I've always had the desire to suck on a rod...",
+      "The rod stimulated by North Wind's masturbation was gradually becoming red from her teasing.",
+      "[North Wind] Just licking it is making my head tingle ♥ It's a rod that will make women fall~",
+      "[North Wind] From the past to now, how many women have cried for this stick...？Hmm?",
+      "[Master] Don't worry, they were all tears of joy."
+    ]
+  },
+  "story_hcg01": {
+    "prefix": "story_hcg01",
+    "name_en": "Ch. 1: Dark Fortress Contract",
+    "name_zh": "第一章：黑森林契約",
+    "costumes": [],
+    "models": [
+      "story_hcg01_1_Spine"
+    ],
+    "dialogues": [
+      "[Master] ... getting me here, and lying in bed like this, this is no longer part of your \"lovely invitation\", is it?",
+      "[Lupin] Hehe, as a token of appreciation... is it not to your liking?",
+      "[Lupin] I'm baring it all... and putting myself on open display for you, though?",
+      "[Lupin] Having you plaster your eyes on me like that... I'm feeling shy.",
+      "[Lupin] ... this is the first time I'm being so bold.",
+      "[Master] I see... Then why don't you try to seduce me?",
+      "[Lupin] Phew... it really isn't going as well as I thought...",
+      "[Lupin] Then, please take a look at how much I want you... how obsessed I am with you.",
+      "[Lupin] Mmmm... Lord Archfiend... ahh...",
+      "[Lupin] I want to be conquered by your rod, my pussy is already so swollen...♥",
+      "[Lupin] Will you caress me like this?",
+      "[Lupin] Will you... open up my wet pussy... with your fingers like this?",
+      "[Lupin] Let my thirsty pussy... be pumped by your finger...",
+      "[Lupin] So, so good... mmm hah...",
+      "[Lupin] I want more... more stimulation...",
+      "[Lupin] Mmm, mmm... mmm ngh... mmm...",
+      "[Master] Is that enough for you?",
+      "[Lupin] No way...!",
+      "[Lupin] How can f-fingers... ever compare to Lord Archfiend's meat rod?",
+      "[Master] Is that so？Then imagine hard. My rod is rubbing your pussy, isn't it?",
+      "[Lupin] You meanie... keep rubbing on the outside like this... mmm...",
+      "[Master] We're just knocking on the door now. My rod is a perfect gentleman. Doesn't it feel good?",
+      "Arsène's fingers toyed with her hardened clitoris. The stimulation coursed through her like an electric current, causing her to raise her hips uncontrollably. Driven by ${playername} words, it was as if she was actually being teased while rubbed by the rod.",
+      "[Lupin] So comfortable... want more... more stimulation...",
+      "[Master] I won't go in... until the rod is completely wet, you know...?"
+    ]
+  },
+  "story_hcg02": {
+    "prefix": "story_hcg02",
+    "name_en": "Ch. 1: Emerald Realm Secrets",
+    "name_zh": "第一章：翡翠國秘辛",
+    "costumes": [],
+    "models": [
+      "story_hcg02_spine"
+    ],
+    "dialogues": [
+      "The magnificent fortress stood in the black forest, its walls covered with vines and gargoyle statues with eerie smiles dotted the walls. Any unwelcome visitors were mercilessly shot.",
+      "From that dark and scary appearance, no one could imagine that an intense carnal party was taking place in the old castle.",
+      "[Naphissa] It's time to nourish my skin again.",
+      "[Male Consort] Ahhhh, Miss Sorceress... what a beautiful body...",
+      "[Naphissa] It's nice that your rods are erect... you're qualified as my lovely pets.",
+      "[Naphissa] Come on, let's start the much-anticipated night of sperm-squeezing ♥~",
+      "In the steamy bath, countless men with their erect rods waited for the sorceress they serve, gazing eagerly at her beautiful, proud breasts, and flawless body.",
+      "[Naphissa] Hehe, you feel good, don't you?",
+      "[Male Consort] Tss, Miss Sorceress, can you please do it gently... it hurts...",
+      "[Male Consort] Ahh, ahhhh... Miss Sorceress...!",
+      "[Naphissa] Hehe, you're all twisted in pain, and yet your meat rods refuse to soften♥",
+      "[Naphissa] I should just let you masturbate for me, but I'm in a good mood today...",
+      "[Naphissa] It's an honor for your rods to be taken care of by my hands like this~",
+      "Just as Naphissa had said, her hands were casual and rough on the meat rods, even a little tiresome. The milkers at the ranch were probably a thousand times gentler.",
+      "[Male Consort] Thank you for your... love, Miss Sorceress... oww...",
+      "[Naphissa] Very good... you're getting hard even though I'm going this rough~",
+      "[Naphissa] How stupid and cute, dripping with reproductive urges at the sight of breasts ♥~",
+      "[Naphissa] You want to contaminate my body with your inferior semen before you die... don't you?",
+      "[Male Consort] Yes, yes... please give us... the honor of cumming on you...!",
+      "[Male Consort] In order to give you the purest virgin sperm, we have not profaned ourselves at all this week and only consumed fruit and cow's milk to nourish our semen...",
+      "[Naphissa] How dare you boast... in front of me!",
+      "[Naphissa] Hehe... isn't it your rightful duty to take care of my skin?",
+      "[Male Consort] Ah, ahh ahh...！It's too- too intense！Please stop...",
+      "[Male Consort] Ngh...!",
+      "[Male Consort] I'm sorry..."
+    ]
+  },
+  "story_hcg03": {
+    "prefix": "story_hcg03",
+    "name_en": "Ch. 1: Queen's Private Chamber",
+    "name_zh": "第一章：女王閨房",
+    "costumes": [],
+    "models": [
+      "story_hcg03"
+    ],
+    "dialogues": [
+      "[Master] What do you think you're doing, sneaking out of Emerald City in the middle of the night？Planning to run away?",
+      "[Oz] Wow！I'm scared to death... my heart almost stopped...！How did you find out...?",
+      "[Oz] I-I'm not trying to escape!",
+      "[Oz] It's just that... I was too nervous, so I wanted to go to the house I bought secretly in the town to relax...",
+      "[Oz] Everyone in town treats me like a queen and watches my every move.",
+      "[Oz] Ah~ only in my secret base can I really relax...",
+      "[Oz] I'm going to lose my life anyway, right？It's okay to indulge a little before you die!",
+      "[Master] You have a point~ Then shall we do the thing you have to do before you die?",
+      "[Oz] The thing... don't tell me...",
+      "[Oz] Hmm... although I have seen a lot, your rod is really big...",
+      "[Master] It would be a shame to die without experiencing a really big rod, wouldn't it?",
+      "[Master] Just like your huge breasts—I've been wanting to do this for a long time.",
+      "[Oz] Master, if the slave's breasts are to your satisfaction...",
+      "[Oz] Might you be tempted to save my life for the sake of my breasts...？Hmm?",
+      "[Master] Oh？You don't sound like a normal queen, but also very skilled...",
+      "[Oz] Hmm... I'm very good at making people feel good...？The former queen was also satisfied...",
+      "Oz rubbed her breasts to stimulate the rod, while exhaling on the rod like a purring cat, occasionally kissing the tip of the rod, bringing about an unbearable itch.",
+      "[Oz] It's better for me to do pleasing things like this...",
+      "[Oz] I don't have to worry about too many things, just be happy...",
+      "[Oz] I'm going to start something more exciting next...♥",
+      "Covering the rod with her soft breasts, Oz carefully licked the eye of the penis with the tip of her tongue, while also licking the shaft back and forth.",
+      "[Oz] What a delicious rod. The more excited it gets, the more intense the masculine smell is, and I get so wet just smelling it...♥",
+      "[Oz] Hmm hah... hah... I can't stop, I feel like I can keep licking ♥",
+      "[Master] Then keep licking！I'm going to keep fucking these huge tits of yours too, look at how swollen your nipples are.",
+      "[Oz] The nipples are so sensitive like this, mmm, mmmm... you're bullying...♥"
+    ]
+  },
+  "teaching_hcg01": {
+    "prefix": "teaching_hcg01",
+    "name_en": "Tutorial: Seduction Lessons",
+    "name_zh": "教學：魔王侍奉教學",
+    "costumes": [],
+    "models": [
+      "teaching_hcg01_spine"
+    ],
+    "dialogues": [
+      "In your sleep, a wonderful wet feeling came from your meat rod.",
+      "[你] I was having such a nice dream... Who's disturbing me?",
+      "Through your sleepy eyes, you could make out two blurry shapes who seemed to be tasting your cock.",
+      "Two wet tongues were licking the tip of your cock, smearing their sweet saliva all over it at will.",
+      "[你] Ahh, the two of you again.",
+      "[Gretel] Lord Archfiend, you're awake！We have waited so long for you to wake up...",
+      "[Hansel] Hmph, the honorable Lord Archfiend was sleeping so deeply, you might as well just stay asleep.#As long as... the meat rod stands up by itself anyway.",
+      "[你] Hmph, did you miss my rod that much?",
+      "[你] You gals just serve me well!",
+      "[你] It's... Gretel and... Hansel, right?",
+      "[你] What tender, sisterly breasts~",
+      "[Gretel] Hmm... mmm... so sweet and delicious!",
+      "[Gretel] Lord Archfiend tastes just like a lollipop, I can't get enough~♥",
+      "[Gretel] Lord Archfiend, you must be feeling good, your tip is secreting all this sweet juice of pleasure~",
+      "Their youthfully sweet and warm saliva flowed down the tip of your cock, forcing your passionate magic to coalesce there, also making the rod gradually red and swollen.",
+      "[Hansel] I thought you were already at your limit, but you're getting even bigger... Your Lordship's rod really knows no bounds~",
+      "[Gretel] I don't know why, but the more I lick it, the hotter my body gets... it's making me crave it so badly...",
+      "[Hansel] Me too... it's all thanks to the aphrodisiac magic released by Lord Archfiend...",
+      "[Gretel] Is Lord Archfiend feeling good？Your meat...",
+      "[你] Take it!",
+      "[Gretel] Unh!",
+      "[你] Ahhhh~~ very good~~ ahhhh~~~",
+      "The rod was fully wrapped in Gretel's warm and wet mouth.",
+      "[Gretel] Lord Archfiend's tip is so majestic... I can't fit all of it in...",
+      "In the wetness, you can also clearly feel Gretel's naughty, wriggling tongue brushing up and down, gently cleaning the meat rod."
+    ]
+  },
+  "mb015": {
+    "prefix": "mb015",
+    "name_en": "Blazing Cleric",
+    "name_zh": "烈火祭司",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb025": {
+    "prefix": "mb025",
+    "name_en": "Anxious Urchin",
+    "name_zh": "焦慮惡童",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "d005": {
+    "prefix": "d005",
+    "name_en": "Himiko",
+    "name_zh": "卑彌呼",
+    "costumes": [],
+    "models": [
+      "d005_03_CG_Spine",
+      "d005_03_hcg1_spine"
+    ],
+    "dialogues": []
+  },
+  "d007": {
+    "prefix": "d007",
+    "name_en": "Beth",
+    "name_zh": "碧絲",
+    "costumes": [],
+    "models": [
+      "d007_02_CG",
+      "d007_02_hcg1"
+    ],
+    "dialogues": []
+  },
+  "d008": {
+    "prefix": "d008",
+    "name_en": "Dorothy",
+    "name_zh": "桃樂絲",
+    "costumes": [],
+    "models": [
+      "d008_03",
+      "d008_03_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "d009": {
+    "prefix": "d009",
+    "name_en": "Naphissa",
+    "name_zh": "奈菲瑟",
+    "costumes": [],
+    "models": [
+      "d009_03_CG",
+      "d009_03_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "d010": {
+    "prefix": "d010",
+    "name_en": "Anubis",
+    "name_zh": "阿努比斯",
+    "costumes": [],
+    "models": [
+      "d010_02_CG_Spine",
+      "d010_02_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "g025": {
+    "prefix": "g025",
+    "name_en": "Red",
+    "name_zh": "小紅帽",
+    "costumes": [],
+    "models": [
+      "g025_01",
+      "g025_01_hcg1_Spine",
+      "g025_03_cg",
+      "g025_03_hcg01"
+    ],
+    "dialogues": []
+  },
+  "ea01": {
+    "prefix": "ea01",
+    "name_en": "Pinocchio",
+    "name_zh": "皮諾丘",
+    "costumes": [],
+    "models": [
+      "ea01_01_CG",
+      "ea01_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "li01": {
+    "prefix": "li01",
+    "name_en": "Elizabeth I",
+    "name_zh": "伊莉莎白一世",
+    "costumes": [],
+    "models": [
+      "li01_01_CG_Spine",
+      "li01_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "fi04": {
+    "prefix": "fi04",
+    "name_en": "Wu Zetian",
+    "name_zh": "武則天",
+    "costumes": [],
+    "models": [
+      "fi04_01_CG_Spine",
+      "fi04_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "wi04": {
+    "prefix": "wi04",
+    "name_en": "Tengu",
+    "name_zh": "大天狗",
+    "costumes": [],
+    "models": [
+      "wi04_01_CG_Spine",
+      "wi04_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "wa06": {
+    "prefix": "wa06",
+    "name_en": "Ping",
+    "name_zh": "萍",
+    "costumes": [],
+    "models": [
+      "wa06_01_CG",
+      "wa06_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "da06": {
+    "prefix": "da06",
+    "name_en": "Yama",
+    "name_zh": "閻羅",
+    "costumes": [],
+    "models": [
+      "da06_01",
+      "da06_01_CG"
+    ],
+    "dialogues": []
+  },
+  "da04": {
+    "prefix": "da04",
+    "name_en": "Orochi",
+    "name_zh": "八岐大蛇",
+    "costumes": [],
+    "models": [
+      "da04_01_CG_Spine",
+      "da04_01_hcg1",
+      "da04_02_CG"
+    ],
+    "dialogues": []
+  },
+  "wa04": {
+    "prefix": "wa04",
+    "name_en": "Chang'e",
+    "name_zh": "嫦娥",
+    "costumes": [],
+    "models": [
+      "wa04_01_CG_Spine",
+      "wa04_01_hcg01"
+    ],
+    "dialogues": []
+  },
+  "fi05": {
+    "prefix": "fi05",
+    "name_en": "Sakiko",
+    "name_zh": "咲子",
+    "costumes": [],
+    "models": [
+      "FI05",
+      "fi05_01_CG_Spine"
+    ],
+    "dialogues": []
+  },
+  "wi01": {
+    "prefix": "wi01",
+    "name_en": "Rinko",
+    "name_zh": "凜子",
+    "costumes": [],
+    "models": [
+      "wi01_01_CG_Spine",
+      "wi01_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "wi03": {
+    "prefix": "wi03",
+    "name_en": "Martha",
+    "name_zh": "瑪莎",
+    "costumes": [],
+    "models": [
+      "wi03_01_CG_Spine",
+      "wi03_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "da05": {
+    "prefix": "da05",
+    "name_en": "Hela",
+    "name_zh": "海拉",
+    "costumes": [],
+    "models": [
+      "da05_01_CG",
+      "da05_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "li02": {
+    "prefix": "li02",
+    "name_en": "Lucifer",
+    "name_zh": "路西法",
+    "costumes": [],
+    "models": [
+      "li02_01",
+      "li02_01_CG"
+    ],
+    "dialogues": []
+  },
+  "wa02": {
+    "prefix": "wa02",
+    "name_en": "Poseidon",
+    "name_zh": "波賽頓",
+    "costumes": [],
+    "models": [
+      "wa02_01_CG",
+      "wa02_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ea05": {
+    "prefix": "ea05",
+    "name_en": "Cheung-san",
+    "name_zh": "將臣",
+    "costumes": [],
+    "models": [
+      "ea05_01",
+      "ea05_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ea03": {
+    "prefix": "ea03",
+    "name_en": "Lanmei",
+    "name_zh": "懶妹",
+    "costumes": [],
+    "models": [
+      "ea03_01",
+      "ea03_01_hcg1",
+      "ea03_01_hcg1_2_spine"
+    ],
+    "dialogues": []
+  },
+  "da03": {
+    "prefix": "da03",
+    "name_en": "Melody",
+    "name_zh": "Melody",
+    "costumes": [],
+    "models": [
+      "da03",
+      "da03_01_CG",
+      "da03_0_hcg"
+    ],
+    "dialogues": []
+  },
+  "wa08": {
+    "prefix": "wa08",
+    "name_en": "Cleopatra",
+    "name_zh": "克麗奧佩脫拉",
+    "costumes": [],
+    "models": [
+      "wa08_01_CG",
+      "wa08_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "cq10": {
+    "prefix": "cq10",
+    "name_en": "Loki",
+    "name_zh": "洛基",
+    "costumes": [],
+    "models": [
+      "cq10_01_CG",
+      "cq10_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "wa05": {
+    "prefix": "wa05",
+    "name_en": "Thetis",
+    "name_zh": "忒提斯",
+    "costumes": [],
+    "models": [
+      "wa05_01_CG",
+      "wa05_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "fi10": {
+    "prefix": "fi10",
+    "name_en": "Hephaestus",
+    "name_zh": "赫菲斯托斯",
+    "costumes": [],
+    "models": [
+      "fi10_01_CG",
+      "fi10_01_hcg1"
+    ],
+    "dialogues": []
+  },
+  "cq03": {
+    "prefix": "cq03",
+    "name_en": "Aphrodite",
+    "name_zh": "阿芙羅狄忒",
+    "costumes": [],
+    "models": [
+      "cq03_01_CG",
+      "cq03_01_hcg1_Spine"
+    ],
+    "dialogues": []
+  },
+  "ct026": {
+    "prefix": "ct026",
+    "name_en": "Apathy",
+    "name_zh": "埃帕蒂",
+    "costumes": [],
+    "models": [
+      "ct026_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct027": {
+    "prefix": "ct027",
+    "name_en": "Lucia",
+    "name_zh": "璐茜婭",
+    "costumes": [],
+    "models": [
+      "ct027_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct028": {
+    "prefix": "ct028",
+    "name_en": "Rafael",
+    "name_zh": "菈法瑞",
+    "costumes": [],
+    "models": [
+      "ct028_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct025": {
+    "prefix": "ct025",
+    "name_en": "Tsukuyomi",
+    "name_zh": "月讀",
+    "costumes": [],
+    "models": [
+      "ct025_cg",
+      "ct025_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct029": {
+    "prefix": "ct029",
+    "name_en": "Shima Itsuki",
+    "name_zh": "伊月志摩",
+    "costumes": [],
+    "models": [
+      "ct029_CG",
+      "ct029_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct030": {
+    "prefix": "ct030",
+    "name_en": "Ayaka Yoshino",
+    "name_zh": "吉野絢花",
+    "costumes": [],
+    "models": [
+      "ct030_CG",
+      "ct030_hcg"
+    ],
+    "dialogues": []
+  },
+  "ct031": {
+    "prefix": "ct031",
+    "name_en": "Kiriko Hitomi",
+    "name_zh": "仁見霧子",
+    "costumes": [],
+    "models": [
+      "ct031_CG",
+      "ct031_hcg"
+    ],
+    "dialogues": []
+  },
+  "ct010": {
+    "prefix": "ct010",
+    "name_en": "Urd",
+    "name_zh": "烏爾德",
+    "costumes": [],
+    "models": [
+      "ct010_CG",
+      "ct010_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct011": {
+    "prefix": "ct011",
+    "name_en": "Verthandi",
+    "name_zh": "薇兒丹蒂",
+    "costumes": [],
+    "models": [
+      "ct011_CG",
+      "ct011_hcg"
+    ],
+    "dialogues": []
+  },
+  "ct012": {
+    "prefix": "ct012",
+    "name_en": "Skuld",
+    "name_zh": "詩蔻蒂",
+    "costumes": [],
+    "models": [
+      "ct012_CG",
+      "ct012_hcg"
+    ],
+    "dialogues": []
+  },
+  "ct014": {
+    "prefix": "ct014",
+    "name_en": "Susanoo",
+    "name_zh": "素戔嗚尊",
+    "costumes": [],
+    "models": [
+      "ct014_CG",
+      "ct014_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct013": {
+    "prefix": "ct013",
+    "name_en": "Izanagi",
+    "name_zh": "伊邪那岐",
+    "costumes": [],
+    "models": [
+      "ct013_CG",
+      "ct013_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct015": {
+    "prefix": "ct015",
+    "name_en": "Izanami",
+    "name_zh": "伊邪那美",
+    "costumes": [],
+    "models": [
+      "ct015_CG",
+      "ct015_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct007": {
+    "prefix": "ct007",
+    "name_en": "Li Ping'er",
+    "name_zh": "李瓶兒",
+    "costumes": [],
+    "models": [
+      "ct007_CG",
+      "ct007_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct021": {
+    "prefix": "ct021",
+    "name_en": "Hamlet",
+    "name_zh": "哈姆雷特",
+    "costumes": [],
+    "models": [
+      "ct021_CG",
+      "ct021_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct022": {
+    "prefix": "ct022",
+    "name_en": "Gertrude",
+    "name_zh": "葛楚",
+    "costumes": [],
+    "models": [
+      "ct022_CG",
+      "ct022_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct023": {
+    "prefix": "ct023",
+    "name_en": "Claudius",
+    "name_zh": "克勞迪",
+    "costumes": [],
+    "models": [
+      "ct023_CG",
+      "ct023_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct009": {
+    "prefix": "ct009",
+    "name_en": "Jade Rabbit",
+    "name_zh": "玉兔",
+    "costumes": [],
+    "models": [
+      "ct009_CG",
+      "ct009_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct024": {
+    "prefix": "ct024",
+    "name_en": "Mier",
+    "name_zh": "蜜兒",
+    "costumes": [],
+    "models": [
+      "ct024_CG",
+      "ct024_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct020": {
+    "prefix": "ct020",
+    "name_en": "Mary",
+    "name_zh": "瑪麗",
+    "costumes": [],
+    "models": [
+      "ct020_CG",
+      "ct020_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct016": {
+    "prefix": "ct016",
+    "name_en": "Nakira",
+    "name_zh": "娜奇拉",
+    "costumes": [],
+    "models": [
+      "ct016_CG",
+      "ct016_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct017": {
+    "prefix": "ct017",
+    "name_en": "Rurie Munakata",
+    "name_zh": "宗像瑠璃江",
+    "costumes": [],
+    "models": [
+      "ct017_CG",
+      "ct017_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct018": {
+    "prefix": "ct018",
+    "name_en": "Nakoto Munakata",
+    "name_zh": "宗像奈琴",
+    "costumes": [],
+    "models": [
+      "ct018_CG",
+      "ct018_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct019": {
+    "prefix": "ct019",
+    "name_en": "Ren Takahara",
+    "name_zh": "嵩原戀",
+    "costumes": [],
+    "models": [
+      "ct019_CG",
+      "ct019_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct008": {
+    "prefix": "ct008",
+    "name_en": "Mia",
+    "name_zh": "米婭",
+    "costumes": [],
+    "models": [
+      "ct008_CG",
+      "ct008_CG_fas",
+      "ct008_hcg01"
+    ],
+    "dialogues": []
+  },
+  "ct032": {
+    "prefix": "ct032",
+    "name_en": "Hattori Hanzo",
+    "name_zh": "服部半藏",
+    "costumes": [],
+    "models": [
+      "ct032_CG",
+      "ct032_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct033": {
+    "prefix": "ct033",
+    "name_en": "Mochizuki Chiyome",
+    "name_zh": "望月千代女",
+    "costumes": [],
+    "models": [
+      "ct033_CG",
+      "ct033_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct034": {
+    "prefix": "ct034",
+    "name_en": "Sasuke Sarutobi",
+    "name_zh": "猿飛佐助",
+    "costumes": [],
+    "models": [
+      "ct034_CG",
+      "ct034_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct035": {
+    "prefix": "ct035",
+    "name_en": "Cormoran",
+    "name_zh": "考爾莫蘭",
+    "costumes": [],
+    "models": [
+      "ct035_CG",
+      "ct035_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct036": {
+    "prefix": "ct036",
+    "name_en": "Jack",
+    "name_zh": "傑克",
+    "costumes": [],
+    "models": [
+      "ct036_CG",
+      "ct036_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct037": {
+    "prefix": "ct037",
+    "name_en": "Hamel",
+    "name_zh": "哈梅爾",
+    "costumes": [],
+    "models": [
+      "ct037_CG",
+      "ct037_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct038": {
+    "prefix": "ct038",
+    "name_en": "Janggeum",
+    "name_zh": "徐長今",
+    "costumes": [],
+    "models": [
+      "ct038_CG",
+      "ct038_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct039": {
+    "prefix": "ct039",
+    "name_en": "Eowudong",
+    "name_zh": "於宇同",
+    "costumes": [],
+    "models": [
+      "ct039_CG",
+      "ct039_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct040": {
+    "prefix": "ct040",
+    "name_en": "Chunhyang",
+    "name_zh": "春香",
+    "costumes": [],
+    "models": [
+      "ct040_CG",
+      "ct040_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct043": {
+    "prefix": "ct043",
+    "name_en": "Wukong",
+    "name_zh": "悟空",
+    "costumes": [],
+    "models": [
+      "ct043_CG",
+      "ct043_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct044": {
+    "prefix": "ct044",
+    "name_en": "Wuneng",
+    "name_zh": "悟能",
+    "costumes": [],
+    "models": [
+      "ct044_CG",
+      "ct044_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct045": {
+    "prefix": "ct045",
+    "name_en": "Wujing",
+    "name_zh": "悟淨",
+    "costumes": [],
+    "models": [
+      "ct045_CG",
+      "ct045_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct067": {
+    "prefix": "ct067",
+    "name_en": "Shi Jin",
+    "name_zh": "史進",
+    "costumes": [],
+    "models": [
+      "ct067_CG",
+      "ct067_hcg",
+      "ct067_hcg1_2_spine"
+    ],
+    "dialogues": []
+  },
+  "ct041": {
+    "prefix": "ct041",
+    "name_en": "Cheshire Cat",
+    "name_zh": "咧嘴貓",
+    "costumes": [],
+    "models": [
+      "ct041_CG",
+      "ct041_hcg"
+    ],
+    "dialogues": []
+  },
+  "ct046": {
+    "prefix": "ct046",
+    "name_en": "Sherlock Holmes",
+    "name_zh": "福爾摩斯",
+    "costumes": [],
+    "models": [
+      "ct046_CG",
+      "ct046_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct047": {
+    "prefix": "ct047",
+    "name_en": "Watson",
+    "name_zh": "華生",
+    "costumes": [],
+    "models": [
+      "ct047_CG",
+      "ct047_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct048": {
+    "prefix": "ct048",
+    "name_en": "Jackie",
+    "name_zh": "潔琪",
+    "costumes": [],
+    "models": [
+      "ct048_CG",
+      "ct048_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct051": {
+    "prefix": "ct051",
+    "name_en": "Da Qiao",
+    "name_zh": "大喬",
+    "costumes": [],
+    "models": [
+      "ct051_CG"
+    ],
+    "dialogues": []
+  },
+  "ct052": {
+    "prefix": "ct052",
+    "name_en": "Xiao Qiao",
+    "name_zh": "小喬",
+    "costumes": [],
+    "models": [
+      "ct052_CG",
+      "ct052_hcg"
+    ],
+    "dialogues": []
+  },
+  "ct053": {
+    "prefix": "ct053",
+    "name_en": "Sun Shangxiang",
+    "name_zh": "孫尚香",
+    "costumes": [],
+    "models": [
+      "ct053_CG",
+      "ct053_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct054": {
+    "prefix": "ct054",
+    "name_en": "Odin",
+    "name_zh": "奧丁",
+    "costumes": [],
+    "models": [
+      "ct054_CG",
+      "ct054_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct055": {
+    "prefix": "ct055",
+    "name_en": "Freya",
+    "name_zh": "芙蕾雅",
+    "costumes": [],
+    "models": [
+      "ct055_CG",
+      "ct055_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct056": {
+    "prefix": "ct056",
+    "name_en": "Brynhildr",
+    "name_zh": "布倫希爾德",
+    "costumes": [],
+    "models": [
+      "ct056_CG",
+      "ct056_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct057": {
+    "prefix": "ct057",
+    "name_en": "Rakshasi",
+    "name_zh": "羅剎女",
+    "costumes": [],
+    "models": [
+      "ct057_CG",
+      "ct057_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct058": {
+    "prefix": "ct058",
+    "name_en": "Yu Ning",
+    "name_zh": "玉凝",
+    "costumes": [],
+    "models": [
+      "ct058_CG",
+      "ct058_hcg"
+    ],
+    "dialogues": []
+  },
+  "ct059": {
+    "prefix": "ct059",
+    "name_en": "Zhiying",
+    "name_zh": "織縈",
+    "costumes": [],
+    "models": [
+      "ct059_CG",
+      "ct059_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct050": {
+    "prefix": "ct050",
+    "name_en": "Sweetie Fox",
+    "name_zh": "Sweetie Fox",
+    "costumes": [],
+    "models": [
+      "ct050_CG",
+      "ct050_HCG",
+      "ct050_hcg1_2_spine"
+    ],
+    "dialogues": []
+  },
+  "ct060": {
+    "prefix": "ct060",
+    "name_en": "Miyamoto Musashi",
+    "name_zh": "宮本武藏",
+    "costumes": [],
+    "models": [
+      "ct060_CG",
+      "ct060_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct061": {
+    "prefix": "ct061",
+    "name_en": "Sasaki Kojiro",
+    "name_zh": "佐佐木小次郎",
+    "costumes": [],
+    "models": [
+      "ct061_CG",
+      "ct061_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct062": {
+    "prefix": "ct062",
+    "name_en": "Yagyu Jubei",
+    "name_zh": "柳生十兵衛",
+    "costumes": [
+      {
+        "en": "Frosted Aegis Swimsuit",
+        "zh": "清凜之戰泳"
+      }
+    ],
+    "models": [
+      "ct062_CG",
+      "ct062_HCG",
+      "ct062_fas"
+    ],
+    "dialogues": []
+  },
+  "ct049": {
+    "prefix": "ct049",
+    "name_en": "Mammon",
+    "name_zh": "瑪門",
+    "costumes": [],
+    "models": [
+      "ct049_CG",
+      "ct049_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct042": {
+    "prefix": "ct042",
+    "name_en": "Merlin",
+    "name_zh": "梅林",
+    "costumes": [],
+    "models": [
+      "ct042_CG",
+      "ct042_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct063": {
+    "prefix": "ct063",
+    "name_en": "Athena",
+    "name_zh": "雅典娜",
+    "costumes": [],
+    "models": [
+      "ct063_CG",
+      "ct063_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct064": {
+    "prefix": "ct064",
+    "name_en": "Minerva",
+    "name_zh": "米涅瓦",
+    "costumes": [],
+    "models": [
+      "ct064_CG"
+    ],
+    "dialogues": []
+  },
+  "ct065": {
+    "prefix": "ct065",
+    "name_en": "Pandora",
+    "name_zh": "潘朵拉",
+    "costumes": [],
+    "models": [
+      "ct065_CG",
+      "ct065_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct066": {
+    "prefix": "ct066",
+    "name_en": "Raphael",
+    "name_zh": "拉斐爾",
+    "costumes": [
+      {
+        "en": "Midnight Checkup",
+        "zh": "夜勤密診"
+      }
+    ],
+    "models": [
+      "ct066_CG",
+      "ct066_HCG",
+      "ct066_fas_CG"
+    ],
+    "dialogues": []
+  },
+  "ct068": {
+    "prefix": "ct068",
+    "name_en": "Aoi Hinamori",
+    "name_zh": "Aoi Hinamori",
+    "costumes": [],
+    "models": [
+      "ct068_HCG",
+      "ct068_cg",
+      "ct068_hcg1_2"
+    ],
+    "dialogues": []
+  },
+  "ct102": {
+    "prefix": "ct102",
+    "name_en": "Cupid",
+    "name_zh": "邱比特",
+    "costumes": [],
+    "models": [
+      "ct102_CG",
+      "ct102_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct106": {
+    "prefix": "ct106",
+    "name_en": "Fannina",
+    "name_zh": "凡妮娜",
+    "costumes": [],
+    "models": [
+      "ct106_CG",
+      "ct106_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct069": {
+    "prefix": "ct069",
+    "name_en": "Tachibana",
+    "name_zh": "立花",
+    "costumes": [],
+    "models": [
+      "ct069_CG",
+      "ct069_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct070": {
+    "prefix": "ct070",
+    "name_en": "Tendo Mia",
+    "name_zh": "天童美亞",
+    "costumes": [],
+    "models": [
+      "ct070_CG",
+      "ct070_HCg"
+    ],
+    "dialogues": []
+  },
+  "ct071": {
+    "prefix": "ct071",
+    "name_en": "Amamiya",
+    "name_zh": "雨宮",
+    "costumes": [],
+    "models": [
+      "ct071_CG",
+      "ct071_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct072": {
+    "prefix": "ct072",
+    "name_en": "Marco Polo",
+    "name_zh": "馬可波羅",
+    "costumes": [
+      {
+        "en": "Hidden Gem",
+        "zh": "秘境瑰寶"
+      }
+    ],
+    "models": [
+      "ct072_CG",
+      "ct072_HCG",
+      "ct072_fas",
+      "ct072_fas_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct073": {
+    "prefix": "ct073",
+    "name_en": "Wu Song",
+    "name_zh": "武松",
+    "costumes": [],
+    "models": [
+      "ct073_CG",
+      "ct073_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct074": {
+    "prefix": "ct074",
+    "name_en": "Lu Zhishen",
+    "name_zh": "魯智深",
+    "costumes": [],
+    "models": [
+      "ct074_CG",
+      "ct074_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct075": {
+    "prefix": "ct075",
+    "name_en": "Sun Erniang",
+    "name_zh": "孫二娘",
+    "costumes": [],
+    "models": [
+      "ct075_CG",
+      "ct075_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct076": {
+    "prefix": "ct076",
+    "name_en": "Akaoni",
+    "name_zh": "赤鬼伯伯",
+    "costumes": [],
+    "models": [
+      "ct076_CG",
+      "ct076_HCG",
+      "ct076_hcg1_2_spine",
+      "ct076_hcg1_3"
+    ],
+    "dialogues": []
+  },
+  "ct077": {
+    "prefix": "ct077",
+    "name_en": "Aramis",
+    "name_zh": "亞拉蜜絲",
+    "costumes": [],
+    "models": [
+      "ct077_CG",
+      "ct077_hcg"
+    ],
+    "dialogues": []
+  },
+  "ct078": {
+    "prefix": "ct078",
+    "name_en": "Athos",
+    "name_zh": "愛多絲",
+    "costumes": [],
+    "models": [
+      "ct078_CG",
+      "ct078_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct079": {
+    "prefix": "ct079",
+    "name_en": "Porthos",
+    "name_zh": "波爾朵絲",
+    "costumes": [],
+    "models": [
+      "ct079_CG",
+      "ct079_hcg01"
+    ],
+    "dialogues": []
+  },
+  "ct080": {
+    "prefix": "ct080",
+    "name_en": "Zheng Xiyue",
+    "name_zh": "鄭汐月",
+    "costumes": [],
+    "models": [
+      "ct080_CG",
+      "ct080_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct081": {
+    "prefix": "ct081",
+    "name_en": "D'Artagnan",
+    "name_zh": "達太安",
+    "costumes": [],
+    "models": [
+      "ct081_CG",
+      "ct081_HCG"
+    ],
+    "dialogues": []
+  },
+  "mb020": {
+    "prefix": "mb020",
+    "name_en": "Sapindus Tree Fiend",
+    "name_zh": "無患樹魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb021": {
+    "prefix": "mb021",
+    "name_en": "Cinnamon Tree Fiend",
+    "name_zh": "肉桂樹魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb022": {
+    "prefix": "mb022",
+    "name_en": "Knight of Hearts",
+    "name_zh": "紅心騎士",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb023": {
+    "prefix": "mb023",
+    "name_en": "Turbulent Cleric",
+    "name_zh": "驚濤祭司",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb024": {
+    "prefix": "mb024",
+    "name_en": "Acacia Tree Fiend",
+    "name_zh": "相思樹魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb026": {
+    "prefix": "mb026",
+    "name_en": "Dark Cleric",
+    "name_zh": "黑暗祭司",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb027": {
+    "prefix": "mb027",
+    "name_en": "Bashful Urchin",
+    "name_zh": "羞愧惡童",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb028": {
+    "prefix": "mb028",
+    "name_en": "Hallowed Cleric",
+    "name_zh": "淨土祭司",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb029": {
+    "prefix": "mb029",
+    "name_en": "Scorching Demon",
+    "name_zh": "焚火幽魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb030": {
+    "prefix": "mb030",
+    "name_en": "Evergreen Tree Fiend",
+    "name_zh": "冬青樹魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb031": {
+    "prefix": "mb031",
+    "name_en": "Witherwood Tree Fiend",
+    "name_zh": "枯木樹魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb032": {
+    "prefix": "mb032",
+    "name_en": "Eclipse Demon",
+    "name_zh": "日輪幽魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb033": {
+    "prefix": "mb033",
+    "name_en": "Unclean Malservant",
+    "name_zh": "不潔惡僕",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb034": {
+    "prefix": "mb034",
+    "name_en": "Juniper Tree Fiend",
+    "name_zh": "龍柏樹魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb035": {
+    "prefix": "mb035",
+    "name_en": "Alstonia Tree Fiend",
+    "name_zh": "黑板樹魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb036": {
+    "prefix": "mb036",
+    "name_en": "Smoldering Demon",
+    "name_zh": "織炎幽魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb037": {
+    "prefix": "mb037",
+    "name_en": "Torrential Demon",
+    "name_zh": "怒水幽魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb038": {
+    "prefix": "mb038",
+    "name_en": "Incendiary Cleric",
+    "name_zh": "籠火祭司",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb039": {
+    "prefix": "mb039",
+    "name_en": "Twilight Disciple",
+    "name_zh": "夜暮信徒",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb040": {
+    "prefix": "mb040",
+    "name_en": "Twilight Priest",
+    "name_zh": "夜暮教士",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb041": {
+    "prefix": "mb041",
+    "name_en": "Emerald Knight",
+    "name_zh": "翡翠騎士",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb042": {
+    "prefix": "mb042",
+    "name_en": "Cacao Tree Fiend",
+    "name_zh": "可可樹魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb043": {
+    "prefix": "mb043",
+    "name_en": "Blazing Demon",
+    "name_zh": "烈火幽魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb044": {
+    "prefix": "mb044",
+    "name_en": "Frosty Malservant",
+    "name_zh": "寒霜惡僕",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb045": {
+    "prefix": "mb045",
+    "name_en": "Fretful Urchin",
+    "name_zh": "煩惱惡童",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb046": {
+    "prefix": "mb046",
+    "name_en": "Holy Malservant",
+    "name_zh": "神聖惡僕",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb047": {
+    "prefix": "mb047",
+    "name_en": "Nether Cleric",
+    "name_zh": "幽冥祭司",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb05": {
+    "prefix": "mb05",
+    "name_en": "Lanho",
+    "name_zh": "懶猴",
+    "costumes": [],
+    "models": [
+      "mb05_1_CG",
+      "mb05_1_hcg1_2"
+    ],
+    "dialogues": []
+  },
+  "ct103": {
+    "prefix": "ct103",
+    "name_en": "Saturn",
+    "name_zh": "莎頓",
+    "costumes": [],
+    "models": [
+      "ct103_CG"
+    ],
+    "dialogues": []
+  },
+  "ct104": {
+    "prefix": "ct104",
+    "name_en": "Daphne",
+    "name_zh": "妲芙妮",
+    "costumes": [],
+    "models": [
+      "ct104"
+    ],
+    "dialogues": []
+  },
+  "ct105": {
+    "prefix": "ct105",
+    "name_en": "Cecilia",
+    "name_zh": "瑟希莉亞",
+    "costumes": [],
+    "models": [
+      "ct105_CG"
+    ],
+    "dialogues": []
+  },
+  "ma001": {
+    "prefix": "ma001",
+    "name_en": "Wind Slime",
+    "name_zh": "風萊姆",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma002": {
+    "prefix": "ma002",
+    "name_en": "Thornclaw Ghoul",
+    "name_zh": "木爪食人妖",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma003": {
+    "prefix": "ma003",
+    "name_en": "Verdant Chocobo",
+    "name_zh": "碧綠陸行鳥",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma004": {
+    "prefix": "ma004",
+    "name_en": "Wind Newt",
+    "name_zh": "風特妞",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma005": {
+    "prefix": "ma005",
+    "name_en": "Wind Clanker",
+    "name_zh": "風叮咚",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma006": {
+    "prefix": "ma006",
+    "name_en": "Olive Fox",
+    "name_zh": "橄欖狐",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma007": {
+    "prefix": "ma007",
+    "name_en": "Envy",
+    "name_zh": "忌妒",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma008": {
+    "prefix": "ma008",
+    "name_en": "Wind Succubus",
+    "name_zh": "風之魅魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma009": {
+    "prefix": "ma009",
+    "name_en": "Elly",
+    "name_zh": "艾莉",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma010": {
+    "prefix": "ma010",
+    "name_en": "Emerald Dream Demon",
+    "name_zh": "翡翠夢魔",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma011": {
+    "prefix": "ma011",
+    "name_en": "Mist Beast",
+    "name_zh": "嵐龍獸",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "ma012": {
+    "prefix": "ma012",
+    "name_en": "Gale Whelp",
+    "name_zh": "暴風鼠龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb013": {
+    "prefix": "mb013",
+    "name_en": "Wind Dragon",
+    "name_zh": "風星龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb014": {
+    "prefix": "mb014",
+    "name_en": "Earth Dragon",
+    "name_zh": "土星龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb016": {
+    "prefix": "mb016",
+    "name_en": "Water Dragon",
+    "name_zh": "水星龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb017": {
+    "prefix": "mb017",
+    "name_en": "Ironstar Dragon",
+    "name_zh": "鐵星龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb018": {
+    "prefix": "mb018",
+    "name_en": "Light Dragon",
+    "name_zh": "光星龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mb019": {
+    "prefix": "mb019",
+    "name_en": "Dark Dragon",
+    "name_zh": "闇星龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mc055": {
+    "prefix": "mc055",
+    "name_en": "Gale Dragon",
+    "name_zh": "風暴龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mc056": {
+    "prefix": "mc056",
+    "name_en": "Fissure Dragon",
+    "name_zh": "裂地龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mc057": {
+    "prefix": "mc057",
+    "name_en": "Inferno Dragon",
+    "name_zh": "爆炎龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mc058": {
+    "prefix": "mc058",
+    "name_en": "Glacial Dragon",
+    "name_zh": "冰晶龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mc060": {
+    "prefix": "mc060",
+    "name_en": "Luminous Dragon",
+    "name_zh": "光耀龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "mc061": {
+    "prefix": "mc061",
+    "name_en": "Umbral Dragon",
+    "name_zh": "闇影龍",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "md062": {
+    "prefix": "md062",
+    "name_en": "Kessler",
+    "name_zh": "凱茲萊汀",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "me073": {
+    "prefix": "me073",
+    "name_en": "Berserk Tin Woodman (Head)",
+    "name_zh": "暴走錫樵夫(頭部)",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "d004": {
+    "prefix": "d004",
+    "name_en": "Awaken Savana",
+    "name_zh": "覺醒賽維拉",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "2nd_An": {
+    "prefix": "2nd_An",
+    "name_en": "2Nd An",
+    "name_zh": "二週年特刊",
+    "costumes": [],
+    "models": [
+      "2nd_Anniversary_hcg1_1"
+    ],
+    "dialogues": []
+  },
+  "c051": {
+    "prefix": "c051",
+    "name_en": "C051",
+    "name_zh": "c051",
+    "costumes": [],
+    "models": [
+      "c051_HCG"
+    ],
+    "dialogues": []
+  },
+  "cq17": {
+    "prefix": "cq17",
+    "name_en": "The Daily Life of the Munakata Family",
+    "name_zh": "cq17",
+    "costumes": [],
+    "models": [
+      "cq17cq18cq19_hcg1_1",
+      "cq17cq18cq19_hcg1_2"
+    ],
+    "dialogues": []
+  },
+  "cq25": {
+    "prefix": "cq25",
+    "name_en": "Cq25",
+    "name_zh": "cq25",
+    "costumes": [],
+    "models": [
+      "cq25cq26cq27_hcg1"
+    ],
+    "dialogues": []
+  },
+  "cq29": {
+    "prefix": "cq29",
+    "name_en": "Greeting The Leader",
+    "name_zh": "cq29",
+    "costumes": [],
+    "models": [
+      "cq29cq30cq31_hcg1_1",
+      "cq29cq30cq31_hcg1_2"
+    ],
+    "dialogues": []
+  },
+  "ct02": {
+    "prefix": "ct02",
+    "name_en": "Ct02",
+    "name_zh": "ct02",
+    "costumes": [],
+    "models": [
+      "ct02_CG"
+    ],
+    "dialogues": []
+  },
+  "ct082": {
+    "prefix": "ct082",
+    "name_en": "Abe no Seimei",
+    "name_zh": "ct082",
+    "costumes": [],
+    "models": [
+      "ct082_CG",
+      "ct082_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct083": {
+    "prefix": "ct083",
+    "name_en": "Ashiya Doma",
+    "name_zh": "ct083",
+    "costumes": [],
+    "models": [
+      "ct083_CG",
+      "ct083_LuWuDaoMan"
+    ],
+    "dialogues": []
+  },
+  "ct084": {
+    "prefix": "ct084",
+    "name_en": "Minamoto no Hiromasa",
+    "name_zh": "ct084",
+    "costumes": [],
+    "models": [
+      "ct084",
+      "ct084_CG"
+    ],
+    "dialogues": []
+  },
+  "ct085": {
+    "prefix": "ct085",
+    "name_en": "Zhinu",
+    "name_zh": "ct085",
+    "costumes": [],
+    "models": [
+      "ct085_CG",
+      "ct085_hcg"
+    ],
+    "dialogues": []
+  },
+  "ct086": {
+    "prefix": "ct086",
+    "name_en": "Kaguya",
+    "name_zh": "ct086",
+    "costumes": [],
+    "models": [
+      "ct086_CG",
+      "ct086_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct087": {
+    "prefix": "ct087",
+    "name_en": "Mamiya Marie",
+    "name_zh": "ct087",
+    "costumes": [],
+    "models": [
+      "ct087_CG",
+      "ct087_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct088": {
+    "prefix": "ct088",
+    "name_en": "Mamiya Marika",
+    "name_zh": "ct088",
+    "costumes": [],
+    "models": [
+      "ct088_CG",
+      "ct088_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct090": {
+    "prefix": "ct090",
+    "name_en": "Shelley",
+    "name_zh": "ct090",
+    "costumes": [],
+    "models": [
+      "ct090_CG",
+      "ct090_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct093": {
+    "prefix": "ct093",
+    "name_en": "Pygmalion",
+    "name_zh": "ct093",
+    "costumes": [],
+    "models": [
+      "ct093_CG",
+      "ct093_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct095": {
+    "prefix": "ct095",
+    "name_en": "Demeter",
+    "name_zh": "ct095",
+    "costumes": [],
+    "models": [
+      "ct095_CG",
+      "ct095_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct26": {
+    "prefix": "ct26",
+    "name_en": "Ct26",
+    "name_zh": "ct26",
+    "costumes": [],
+    "models": [
+      "ct26_01_CG"
+    ],
+    "dialogues": []
+  },
+  "ct27": {
+    "prefix": "ct27",
+    "name_en": "Ct27",
+    "name_zh": "ct27",
+    "costumes": [],
+    "models": [
+      "ct27_01_CG"
+    ],
+    "dialogues": []
+  },
+  "ct28": {
+    "prefix": "ct28",
+    "name_en": "Ct28",
+    "name_zh": "ct28",
+    "costumes": [],
+    "models": [
+      "ct28_01_CG"
+    ],
+    "dialogues": []
+  },
+  "ct64": {
+    "prefix": "ct64",
+    "name_en": "Ct64",
+    "name_zh": "ct64",
+    "costumes": [],
+    "models": [
+      "ct64_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct69": {
+    "prefix": "ct69",
+    "name_en": "醫護室的秘密會談",
+    "name_zh": "ct69",
+    "costumes": [],
+    "models": [
+      "ct69ct70ct71_hcg1_1_spine",
+      "ct69ct70ct71_hcg1_2_spine"
+    ],
+    "dialogues": []
+  },
+  "ct87": {
+    "prefix": "ct87",
+    "name_en": "Ct87",
+    "name_zh": "ct87",
+    "costumes": [],
+    "models": [
+      "ct87ct88ct89_hcg1_1_spine",
+      "ct87ct88ct89_hcg1_2"
+    ],
+    "dialogues": []
+  },
+  "story_hcg04": {
+    "prefix": "story_hcg04",
+    "name_en": "Story Hcg04",
+    "name_zh": "story_hcg04",
+    "costumes": [],
+    "models": [
+      "story_hcg04"
+    ],
+    "dialogues": [
+      "[Sun] Ah！Found you！Er... the name is Lord Archfiend？That's right!",
+      "[Sun] You and North Wind did something interesting without telling me, didn't you?",
+      "[Master] The things we do were erotic things forbidden to children and only for adults.",
+      "[Master] But if you think you've grown up, that's not a problem.",
+      "[Sun] There's nothing North Wind can do that I can't!",
+      "[Sun] The erotic thing... is that something mentioned in books?",
+      "[Sun] ... I see, the reality is not... that big a deal!",
+      "[Sun] But... this kind of skin contact feels a bit strange... but not annoying...",
+      "After moving locations, the two stripped naked. Sun squeezed her small but ample breasts around the rod as instructed by ${playername}.",
+      "[Master] Well done... this is a very erotic thing we're doing~",
+      "[Sun] Is this a very erotic thing we are doing?",
+      "[Sun] Hmm~ I don't really understand it...",
+      "[Sun] However, the rod touching my breasts is really comfortable... and feels a little hot.",
+      "[Sun] Hehe... I like to touch the head...",
+      "[Sun] I see, it's because North Wind is afraid of the heat, right?",
+      "[Sun] She is really afraid of the heat~ when it's so warm and great... and comfortable!",
+      "[Master] Exactly, my blood-filled rod feels great being clamped between your breasts. I'm sure it would be even better if it got even hotter.",
+      "[Sun] Then let's get comfortable together!",
+      "As soon as she finished speaking, Sun stuck her tongue out and licked the rod, her squeezed breasts naturally rubbing the shaft of the rod.",
+      "[Sun] Hmm... it feels good, right?",
+      "[Sun] I have a higher body temperature than the average person, and so is my tongue...",
+      "[Sun] So I thought, since I want to make the rod very warm, I should bury the whole rod in it!",
+      "[Master] Ah...！It's so warm... it's so good...",
+      "[Sun] Doesn't it feel good...？Although the ice cream melts in a second, but I don't have to worry about the rod!",
+      "[Sun] And it's delicious too.... Yep, it tastes better than North Wind's sweat!"
+    ]
+  },
+  "story_hcg05": {
+    "prefix": "story_hcg05",
+    "name_en": "Story Hcg05",
+    "name_zh": "story_hcg05",
+    "costumes": [],
+    "models": [
+      "story_hcg05_Spine"
+    ],
+    "dialogues": [
+      "[Dorothy] You, you pervert... stop...!",
+      "[Dorothy] Damn it... I can't move!",
+      "[Dorothy] Are you trying to humiliate me？Let go of me!",
+      "[Master] Hah~ Normally, I wouldn't do such a thing... but... you're my trophy after all!",
+      "[Master] Hmph！I... I am not your trophy!",
+      "[Dorothy] Oh？But it looks like your body likes this meat stick of mine, huh？Your pussy is getting wet...",
+      "[Master] ... you...!",
+      "[Dorothy] Heh, you're obviously not strong enough, but you think you're strong. You think you're the savior of Emerald City... yet you don't even know you're being used... how short-sighted...",
+      "[Dorothy] ...！Shut up！If you weren't so strong, they wouldn't have stood a chance!",
+      "[Master] Strong？Haha！That's right！Now I'll make you my woman so you can experience my strength!",
+      "[Dorothy] ... Ngh!",
+      "[Master] Not bad, not bad！That tightness as if you're rejecting me, but you're sticking your slutty ass up close!",
+      "[Dorothy] D-Damn it... I'm feeling... so strange... ahhh!",
+      "[Master] Don't be afraid... just feel free to enjoy it!",
+      "[Dorothy] Mmm ahh... I'm so swollen down below... so swollen... so... strange... mmm hah...",
+      "[Dorothy] The meat stick keeps stirring inside... Mmmm!",
+      "[Dorothy] Mmm, ahh... it's so hot inside... something feels good...",
+      "[Master] It's great, right？This is the sex between man and woman. You're clamping me so tightly... you like me so much?",
+      "[Dorothy] It's just- just not so... not so annoying... and the place you're hitting... mmmm...",
+      "[Dorothy] I can't help it, ahhhh...！I don't want to give in...!",
+      "[Dorothy] My waist- my waist is completely weak... ahh!",
+      "[Dorothy] This strange... pleasure... mmm！Ahhh!",
+      "[Master] Hehe, the world is full of strange things... let me teach you!",
+      "[Dorothy] Hmm, hmm ahh！There's something, something... a strange feeling coming... mmm ahh!",
+      "[Master] Oh... I'm going to cum too, let's cum together!"
+    ]
+  },
+  "story_hcg07": {
+    "prefix": "story_hcg07",
+    "name_en": "Story Hcg07",
+    "name_zh": "story_hcg07",
+    "costumes": [],
+    "models": [
+      "story_hcg07_spine"
+    ],
+    "dialogues": [
+      "[Starella] As I imagined, you are a bold man.",
+      "[Master] Oh... sounds like ... you were already expecting me?",
+      "[Starella] If you care about efficiency, it is reasonable to descend directly before your \"target\" than to wander aimlessly.",
+      "Snow Queen Starella slowly stood up from her throne, her glowing staff pointed at ${playername} with a powerful destructive force.",
+      "[Starella] Perish, return to nothingness.",
+      "—The destructive power of the explosion easily blew ${playername} to pieces, and the arrogant Lord Archfiend was reduced to dust without any last words.",
+      "[Starella] Death without pain... is my mercy to you.",
+      "Using magic to restore the impacted palace, Starella sighed softly. Despite the Archfiend's destruction, she did not feel any emotion. She simply sat back on her throne, spreading her legs—",
+      "[Starella] ......",
+      "[Starella] What's wrong with me...?",
+      "[Starella] Something feels different...",
+      "[Starella] My body is heating up... mmm...",
+      "[Starella] My body is light and airy...",
+      "[Starella] Why are my hands... mmm, but... it feels so good...",
+      "[Master] Your Majesty, if you're having so much fun alone, why don't you let me join you?",
+      "[Starella] Ah... what a thick and strong penis...",
+      "[Starella] The first time I saw you, I knew you were different from the rest...",
+      "[Starella] Arrogant yet calm... like a quiet but scalding fire...",
+      "[Starella] Just as hot as this penis...",
+      "[Master] This will not do.",
+      "[Master] Your Majesty, in order to make you more excited, please call it by its proper name, the \"meat rod\".",
+      "[Starella] Meat rod...？That sounds so vulgar...",
+      "[Starella] But it is exciting...",
+      "[Starella] Why is it flowing here from me... like your meat rod?",
+      "[Starella] We look so different, but are we actually the same...?"
+    ]
+  },
+  "story_hcg08": {
+    "prefix": "story_hcg08",
+    "name_en": "Story Hcg08",
+    "name_zh": "story_hcg08",
+    "costumes": [],
+    "models": [
+      "story_hcg08"
+    ],
+    "dialogues": [
+      "[Master] Looking like this... you have something to ask of me, don't you?",
+      "[Ginger Britney] ... Yes, I want to borrow your power.",
+      "[Ginger Britney] To protect oneself in Happy Town... just Hansel and I are not enough.",
+      "[Ginger Britney] ... No matter what, I want to stay in my hometown and sell desserts to everyone I care about!",
+      "[Ginger Britney] I will use anything to achieve my goal!",
+      "[Ginger Britney] If it's you... you should be able to recover the building and rebuild a defense boundary, right?",
+      "[Master] Well, let's see how sincere you are.",
+      "Looking at the stiff rod up close, Britney was a little nervous. The huge thing in front of her had a size and heavy sack that she has never seen before.",
+      "[Ginger Britney] ... how-how amazing... that such a thing can be hidden in the pants...?",
+      "[Ginger Britney] It's beating as if it has a life of its own...",
+      "[Ginger Britney] It's not a snack... but...",
+      "[Ginger Britney] Since it is to be put into the mouth... first I should taste with the nose...",
+      "[Ginger Britney] The musky taste exclusive to men...",
+      "[Master] You really are a dessert chef, you're so sophisticated.",
+      "[Ginger Britney] This is the secret to good dessert. First of all, you must have your own taste for food...",
+      "[Ginger Britney] Mmm... the taste of meat rod...",
+      "[Ginger Britney] The savory aftertaste left on the tip of the tongue...",
+      "[Ginger Britney] Amazing... mmm... really good...",
+      "[Ginger Britney] It's better than I thought, I want more...",
+      "[Ginger Britney] (It's so big... I have to open my mouth so hard...)",
+      "[Ginger Britney] I'm digging in...!",
+      "Britney opened her mouth, a string of saliva between her parted lips, and slowly took in the rod.",
+      "[Ginger Britney] Uhmm... it's so big...",
+      "[Ginger Britney] It's seeping in my mouth... mmm...",
+      "[Ginger Britney] The wet, hot, and salty fluid... mmm..."
+    ]
+  },
+  "story_hcg09": {
+    "prefix": "story_hcg09",
+    "name_en": "Story Hcg09",
+    "name_zh": "story_hcg09",
+    "costumes": [],
+    "models": [
+      "story_hcg09_spine"
+    ],
+    "dialogues": [
+      "[Hansel] The one bound in contract with me, Britney, has renounced our covenant to join this... giant sinful creature...!",
+      "[Master] There is no rule that you can only sign a contract with one person, right?",
+      "[Master] It's a good idea to each take what you want... right?",
+      "[Hansel] No... I know... it's because I'm not strong enough to guard...",
+      "[Hansel] ... Anyway, Britney loves this thing, right?",
+      "[Master] The reason you came to me was you saw how intoxicated Britney was, right?",
+      "[Hansel] ... After all, it's a flavor that even a dessert master approves of, so I'm curious.",
+      "[Master] Alright, go ahead, but then again, aren't you going to speak in that manner now?",
+      "[Master] For example, this meat stick had an unfinished fate with you in a past life... it was the Dark Blaze Cyclone Cannon sealed by you and so on.",
+      "[Hansel] ... that, all that is... so as not to be underestimated...!",
+      "[Hansel] Anyway, a meat rod is a meat rod... if you jerk it... it becomes hard.",
+      "[Hansel] Hot and thick... with a strange taste...",
+      "[Hansel] Nothing else... it's just... a meat rod...",
+      "[Master] That's true... it is just a big meat stick.",
+      "[Master] Please be gentle with it.",
+      "Hansel licked the head of the penis in full concentration, as if she was licking ice cream.",
+      "[Hansel] ... mmm... the smell is getting heavier and heavier.",
+      "[Hansel] It's delicious... I can't believe there's something this tasty...",
+      "[Hansel] It's not like Britney's desserts... a little savory... addictive...",
+      "[Hansel] Phew... phew, I can't stop my tongue...",
+      "[Hansel] I love the taste of... meat rod...",
+      "[Hansel] ... I can't eat it all in one bite, right？Mmm...",
+      "[Master] Wouldn't it be a shame?",
+      "[Master] Try putting it with your mouth.",
+      "[Hansel] Gurgh... mmm..."
+    ]
+  },
+  "story_hcg10": {
+    "prefix": "story_hcg10",
+    "name_en": "Story Hcg10",
+    "name_zh": "story_hcg10",
+    "costumes": [],
+    "models": [
+      "story_hcg10"
+    ],
+    "dialogues": [
+      "[Gabriel] You, where in the world did you get that perverted power!",
+      "[Gabriel] As if I could ever beat you!",
+      "[Master] What a weak angel. Can you really watch over the world like this?",
+      "[Master] You're not a liar, are you?",
+      "[Master] Forget it, whatever.",
+      "[Gabriel] Ahh！My wings!",
+      "[Gabriel] I can't use my powers.... What did you do?",
+      "[Master] It's just a way for you to settle down and relax.",
+      "[Master] All right, down, girl.",
+      "[Gabriel] Ah... you stinking dick, don't touch me...!",
+      "[Master] But what a surprise... I was just trying to get you to communicate a little better.",
+      "[Master] I wouldn't have imagined your \"most relaxed\" state of mind happens when you masturbate naked, huh?",
+      "[Master] Do you usually like to masturbate without clothes?",
+      "[Master] You've just gotten naked and you're already all wet.",
+      "[Gabriel] I-I wouldn't do such a thing!",
+      "[Master] But your actions speak a different tale...",
+      "[Master] You say one thing, but your fingers haven't stopped for one second.",
+      "[Gabriel] Ngh...",
+      "[Master] Even in the ass... you sure seem to know your stuff.",
+      "[Master] Everyone, don't miss the exclusive chance！Like, subscribe, and share~",
+      "[Master] Perverted Angel's masturbation in the wild, livestreaming now~",
+      "[Gabriel] I'm not a pervert, ahh, hmm ahh...!",
+      "[Gabriel] The one over there, sniff, mortal...",
+      "[Gabriel] Don't just look, come and save me...！Ngh ahh!",
+      "[Master] Do you want Cinderella to see you enjoying yourself?"
+    ]
+  },
+  "story_hcg11": {
+    "prefix": "story_hcg11",
+    "name_en": "Story Hcg11",
+    "name_zh": "story_hcg11",
+    "costumes": [],
+    "models": [
+      "story_hcg11"
+    ],
+    "dialogues": [
+      "Red bashfully stripped the defenseless Lupiz's clothes before taking off her own. She gently pushed Lupiz down and started nuzzling her neck.",
+      "[Red] ... If you don't like it, feel free to push me away.",
+      "[Lupiz] What... are you doing?",
+      "[Red] I want to show you my love and make you feel good...",
+      "[Red] I'll show you, naive wolf, the pleasures of a woman's body.",
+      "[Lupiz] Mhmm...",
+      "[Red] I like it when this place is rubbed and my neck is bitten...",
+      "[Lupiz] ...?",
+      "[Red] Uh... Why？You seem...",
+      "[Red] You should be feeling pleasure already... Why are you still dry？I won't be able to put it in like this...",
+      "[Master] It looks like you two have been desensitized to sex. Let me help you guys out.",
+      "[Lupiz] Ahh...",
+      "The previously expressionless Lupiz started trembling at the sight of cock. Her pussy started leaking uncontrollably.",
+      "[Master] It looks like she's finally showed her true colors. Next, it's up to you to make her cum.",
+      "[Red] ... Keep that dick of yours hard, and don't let it out of Lupiz's sight.",
+      "[Red] If it wasn't for that meddling Ice Empress, I wouldn't have to be doing this...!",
+      "[Master] I'll keep out of the way and just enjoy the show.",
+      "[Master] But... you have until I cum.",
+      "[Master] If she still hasn't cum by then, you'll have to use your body to get my cock hard again.",
+      "[Red] Hmphh... You don't need to remind me.",
+      "[Red] Lupiz... I'm putting it in now... I-Inside of you...",
+      "[Lupiz] Wh- ahh!",
+      "[Red] Wow... It's so hot and wet inside... My fingers are completely enveloped...",
+      "[Lupiz] Hmm... your fingers...?",
+      "Red couldn't help getting excited at the sight of Lupiz blushing because of the fingers in her pussy. Red also started panting and her thighs quivered in excitement."
+    ]
+  },
+  "story_hcg12": {
+    "prefix": "story_hcg12",
+    "name_en": "Story Hcg12",
+    "name_zh": "story_hcg12",
+    "costumes": [],
+    "models": [
+      "story_hcg12"
+    ],
+    "dialogues": [
+      "Within the fog coming out of the hot springs, Yuki's plump breasts drooped slightly from their weight as she stared at ${playername}'s cock with some hesitation.",
+      "[Yuki] Amazing… an erect cock full of wrath and vigor right before my eyes...",
+      "[Master] This some kind of rare sight to you?",
+      "[Yuki] If I want to enjoy warmth, I can only do so by soaking my entire body in the hot springs.",
+      "[Yuki] But even a natural hot spring would be completely frozen as soon as I touch it, such is the curse of the snow witch.",
+      "[Yuki] Are... are you really sure about this?",
+      "[Yuki] If... you come into contact with my mouth, you won't be able to turn back...",
+      "[Master] Please, with a girl in heat in front of me and my cock raring to go, you really think I would be able to turn back now?",
+      "[Master] Believe me, my cock can pierce any curse.",
+      "[Yuki] Uhh… It's not my fault if anything goes wrong now… I can hardly hold myself back either.",
+      "[Yuki] Oh… wow… its moving…",
+      "[Yuki] Huh… that's, that's strange…",
+      "[Yuki] As I'm licking your cock, it almost feels like my body is getting warmer as well...",
+      "[Master] Ohh... the air around you is pretty cold, and yet your tongue feels warm.",
+      "[Yuki] Is that so？I am unsure...",
+      "[Master] Let's test it out then.",
+      "[Yuki] Hmm...!",
+      "[Yuki] It feels so hot in my mouth... ahh!",
+      "[Yuki] So thick, and its pulsing with life... ah.♥",
+      "[Yuki] Such a strong musk... ooh... my nipples are getting errect.♥",
+      "[Master] You're already so eager when you've just put it in your mouth. No need to be so hasty, it's not going anywhere.",
+      "[Master] Though this proves it... the inside of your mouth is really hot...",
+      "[Yuki] Dear customer… are you enjoying the inside of my mouth？Ahh...♥",
+      "[Yuki] Uhmm… The juices coming out of this cock… so thick and delicious♥",
+      "[Yuki] The taste is even better than what I imagined… so this is a real cock.♥"
+    ]
+  },
+  "story_hcg13": {
+    "prefix": "story_hcg13",
+    "name_en": "Story Hcg13",
+    "name_zh": "story_hcg13",
+    "costumes": [],
+    "models": [
+      "story_hcg13"
+    ],
+    "dialogues": [
+      "[Starella] Ooh... You're so mean, putting it in all of a sudden!",
+      "[Master] Can you not say stuff that will give people the wrong idea?",
+      "[Master] If you want to get into technicalities, you should be saying that my cock is being smothered by your tits.",
+      "[Master] Isn't this what you like best?",
+      "[Master] Efficient things like this, I get to feel good and you get to enjoy cock.",
+      "[Starella] I-I don't enjoy cock...",
+      "[Master] (Your ecstatic face is giving you away...)",
+      "[Starella] But... seeing how you guys defeated me...",
+      "[Starella] Let's just say that this is research into why you're all so obsessed with sex... and why I lost to you...",
+      "[Master] Well... if you put it that way.",
+      "[Master] But, do you know what you're doing?",
+      "[Starella] Humans are simple, their copulation process straightforward, and all it takes is stimulation to the nerves for them to feel pleasure. I've looked into it before, hence why I deemed it unimportant.",
+      "[Starella] D-Don't look down on me. A cock like this... I can make it cum in no time♥",
+      "[Starella] So hot and thick... Do you feel good like this?",
+      "[Master] Oh...？You didn't strike me as someone that knows what she's doing. You're a bit inexperienced though.",
+      "[Starella] Umm...",
+      "[Starella] There's nothing in this world that I can't learn...",
+      "[Master] Ok, ok... I'll be cheering for you.",
+      "[Starella] Vulgar, disgusting... Hot and thick...",
+      "[Starella] How can something like this... stimulate my reproductive instincts...?",
+      "[Master] I'm honored to have a cock that can put an Empress in heat...",
+      "[Master] I'm excited that I'm able to take away your titfuck virginity. Is this your first time?",
+      "[Starella] If anyone dares to do this to me, I'll definitely put them through misery and despair.",
+      "[Starella] But now...",
+      "[Starella] I-It's your magic..."
+    ]
+  },
+  "story_hcg14": {
+    "prefix": "story_hcg14",
+    "name_en": "Story Hcg14",
+    "name_zh": "story_hcg14",
+    "costumes": [],
+    "models": [
+      "story_hcg14"
+    ],
+    "dialogues": [
+      "In front of the castle walls of the faraway Wonderland, the Little Tin Soldier was dutifully standing guard. She determined that this was one of the weak points of the palace, so she kept her guard up for any possible threats.",
+      "[Tin Soldier] ...",
+      "[Tin Soldier] (The clones have reported in from their patrols... all seems clear.)",
+      "[Tin Soldier] (I'm inflexible and stubborn to a fault, I wonder what the Queen sees in someone like me.)",
+      "[Tin Soldier] (I can't betray the Queen's trust！I must repay her with my loyalty!)",
+      "The Little Tin Soldier was often busy dealing with the information given to her by her army of clones. Due to the information overload of having to deal with so many thoughts, the Little Tin Soldier often appeared to be dimwitted and clumsy.",
+      "[Tin Soldier] (Alright, I should have number three patrol the botanical gardens next.)",
+      "[Tin Soldier] …eek!?",
+      "[Tin Soldier] (Wha…what？Is somebody touching one of my clones？I don't see anyone around, but…)",
+      "[Tin Soldier] (Could I be mistaken？That's impossible, I can feel someone running their hands all over me...)",
+      "[Tin Soldier] (A-And his moves are so lewd…!)",
+      "[Tin Soldier] (How well does he understand a women body！Is he rubbing his penis between my thighs!?)",
+      "[Tin Soldier] (No, no… I must resist… I can't cry out now！I am still on duty!)",
+      "[Tin Soldier] Ooh, ahh…",
+      "[Tin Soldier] (Is this some kind of coordinated attack against multiple of my clones?)",
+      "[Tin Soldier] (But the way they're fondling me... it feels like one man is touching my body in multiple places at once...)",
+      "[Tin Soldier] It feels so good... But I must resist!",
+      "[Tin Soldier] (I must transfer some of my other clones to investigate this...)",
+      "[Tin Soldier] …Hmm!",
+      "[Tin Soldier] (My clothes!？Is this some kind of illusion?)",
+      "[Tin Soldier] (Am I being attacked or is it my clones？I can't even tell anymore…)",
+      "[Tin Soldier] (No… not like this… they're toying with all the sensitive spots on my body...!)",
+      "[Tin Soldier] (Ah… no… Little Tin Soldier…!)",
+      "[Tin Soldier] (You mustn't forget... the duty that the Queen, the Queen...)",
+      "[Tin Soldier] (Ah！My, my pants... I have to stop this, otherwise...)"
+    ]
+  },
+  "story_hcg15": {
+    "prefix": "story_hcg15",
+    "name_en": "Story Hcg15",
+    "name_zh": "story_hcg15",
+    "costumes": [],
+    "models": [
+      "story_hcg15"
+    ],
+    "dialogues": [
+      "In the dimly-lit room, March Hare was lying on a gambling table with her tummy exposed in front of the group of gamblers around her. She smiled, looking just like an adorable bunny rabbit waiting to be pampered.",
+      "[March Hare] I'm dealing out the next cards~！Come and get it~",
+      "[Young Gambler] O-Okay, I'm next, right?",
+      "Seeing how flirty March Hare was being, the young gambler reached out his hand towards the card tucked in her cleavage, but her jiggling breasts made it difficult to keep an eye on the card.",
+      "[March Hare] How naughty, staring at me like that, you're not trying to cheat, are you?",
+      "[March Hare] You bad boy~",
+      "[Young Gambler] Is, is that right？What should I do then?",
+      "[Master] Seems like you're a little slow on the uptake, if you want to prove your innocence…...",
+      "[Master] I think we should examine your cock first.",
+      "The young gambler looked surprised, but did just as he was told, the other gamblers around him quickly followed suit without complaint.",
+      "[March Hare] So many different cocks！As the dealer, I must ensure the fairness of this game, and examine each of you closely♥",
+      "[March Hare] So big and thick~ My, my, are you hiding something in there?",
+      "[March Hare] Come on~ show me everything！Did you hide it in your wallet?",
+      "[Master] This slutty bunny is in heat!",
+      "[Master] You should know that that these gentlemen here are all seasoned gamblers, and would never cheat?",
+      "[March Hare] I don't know anything about that！I must be thorough in my examination~",
+      "[Master] Then I should check if you're hiding any cards too.",
+      "[March Hare] Hmm~ as if I would... I'm all empty inside...♥",
+      "[March Hare] Wow... everyone's cocks... are s-so unnaturally big！Your musk is so powerful~",
+      "[Master] Oh dealer... everyone probably just had the chance to swap their cards just now, want to check if they cheated or not?",
+      "[March Hare] Umm…… I don't have time for that……",
+      "[March Hare] I'm still checking out the taste of these cocks, I'm so busy...  ah♥Amazing!♥",
+      "[March Hare] And I'm also busy having my pussy pounded~ Ah~ so good♥",
+      "[Master] Is it too late to change dealers?",
+      "[March Hare] Aww, don't worry about little details like that!"
+    ]
+  },
+  "story_hcg16": {
+    "prefix": "story_hcg16",
+    "name_en": "Story Hcg16",
+    "name_zh": "story_hcg16",
+    "costumes": [],
+    "models": [
+      "story_hcg16"
+    ],
+    "dialogues": [
+      "[Master] I came here because I was curious about the sweet dreams that Mother Goat can create... but what the heck is going on right now?",
+      "[Mother Goat] You poor innocent child…",
+      "[Mother Goat] Being sentenced to death by the Queen of Hearts... you must be so terrified.",
+      "[Mother Goat] Don't worry, as long as you're here in mommy's embrace, nothing bad will ever happen to you.",
+      "[Master] Ugh...！I-I almost believed I really was her kid... this mind controlling spell is a lot stronger than I thought.",
+      "[Mother Goat] My dear baby！You grown so big already!",
+      "[Mother Goat] You can still cuddle with mommy as much as you want though~",
+      "[Mother Goat] Your body is swelling down there isn't it？You must be very confused.",
+      "[Mother Goat] It's okay, this is perfectly normal.",
+      "[Mother Goat] This is your penis, and it can grow bigger, it's proof that you are a big healthy boy.",
+      "[Mother Goat] Ahah... it's getting even bigger?",
+      "[Mother Goat] Mommy is so happy that her little boy is so gifted.",
+      "[Mother Goat] How about you show mommy how talented you are?",
+      "[Mother Goat] It feels good, doesn't it？Once a little boy is all grown up, they need to learn how to make themselves feel good.",
+      "[Mother Goat] If you can't do that yet, just ask mommy for help...♥",
+      "[Master] (No, damn it... I can't hold back for much longer...)",
+      "[Master] M-Mommy?",
+      "[Master] Boobs... so soft...",
+      "[Mother Goat] Yes... it's mommy.",
+      "[Mother Goat] How adorable, do you like mommy's boobs?",
+      "[Mother Goat] That's alright, you have always been my little treasure since the moment you were born.",
+      "[Mother Goat] Even if you're all grown up, you will always be my baby.♥",
+      "[Mother Goat] See mommy's movements here？If you learn how to do this like a good boy, you can do this for yourself when mommy isn't around.",
+      "[Master] No... Mommy...！Don't leave me...!",
+      "[Mother Goat] I won't... mommy would never leave you, she would be so lonely if she did.♥"
+    ]
+  },
+  "story_hcg17": {
+    "prefix": "story_hcg17",
+    "name_en": "Story Hcg17",
+    "name_zh": "story_hcg17",
+    "costumes": [],
+    "models": [
+      "story_hcg17_1"
+    ],
+    "dialogues": [
+      "Under the night sky, Cinderella's skin seemed to glisten as she smiled timidly.",
+      "[Cinderella] Lord Archfiend... do you like girls that are a little pervy?",
+      "[Cinderella] Ah... Lord Archfiend's hard rod has already answered my question♥",
+      "[Cinderella] I love how comforting your chest and your heartbeat is...",
+      "[Cinderella] And how your cock pulses so intensely...",
+      "[Cinderella] I also love how gently you touch me... pl-please give me a little more♥",
+      "[Master] Seeing you be so honest with yourself... is making me want to pamper you even more.",
+      "[Cinderella] Ye-yes... please pamper me, Lord Archfiend!",
+      "[Cinderella] I can feel each and every movement of your body...♥",
+      "[Master] Me too. Can you feel that?",
+      "[Cinderella] Um-hum... even without words, I can know what you are feeling...",
+      "[Cinderella] It's like the two of us are connected, and that makes me so happy...",
+      "Her soaking wet entrance responded to his hardened cock. Both of their bodies expressed their desire for one another.",
+      "[Cinderella] Lo-lord Archfiend... I can't hold back much longer. Pl-please come inside me...",
+      "[Cinderella] Ah...!",
+      "[Cinderella] Yo-you put it inside... Lord Archfiend's cock♥",
+      "[Master] You're so wet, looks like you were pretty excited... same goes for here.",
+      "[Master] I'll have to comfort this horny girl.",
+      "[Cinderella] You're stirring up my insides... hehe♥",
+      "[Cinderella] Pl-please take care of me... ah, oh!",
+      "[Cinderella] I've always... been thinking about your sexy body... ahh...",
+      "[Cinderella] And how much I want to have sex with you♥",
+      "[Cinderella] Girls are all like this when they are going through puberty, you know...!",
+      "[Cinderella] Ju-just thinking about Lord Archfiend's chest and cock, is enough to make me crave your touch and heat up my body... ahhh, oh♥",
+      "[Cinderella] And dream of us or-orgasming together in each other's arms."
+    ]
+  },
+  "story_hcg18": {
+    "prefix": "story_hcg18",
+    "name_en": "Story Hcg18",
+    "name_zh": "story_hcg18",
+    "costumes": [],
+    "models": [
+      "story_hcg18"
+    ],
+    "dialogues": [
+      "[Gabriel] St-stinky Dick, are you really going to... don't trample on the dignity of an angel!",
+      "[Gabriel] Ah！Wha-what are you...!",
+      "[Gabriel] I-is that your tongue!?",
+      "[Gabriel] You really are a perverted Stinky Dick！How indecent!",
+      "[Gabriel] I-it will be very bad if someone sees this, you did set up a boundary before right>",
+      "${playername} remained silent and kept playing with Gabriel's ass.",
+      "[Gabriel] ...Wah~!！Don't ignore me and play with my butt！Stinky Dick!",
+      "[Gabriel] (This Stinky Dick's warm breath keeps hitting my butt...!)",
+      "[Gabriel] (I can't see him, so I have no idea what he's trying to do...!)",
+      "[Gabriel] D-damn you ~ ~ Stinky Dick...!",
+      "[Gabriel] Ah, ahh, ohh... are you addicted to bullying me or something?!",
+      "[Gabriel] You... you better not get the wrong idea!",
+      "[Gabriel] I'm no-not excited or anything... it's wet because you licked it!",
+      "[Gabriel] My butt... feels all weird now... wah...!",
+      "[Gabriel] (Ah, my butt, is being spread open... I'm going to be...)",
+      "[Gabriel] Eeek—!?",
+      "[Gabriel] Stupid Stinky Dick！Th-that's the wrong hole you idiot！Ah!",
+      "[Gabriel] How can you desocorate the anus of an angel!",
+      "[Gabriel] Ohh~ ~ Ah... s-so strange...!",
+      "[Gabriel] My pussy is tingling... my but... s-so numb... ah!",
+      "[Gabriel] It's too big... Stink Dick's smelly rod... too big... ahh, oh!",
+      "[Gabriel] Do-don't just stick it inside my cute butt... ahh... o-ohh!",
+      "[Gabriel] Oh no... it feels so good... ah...!",
+      "[Gabriel] (Because I can't see it, I can feel his rod even more clearly...♥)",
+      "[Gabriel] I ca-can't take much more... this angel is about to cum from getting her ass fucked...♥"
+    ]
+  },
+  "story_hcg19": {
+    "prefix": "story_hcg19",
+    "name_en": "Story Hcg19",
+    "name_zh": "story_hcg19",
+    "costumes": [],
+    "models": [
+      "story_hcg19_1"
+    ],
+    "dialogues": [
+      "[Sylv] Lord Archfiend...",
+      "Inside the Hall of Beauties, Sylv had her arms tied and her eyes blindfolded. Because she usually did whatever she pleased, she was nervous about an experience which she had no control over.",
+      "[Sylv] I know you said you wanted to punish me... but covering my eyes...",
+      "[Sylv] You should know, right？There's nothing I fear more than the dark...",
+      "[Master] Oh, I remember, you're most afraid of the complete silence and loneliness of the dark, correct...?",
+      "[Master] I'll turn your fear of the dark into joyful terror...",
+      "[Sylv] Ah！That tickles... are you really tickling me with a feather...♥",
+      "[Sylv] Umm... hey, are you using magic?",
+      "[Sylv] I fe-feel so many places being teased at once...",
+      "[Sylv] Looks like you're trying to get your servant... to succumb to your dark pleasures...♥",
+      "[Sylv] Ah, mhm... my pussy is being tickled...",
+      "[Sylv] Is your adorable Sylv's armpit to your liking?",
+      "[Sylv] You've made it all wet.",
+      "[Sylv] Lod Archfiend's rod smells so close... the musky scent is filling my nose...♥",
+      "[Sylv] But I can't even taste it, and you won't just give it to me... how devious!",
+      "[Master] You do remember that this is your punishment, right?",
+      "[Sylv] H-haha... that tickles... honestly！You really enjoy messing around!",
+      "[Master] Serve me well...",
+      "[Sylv] As you wish...♥ Use my body to your heart's content and defile me. Lord Archfiend...♥",
+      "[Sylv] My eyes, hair, armpit, toes, butt, and ears...",
+      "[Sylv] Every part of Sylv belongs to you...♥",
+      "[Master] Well said... time to reward you.",
+      "[Sylv] Mhmm...",
+      "[Sylv] (Lord Archfiends rod... so delicious...♥)",
+      "[Sylv] (My whole body is being toyed with and I get to use Lord Archfiend's meat rod...)"
+    ]
+  },
+  "story_hcg20": {
+    "prefix": "story_hcg20",
+    "name_en": "Story Hcg20",
+    "name_zh": "story_hcg20",
+    "costumes": [],
+    "models": [
+      "story_hcg20"
+    ],
+    "dialogues": [
+      "[Master] Since you asked for this yourself... I'm going to assume that your all prepared?",
+      "[Bluebeard] You took the words right out of my mouth...",
+      "[Bluebeard] Are you ready to use me as your canvas, Lord Archfiend♥",
+      "[Bluebeard] Leave your mark on my body, and claim me as your own!",
+      "[Master] Are you trying to provoke me?",
+      "[Bluebeard] Ah！I wo-would never... I'm just your humble slave...",
+      "[Bluebeard] I just got a little excited... thinking about how your going to have your way with me♥",
+      "[Bluebeard] As long as it comes from you, whether it's pain or pleasure, I will enjoy it all...",
+      "[Master] You're just using me as a tool to fullfil your sexual fantasies!",
+      "[Master] You're just a sex slave and yet you think you can lord over me!",
+      "[Bluebeard] Ye-yeah♥ Ahha... if you don't rein me in...",
+      "[Bluebeard] I might just play a prank on you...♥",
+      "[Master] Such a shamless and naughty foot.",
+      "[Bluebeard] Ah, ahhh！This pain... umm... it's amazing!",
+      "[Master] Your body is getting so wet from getting whipped... looks like I'll have to discipline this part of you too.",
+      "[Bluebeard] Um, ahh... Master...!",
+      "[Bluebeard] Please dominate me, ravage my pussy♥ rough me up♥",
+      "[Master] Are you trying to think for me now?",
+      "[Master] It's not a crime to rape a sex slave in Cheval Blanc, so even if I break you, you'll have no complaints, right?",
+      "[Bluebeard] Ah, ahhh@ I'm sorry♥ You are exactulally right!",
+      "[Bluebeard] I'm your property, your pet♥",
+      "[Bluebeard] Even if you break me, that's just a matter of course♥ Yah!",
+      "[Master] You're to kinky to torture, having such a sex slave is such a pain in the ass.",
+      "[Bluebeard] Please don't say that！You can treat me with your semen♥",
+      "[Bluebeard] Use your libido to treat me♥ I would be so happy...♥"
+    ]
+  },
+  "story_hcg21": {
+    "prefix": "story_hcg21",
+    "name_en": "Story Hcg21",
+    "name_zh": "story_hcg21",
+    "costumes": [],
+    "models": [
+      "story_hcg21"
+    ],
+    "dialogues": [
+      "[Master] ...Can you explain to me what's going on here?",
+      "[Captain Hook] Can't you tell?",
+      "She pushed ${playername} against the wall and tried to domineer over him from above. Hook gave ${playername} a rather sinister-looking smile.",
+      "[Captain Hook] I'm going to fuck you.",
+      "[Master] Oh...",
+      "[Captain Hook] Since I decided to be in this sort of intimate relationship with you, you are my man now... and I'm going to make you feel good.",
+      "[Captain Hook] So just sit back and enjoy.",
+      "[Captain Hook] You should make me feel good too.",
+      "[Master] Aye aye~ Captain.",
+      "[Captain Hook] Don't you worry, I know exactly what to do... uh...",
+      "[Captain Hook] ...Tsk...！Your cock is too hard!",
+      "[Captain Hook] Can't you make it a little softer, how am I supposed to put this in!?",
+      "[Master] Shouldn't you be the one to relax your pussy a little more？Or... do you need my help?",
+      "[Captain Hook] Huh!？...Do-don't underestimate me!",
+      "[Captain Hook] Of co-course I know to relax my pussy...！Something as simple as that...",
+      "[Captain Hook] Oh... uh... wh-why does it keep slipping...！You trying to run away or something?",
+      "[Master] That's a misunderstanding... here, allow me.",
+      "[Captain Hook] Oh, ohhh...！It's in-inside...",
+      "[Captain Hook] Haa, phew... no-nothing I can't handle.",
+      "[Captain Hook] Compared to the burn of being pierced by a sword...",
+      "[Captain Hook] Oh...um, hmm...?",
+      "[Captain Hook] Th-this pleasure I feel down there... is sex... ah...!?",
+      "[Captain Hook] My bo-body feels... even lighter than when I'm drunk... ahh...!?",
+      "[Captain Hook] My pussy feels like it's melting... umm...",
+      "[Master] That means it feels good, right...？I'm feeling good too."
+    ]
+  },
+  "story_hcg22": {
+    "prefix": "story_hcg22",
+    "name_en": "Story Hcg22",
+    "name_zh": "story_hcg22",
+    "costumes": [],
+    "models": [
+      "story_hcg22"
+    ],
+    "dialogues": [
+      "The heat generated from the friction of their bodies could not be completely wiped away by the coolness of the flowing water. Blushing, Himiko scoops up a handful of water and carefully caresses ${playername}'s body.",
+      "[Master] Seems like you missed a spot over here~ Is that okay?",
+      "[Himiko] ...D-Do you mean here?",
+      "[Master] I'm not so sure~ Maybe you should try again and be more thorough?",
+      "[Himiko] ...Indeed, I cannot allow you to meet Lord Amaterasu with any impurities in your body.",
+      "[Himiko] The impurities in your genitals... will need to be cleaned out as well.",
+      "[Himiko] If impure energy enters Lord Amaterasu's body through her vagina, it will cause her harm too...",
+      "[Himiko] Please cooperate and empty yourself as soon as possible.",
+      "[Master] No problem, it's just that... the amount of semen would probably tire you out~",
+      "[Himiko] I-Is there a lot...?",
+      "[Himiko] Ah... It has both volume and considerable weight... umm... The size as well...",
+      "[Himiko] (Lo-Lord Amaterasu's happiness... and... mines...?)",
+      "[Himiko] (Ah, um... rubbing like this feels so good... I can feel myself getting swollen down there ♥)",
+      "[Himiko] (How can I feel the happiness brought by our husband before Lord Amaterasu?",
+      "[Himiko] (Th-This is just for purification... I hope Lord Amaterasuwill forgive me... ♥)",
+      "[Master] You're just using my body for pleasure at this point, aren't you?",
+      "[Master] Has the purification ritual stopped？You actually just want to have sex with me, right?",
+      "[Himiko] No, it's not... it's because... the impure energy gathered here... is particularly dense...!",
+      "[Himiko] So it takes more time... um... to purify... yes!",
+      "[Himiko] It is definitely not the casual sexual encounter you're used to in the regular world. It is a serious and solemn natural purification... Ha...",
+      "[Himiko] A-As proof, your manhood is also ready to go... Now all that's needed is-",
+      "[Himiko] To shoot it all out...!",
+      "[Himiko] That's right... it must be removed like this... you need to be completely emptied.",
+      "[Master] Hey... don't stimulate me like that... hmm!",
+      "[Himiko] Heh... You can't control yourself, right?"
+    ]
+  },
+  "story_hcg24": {
+    "prefix": "story_hcg24",
+    "name_en": "Story Hcg24",
+    "name_zh": "story_hcg24",
+    "costumes": [],
+    "models": [
+      "story_hcg24"
+    ],
+    "dialogues": [
+      "[Sakiko] Hoo hoo... What a nice meat rod~ And it's filled with such sweet magical power...",
+      "[Sakiko] Since you're here, hand over your magic and semen, and feed me until I'm satisfied ♥",
+      "[Master] You started riding me without hesitation... I can see why they kept you sealed.",
+      "In order to expand the miniature world, ${playername} entered the Hundred Ghosts Scroll and was attacked by a fox demon who was undergoing her punishment in the blood pool.",
+      "[Master] This blood pool was supposed to burn your soul, and make it feel like your flesh is melting off your bones. Yet this fox is treating it like an ordinary hot spring... It seems to be a powerful monster.",
+      "Not only that, but there are also many corpses around, and seeing Sakiko's excited, shining, and bloodthirsty eyes, it is not difficult to imagine that she had once unleashed a killing spree here.",
+      "[Sakiko] Oh my... if your magnificent cock is this erect after seeing me bathe in blood... you must be ready to penetrate me, right?",
+      "[Sakiko] I am already so hot!",
+      "[Sakiko] I really want to be penetrated by your cock, and suck all the magic out of your body...",
+      "[Sakiko] But your mind... seems to be preoccupied with something important, huh?",
+      "[Sakiko] Hehe, then let me help you, I can take the initiative~",
+      "[Master] You're just taking advantage of the situation...!",
+      "[Master] Ugh... this damn fox... has a really tight pussy!",
+      "[Sakiko] Ha... it's been a millennia since I last had a cock inside me...♥",
+      "[Sakiko] Um, hah... Everything in this boring scroll is so dull and uninteresting. That Amaterasu woman is super stingy, she never sent a man inside for me to play with...",
+      "[Sakiko] I'm sure she knows that if she locks a man in here, I would suck them dry... Umm~ Ahh...♥",
+      "[Sakiko] What an amazing cock, it's easily reaching some sensitive spots... Mmm hehe ♥",
+      "Riding on ${playername}'s body, Sakiko shamelessly moaned as loud as she could, completely disregarding ${playername}'s feelings, forcefully taking control of his cock.",
+      "[Sakiko] Isn't it comfortable inside me？Look！The Sensitive tip of your cock... is throbbing... ♥",
+      "[Master] Ah ah...!",
+      "[Sakiko] Ha~ Take that♥ Take that♥... Your cock is trembling happily... ♥",
+      "[Sakiko] Hehe, this is how good it feels, to make love to me~ Mmm~♥",
+      "${playername} forcibly endures the pleasure brought by Sakiko, fully focused on operating the scroll. If he loses concentration for even a moment, Sakiko would absorb his magical power.",
+      "[Sakiko] To think that you can still operate the scroll while you're inside me...",
+      "[Sakiko] Awesome！I want to make you even happier so you lose focus...♥"
+    ]
+  },
+  "story_hcg25": {
+    "prefix": "story_hcg25",
+    "name_en": "Story Hcg25",
+    "name_zh": "story_hcg25",
+    "costumes": [],
+    "models": [
+      "story_hcg25"
+    ],
+    "dialogues": [
+      "[Michael] Hah… because of this curse… My body becomes so needy at night...♥",
+      "[Michael] L-Lucifer…",
+      "[Michael] You just want to see me lose my mind every night and find an outlet for my lust, don't you?",
+      "[Michael] How despicable… hoping to see an angel turn into a succubus…♥",
+      "[Michael] Mhmm… You wouldn't let an angel face this kind of torment, would you?",
+      "[Master] You look like you know what you're doing… Does masturbating help alleviate the curse?",
+      "[Michael] O-Of course not…♥",
+      "[Michael] I'm at my wits' end and this close to turning into a succubus and taking you right here, right now.",
+      "[Master] How scary… Then I guess I'll have to defend myself from being attacked by an angel.",
+      "[Michael] Ahh…！Y-Your fingers feel so good inside of me…♥",
+      "Fragrant love juices gush from the pussy of the angel in heat. Her walls clench tight around the fingers violating its depths. With each thrust, more sticky secretions are pushed out from within.",
+      "[Michael] A-Ahhh you're hitting the spot… Yes… right there!",
+      "[Michael] Nghh♥ If you keep caressing me there, I won't be able to hold it in...♥",
+      "[Master] Your pussy is so tight. I didn't know you were so slutty. You must feel so lonely without a cock, right?",
+      "[Michael] Yes, please give me your cock… I beg you♥ It's all I can think of right now~",
+      "[Michael] Thrust your hot rod in and out of my slutty little hole. I've become an angel that can't sleep without being fucked.",
+      "[Michael] In order to carry out the divine will bestowed upon me, I need to satisfy my needs first...♥",
+      "[Master] Look how thirsty you are… I may be in for a marathon.",
+      "[Michael] Ahhh… Your big thick cock！I-It's inside♥",
+      "[Michael] You're filling up my hole… I can feel it spasming just from insertion♥ It's so good！Ahh~♥",
+      "[Michael] Nghh~ Not good...♥ An angel's body… shouldn't become addicted to sex.",
+      "[Michael] Hah, but… we were created with this body♥ So it must mean we were meant to enjoy it, right?",
+      "Michael may not have noticed, but she's been subconsciously thrusting her hips against ${playername} as he pounded her. At the same time, her hands moved all across her needy body.",
+      "[Michael] I-I'm going to climax from my pussy… Ahh!",
+      "[Michael] Mhmmm~♥"
+    ]
+  },
+  "story_hcg26": {
+    "prefix": "story_hcg26",
+    "name_en": "Story Hcg26",
+    "name_zh": "story_hcg26",
+    "costumes": [],
+    "models": [
+      "story_hcg26"
+    ],
+    "dialogues": [
+      "[Anubis] …Really now？They're at it again, how indecent.",
+      "Inside the temple, Anubis continued to focus her attention on the girl that she had a crush on. However, after a certain man appeared, the girl made love to him day after day.",
+      "[Anubis] Just what's so good about that guy?",
+      "[Anubis] He's just some asshole that is always drinking, fucking, and a player to boot.",
+      "[Anubis] … She does seem a lot happier than before… but…",
+      "Anubis couldn't take her eyes off the girl writhing and moaning. Her passion seems to ignite even the air.",
+      "[Anubis] (D-Does it really feel that good…?)",
+      "[Anubis] (I-I think I'm feeling a little something… Ngh…)",
+      "[Anubis] I-It isn't anything special… How is that girl having such a big reaction from just having her breasts caressed…",
+      "She put down her scepter and slowly inched her fingers toward her privates...",
+      "[Anubis] Is she just trying to satisfy the male urge to conquer anything beneath them?",
+      "[Anubis] Or maybe… the girl just isn't experienced enough…",
+      "[Anubis] I can't forgive such an ugly cock that goes around tricking innocent girls…",
+      "[Anubis] Mhmm…♥ He's such a beast, pounding away with careless abandon.",
+      "[Anubis] Can't he be a bit more gentle with this cute little girl？Men… Nghh♥",
+      "[Anubis] He should be a bit more careful if his cock is so girthy…",
+      "Anubis grumbled angrily as an uncontrollable feeling of lust stirred deep inside her. She put down her scepter and took out a stick used for massages.",
+      "[Anubis] Ahh… he should play around the entrance first♥",
+      "[Anubis] Slowly and gently spread apart the lips… and gradually insert it...♥",
+      "[Anubis] All the while murmuring sweet nothings in the ear of the girl… Pant… And give her a passionate embrace…",
+      "Anubis seemed to be judgemental, but in reality, she's just indulging in voyeurism to get off.",
+      "[Anubis] Wait for her to get used to it… then gently stick it in… Yes, just like that… Ahhh♥",
+      "[Anubis] Explore the sensitive erogenous zones… and stimulate them♥",
+      "[Anubis] D-Don't be like that fool who only knows how to pound away… Ahhh~♥",
+      "[Anubis] Caressing can increase the sensitivity of the body and increase pleasure♥"
+    ]
+  },
+  "story_hcg27": {
+    "prefix": "story_hcg27",
+    "name_en": "Story Hcg27",
+    "name_zh": "story_hcg27",
+    "costumes": [],
+    "models": [
+      "story_hcg27"
+    ],
+    "dialogues": [
+      "The girl in front of him is wrapped up like a mummy. If it weren't for her flushed cheeks, she could be easily mistaken for a corpse.",
+      "[Master] First, let me test her reaction…",
+      "[Master] It would be troublesome if she lays there like a dead fish.",
+      "[Tutankhamun] Mhmm…",
+      "Tutankhamun lets out a slight moan from being touched, and even through the bandages, her nipples can be seen perking up.",
+      "[Master] So that's how it is. She's in a state of pseudo-death more akin to a deep slumber.",
+      "[Master] That makes things easier！I'll just have to make you climax in your sleep!",
+      "${playername} unwraps the bandages and reveals Tutankhamun's groin. It glistens slightly, but the wetness is far from enough.",
+      "[Tutankhamun] Nghh…",
+      "[Master] Such an innocent body… She probably doesn't even know what her breasts are used for.",
+      "[Tutankhamun] Hmm?",
+      "Tutankhamun murmurs in her sleep as if in response to ${playername}.",
+      "[Master] Such is the pleasure of developing virgin lands. Let me make her a bit wetter.",
+      "[Tutankhamun] Ahhh… It tickles…",
+      "[Tutankhamun] Hah… What is this… a little kitten…?",
+      "[Tutankhamun] S-Stop licking me… Ahh…",
+      "Tutankhamun squirms from the foreign pleasure, but her body is restricted by the bandages. Her sensitive pussy has become a sopping mess thanks to ${playername}'s tongue.",
+      "[Tutankhamun] No… stop, don't do that… Ahh…",
+      "[Tutankhamun] B-Bad kitty… Meow~ Please stop it.",
+      "[Master] (She seems to be having a dream where she's being licked by a cat~)",
+      "[Tutankhamun] Ahh… Not there… Mhmm♥",
+      "[Tutankhamun] I feel this weird sensation in my lower body…",
+      "[Tutankhamun] Where did the little kitty go?",
+      "[Tutankhamun] Mhmm?!",
+      "[Master] (Her body is reacting honestly… It looks like I can be a bit rougher.)"
+    ]
+  },
+  "story_hcg28": {
+    "prefix": "story_hcg28",
+    "name_en": "Story Hcg28",
+    "name_zh": "story_hcg28",
+    "costumes": [],
+    "models": [
+      "story_hcg28"
+    ],
+    "dialogues": [
+      "[Dorothy] Looking at your expression... hehe~ Even you didn't expect this, right?",
+      "[Dorothy] To be bound by me, unable to move at all...",
+      "[Dorothy] Didn't I tell you？I will definitely make your power mine...",
+      "[Dorothy] You will never be able to lecture me with that high and mighty tone ever again!",
+      "[Dorothy] Did a loophole in your defenses appear because Sylv is missing?",
+      "[Dorothy] But Sylv looked very excited and even helped me with my plan when she heard that I wanted to dominate you.",
+      "Dorothy kept playing with ${playername} as she spoke, but he was unable to move. Having a rare opportunity to look down on someone she looked up to was making Dorothy very excited.",
+      "[Dorothy] If she were here, she would definitely say, 'How can you miss such a great opportunity!' right?\"",
+      "[Dorothy] So, this is also to fulfill the promise with her...",
+      "[Dorothy] Here it comes... Get ready to take me on♥",
+      "[Dorothy] Hmm, hmm...♥",
+      "[Dorothy] Ha, um... impressive... this troublesome meat rod is so hard to resist...",
+      "[Dorothy] You give me a similar feeling...",
+      "[Dorothy] So arrogant and proud... your meat rod...♥",
+      "[Dorothy] So good, really good♥",
+      "[Dorothy] How does it feel to have a woman under your control have her way with you？Hah, ohh...",
+      "[Dorothy] Even if I play with your nipples, you can't resist, and my little pussy is sucking your cock dry...♥",
+      "[Dorothy] It seems that this time, you are the one who became my trophy~",
+      "[Dorothy] Hoo hoo... feels good, right？♥ Me too, mmm... so good...!",
+      "[Dorothy] How about it？Want to become my man?",
+      "[Dorothy] Are you showing off because you think I can't keep up with you？Hmph!",
+      "[Dorothy] Even though you relied on our saliva to survive back then as well...♥",
+      "Dorothy salivated and watched with satisfaction as it flowed into ${playername}'s mouth. Her privates started to tighten even more.",
+      "[Dorothy] If I don't loosen up that stiff meat rod for you, I'm sure your brain will also become rigid, right?♥",
+      "[Dorothy] Hmm...uh...this meat rod...is really naughty..."
+    ]
+  },
+  "story_hcg29": {
+    "prefix": "story_hcg29",
+    "name_en": "Story Hcg29",
+    "name_zh": "story_hcg29",
+    "costumes": [],
+    "models": [
+      "story_hcg29"
+    ],
+    "dialogues": [
+      "[Dracula] Th-This kind of thing... I...",
+      "[Lupin] Hehe, are you shy...？That's so cute, but you don't dislike it, right?",
+      "[Lupin] Although I want to say that I will guide you, the instinct of women to pursue happiness... has already been deeply ingrained within us.",
+      "[Dracula] Even if I am a vampire... is that okay with you?",
+      "[Lupin] When we're in bed-",
+      "[Dracula] Ah...♥",
+      "[Lupin] I just might be the real vampire who seduces innocent girls.",
+      "[Dracula] I got bitten by a human... Even though I am the vampire...？It feels so exciting somehow♥",
+      "[Lupin] Come on... let's make each other comfortable...",
+      "Arsène Lupin sucked on Dracula's fingers. Her soft tongue continuously teased and played with the fingers in her mouth, making Dracula's heart flutter with desire.",
+      "[Dracula] That... if you keep licking like that... ah... ah ah... ♥",
+      "[Dracula] That... feels... feels so good...♥",
+      "[Lupin] Ah... mmm... Your fingers are so delicious ♥",
+      "[Dracula] Arsène... I... feel something strange inside me...",
+      "[Lupin] Hmm... *sigh* Hmm... *sigh* Ha... *sigh*",
+      "[Dracula] Arsène... I... feel... so strange... I need to...",
+      "[Lupin] Me too... you look so beautiful right now！You have completely stolen my heart!",
+      "[Lupin] I also... want you...!",
+      "[Dracula] Uh huh...",
+      "[Dracula] Being touched like this... it feels... so good... ♥",
+      "[Lupin] Dracula... you seem very excited too... I can feel you clit constantly rubbing against mine♥",
+      "[Dracula] Ah, ah... even though I haven't been inserted, it feels really good...",
+      "[Dracula] When you rub me like this... It feels even better than before... ♥",
+      "[Lupin] This is how women make love...",
+      "[Lupin] Feels different from a man's thing, doesn't it?"
+    ]
+  },
+  "story_hcg30": {
+    "prefix": "story_hcg30",
+    "name_en": "Story Hcg30",
+    "name_zh": "story_hcg30",
+    "costumes": [],
+    "models": [
+      "story_hcg30"
+    ],
+    "dialogues": [
+      "[Gretel] W-Wait a minute！This is so different from what I'd imagined!",
+      "[Naphissa] Oh？And what did you \"imagine?\"",
+      "[Gretel] A-Anyway, just let go of me！I'm done！Let me out！I was right not to trust you, you evil, conniving witch!",
+      "[Naphissa] That's a nooo~♥",
+      "[Naphissa] Because... I've wanted to have a taste of a cute girl like you for a looong time now♥",
+      "[Naphissa] The soft pussy of a Dessert Hunter... everyone would crave a taste, wouldn't they?",
+      "[Gretel] Hah...！W-What...?!",
+      "[Naphissa] You feel that？That's something most women don't have~!",
+      "[Naphissa] If you don't behave, I just might slip...",
+      "[Gretel] Quit rubbing on me like...that...it f-feels so... ahh...♥",
+      "[Gretel] A mere witch's illusion... you think I would surrender so easily?",
+      "${playername} inserted some fingers into Naphissa's pussy, hitting the most sensitive spot repeatedly.",
+      "[Naphissa] Ngahh♥ Lord Archfiend knows me the best♥",
+      "[Naphissa] Gretel is such a cutie pie, and Lord Archfiend's fingers... my pussy has not felt so good in a while~",
+      "[Naphissa] Ahh... fucking a cute girl's pussy and being fucked at the same time...",
+      "[Naphissa] I'm the happiest witch in the world...♥",
+      "[Gretel] That's why I said...I don't want your...ahh!",
+      "[Naphissa] Haahhhh♥ Sucking so tight on my cock—you really know your stuff, Gretel♥",
+      "[Naphissa] Your pussy is just as soft and tender as I had thought...I'm melting♥",
+      "[Gretel] T-Take it out...How dare you—with your fake...I hate it...！Hmm...!",
+      "[Naphissa] So cold？But your hot little pussy says something different...♥",
+      "[Master] I don't get the fuss, but this is new. It's my turn now.",
+      "[Master] After all, you can't be the only one feeling good!",
+      "[Naphissa] Ahh...♥ Lord Archfiend's...it's inside me♥",
+      "[Gretel] H-Hmm ahh?！I-It feels...♥"
+    ]
+  },
+  "story_hcg31": {
+    "prefix": "story_hcg31",
+    "name_en": "Story Hcg31",
+    "name_zh": "story_hcg31",
+    "costumes": [],
+    "models": [
+      "story_hcg31"
+    ],
+    "dialogues": [
+      "It was yet another ordinary weekend morning.",
+      "Without the pressure of alarm clocks, it was natural for ${playername} to sleep in, satisfying the deepest desires of a salaryman.",
+      "[Master] (Hmm？Smells delicious... is that... French toast?)",
+      "[Mia] Heeeyyy!",
+      "[Mia] We've been through this~ Even if you don't have work today, you should wake up at the same time!",
+      "[Master] ...？Who are you？I don't have a sister.",
+      "[Mia] ...Sigh...there you go again...",
+      "[Mia] If you don't have a sister, am I your brother then?",
+      "[Mia] Go and wash your face.",
+      "[Mia] And theeen, you get to enjoy your sister's special breakfast of love. It's your favorite—French toast!",
+      "[Master] (In what universe do sisters dress up like this to make breakfast for their brothers?)",
+      "[Master] (Well, it's a dream after all...I guess I can do whatever I want, right?)",
+      "[Master] (I shall teach this shameless sister a lesson!)",
+      "[Mia] Hey...!",
+      "[Mia] Awww... How many times have we been through this...",
+      "[Mia] I'm still making breakfast here... you sure know how to pick your moments...",
+      "[Mia] All randy in the morning... how am I supposed to make breakfast now?",
+      "[Mia] Well, but I guess you're tired from working hard all week, aren't you?",
+      "[Mia] My big brother works so hard, I should do my part... and help you relax...♥",
+      "[Mia] Hey...now now!",
+      "[Mia] Careful now... I've got a spatula in my hand...!",
+      "[Mia] Hmm~ you naughty boy...",
+      "[Mia] Who would've known... this workaday brother...",
+      "[Mia] ...was a big bad brother who fucks his sister so hard every weekend she can't walk...",
+      "[Mia] Does any of your female colleagues flirt with you?"
+    ]
+  },
+  "story_hcg32": {
+    "prefix": "story_hcg32",
+    "name_en": "Story Hcg32",
+    "name_zh": "story_hcg32",
+    "costumes": [],
+    "models": [
+      "story_hcg32"
+    ],
+    "dialogues": [
+      "[Aurora] Nghh...Where...am I...?",
+      "[Naphissa] Hehe~ Welcome to the Witch's lab.",
+      "[Aurora] Naphissa?",
+      "[Naphissa] Oh dear~ please think of me as your doctor...",
+      "[Naphissa] I'm going to cure you of your torturous curse!",
+      "[Naphissa] Although that guy prevented your death, but you still suffer from the side effects, don't you?",
+      "[Aurora] I would be happy, of course, if the curse could be lifted...",
+      "[Aurora] B-But why must we do this...?",
+      "[Naphissa] When your body is in heat, that guy's magic comes alive...",
+      "[Naphissa] This way, we can get a even better analysis of what's happening in your body.",
+      "[Naphissa] Rest assured, these vines reading information off you...they should only bring you pleasure.",
+      "[Aurora] Ahh, ahhh...hmm...",
+      "Whenever the pricks on the vines treaded over her skin, Aurora felt a subtle tingle, causing her to twist and turn.",
+      "[Naphissa] Hehe~ What did I tell you？But this level of activity... is far from enough.",
+      "[Aurora] Huh...hmm, ahh...?!",
+      "Unaware of what the sorceress did, Aurora felt a familiar pleasure coming from her chest, akin to ${playername}'s touch.",
+      "[Naphissa] I simulated that guy's touch from the data I collected. Now your body thinks it's having sex with the Archfiend...",
+      "[Aurora] Mmm, hoo... ahh... so strange...",
+      "[Naphissa] Looks like it's working~~ isn't it great?",
+      "[Naphissa] Being touched by him... ravaged...♥",
+      "[Naphissa] The magic reading... is off the charts as well. After all, pleasure and Archfiend come hand in hand~",
+      "[Naphissa] I'm speeding things up now?",
+      "[Naphissa] Using the data of his cock collected from my body...",
+      "[Aurora] H-Hold on...",
+      "[Naphissa] As if I would~~♥"
+    ]
+  },
+  "story_hcg33": {
+    "prefix": "story_hcg33",
+    "name_en": "Story Hcg33",
+    "name_zh": "story_hcg33",
+    "costumes": [],
+    "models": [
+      "story_hcg33"
+    ],
+    "dialogues": [
+      "[Noctis] Finally, I can serve by Lord Archfiend's bedchamber. ♥",
+      "[Noctis] Are my sisters also receiving Lord Archfiend's love right now?",
+      "[Noctis] How amazing you are, capable of loving all of us at the same time...♥",
+      "[Noctis] Lord Archfiend, I am so happy to be able to fight for you and protect you as your knight.",
+      "[Noctis] Whenever I think of Lord Archfiend... I can't help but secretly watch you from afar and masturbate...",
+      "[Noctis] Oh? L-Lord Archfiend, do you know...?",
+      "[Noctis] Do you know how I think about your cock?",
+      "[Noctis] Smelling your scent... like this...",
+      "[Noctis] Licking off the top of your cock...",
+      "[Noctis] Oh, ah...Lord Archfiend's taste...so rich and intense...",
+      "[Noctis] I, Noctis, who steadfastly defend the front lines for you, will gladly accept your manhood and essence. ♥",
+      "[Noctis] Nghh...♥",
+      "[Noctis] (Phew, finally...Lord Archfiend's cock ♥)",
+      "[Noctis] (The aroma I've been longing for, ah, it's so wonderful... it's wafting into my nose...♥)",
+      "[Noctis] Lord Archfiend, does this feel comfortable?",
+      "[Noctis] Oh... I can do even more, you know?",
+      "[Noctis] I will always cheer for Lord Archfiend... and work hard for you... ♥",
+      "[Noctis] You've been gazing at Noctis the whole time, haven't you…♥ Noctis has also been keeping you company♥",
+      "[Noctis] Lord Archfiend's cock is so hard, ah...♥",
+      "[Noctis] I'm almost there... Yes, please give it all to me ♥",
+      "[Noctis] Ah...!",
+      "[Noctis] Nghhaaahhhhh—♥",
+      "[Noctis] ... hah... phew...",
+      "[Noctis] Wasn't I right? I caught.... all of you ♥",
+      "[Noctis] I'm so happy... How will you spoil me tonight?"
+    ]
+  },
+  "story_hcg34": {
+    "prefix": "story_hcg34",
+    "name_en": "Story Hcg34",
+    "name_zh": "story_hcg34",
+    "costumes": [],
+    "models": [
+      "story_hcg34"
+    ],
+    "dialogues": [
+      "[Snow White] Lord Archfiend, come and play with us~♥",
+      "[Elizabeth I] How dare you! You dare to treat me like this...!",
+      "[Snow White] Mommy, that's not right♥ How can you be so rough with Daddy?",
+      "[Snow White] A family should be tight! Meow~ Meow meow, Dad, come and show me some love♥",
+      "[Elizabeth I] Ugh... Why am I...",
+      "[Elizabeth I] Huh?",
+      "[Snow White] Ah, Daddy's fingers... so naughty ♥",
+      "[Elizabeth I] Please don't keep... digging inside... Ahh!",
+      "[Snow White] Mmm, yes, it feels so good ♥ Mommy, you look so comfortable too.",
+      "[Elizabeth I] Absolutely not! Snow White, you are my daughter... How could you do this...",
+      "[Elizabeth I] Ah, mmm...♥",
+      "[Snow White] Mommy... Don't overthink it, let's be happy together ♥",
+      "[Elizabeth I] Ah... um... oh... ♥",
+      "[Snow White] Mommy, you're so awkward at kissing... It's so cute~ Ah, ha ♥",
+      "[Elizabeth I] (Why... does it feel so good... I can't... ah...)",
+      "[Snow White] Ah~~♥",
+      "[Snow White] While I'm kissing Mommy, daddy is also thrusting inside me. It feels so good, I love it.",
+      "[Snow White] I'm so... deeply loved by my parents♥",
+      "[Snow White] Daddy, you shouldn't let Mom feel lonely. Hurry up and make a clone to fuck her! ♥",
+      "[Elizabeth I] Ah... Snow White, you... Ah...!",
+      "[Elizabeth I] (What am I doing... Even though I feel repulsed, my body... Mmm ♥)",
+      "[Snow White] Oh, Mommy, you look so comfortable, I can't help but lift my hips. ♥",
+      "[Elizabeth I] It's just that... I just don't want to lose to this damn cock♥",
+      "[Snow White] Ah, ah...so good...I like it so much...",
+      "[Snow White] Daddy... you're cock is so close to my face. It has such a strong scent ♥"
+    ]
+  },
+  "story_hcg35": {
+    "prefix": "story_hcg35",
+    "name_en": "Story Hcg35",
+    "name_zh": "story_hcg35",
+    "costumes": [],
+    "models": [
+      "story_hcg35"
+    ],
+    "dialogues": [
+      "After the curtains closed on the stage, the audience, immersed in the lingering charm of the performance, was reluctant to leave. They kept cheering the name of the Ugly Duckling.",
+      "[Master] The audience is really passionate, huh~",
+      "[Master] They could never imagine that this up-and-coming star... Is just waiting to have sex backstage.",
+      "[Ugly Duckling] Mmm...♥",
+      "[Ugly Duckling] This... this is only for you to see.",
+      "[Master] Even with a vibrator and semen inside your vagina, you can still put on such a fantastic performance on stage...#You truly are amazing.",
+      "[Ugly Duckling] Thank you... I worked really hard for this.",
+      "[Ugly Duckling] When I thought about what would happen if everyone saw semen drip down my legs, I was almost too scared to raise my leg...",
+      "[Ugly Duckling] Also, because of the impact of the vibrating, my body was so excited that my legs went weak...",
+      "[Master] It's that tension that makes your performance today even better than before. You're such a slutty little duck.",
+      "[Ugly Duckling] I can't hold it in anymore, I want to receive your reward... May I?",
+      "[Master] Let me see... you must be in heat, you're all swollen down here.",
+      "[Ugly Duckling] Yes, I already... can't control my desire for your cock...",
+      "[Master] Was your mind filled with images of us making love before the performance?",
+      "[Master] The show was about to start, but you kept shaking your butt and asking for \"more ♥\"",
+      "[Ugly Duckling] Hey...you don't have to say it out loud...♥",
+      "[Master] Alright, since you've shown me such a brilliant performance, I have to give you flowers, right?",
+      "[Ugly Duckling] Ah...!",
+      "[Ugly Duckling] Oh... it all came out... I feel so empty...",
+      "[Ugly Duckling] Please, fill me up... with your cock... Reward the real me... who just stepped off stage...",
+      "[Ugly Duckling] Mmm... ♥",
+      "[Ugly Duckling] Mmm… Ah... making love... after a performance... is so good♥",
+      "[Ugly Duckling] I kept thinking... Lord Archfiend... about how you watched me as part of the audience♥",
+      "[Ugly Duckling] Mmm, oh... ♥ The real me... this real secret of mine... ♥",
+      "[Ugly Duckling] I'll let you... and only you see... the hidden... side of me..."
+    ]
+  },
+  "story_hcg36": {
+    "prefix": "story_hcg36",
+    "name_en": "Story Hcg36",
+    "name_zh": "story_hcg36",
+    "costumes": [],
+    "models": [
+      "story_hcg36"
+    ],
+    "dialogues": [
+      "[Mia] Big brother, are you listening?",
+      "[Mia] You seem really distracted...?",
+      "[Mia] You already have such a cute look on your face just because I touched your cock. I'm just a little sister helping their brother masturbate, it's no big deal.",
+      "[Mia] Regular siblings are all like this... I promise♥",
+      "[Mia] You can't move, okay? I want to inspect big brother's cock closely.",
+      "[Mia] Let me cover the scent of other women with my own... ♥",
+      "[Mia] You always use this cock to go in and out of other women...",
+      "[Mia] However, I know that in your heart, there's only me, right?",
+      "[Mia] Because you and I are from the same place, we share the same memories...",
+      "[Mia] Only we can truly understand each other... ♥",
+      "[Mia] Jealous? I am not such a narrow-minded person.",
+      "[Mia] They're nothing but mindless zombies that you use as fleshlights♥",
+      "[Mia] Ah, your cock is trembling... Is it this comfortable for you, brother?",
+      "[Mia] But that won't do~! You can't come yet...♥",
+      "[Mia] Can you endure it for the sake of your beloved sister?",
+      "[Mia] Your little sister...",
+      "[Mia] I will cheer you on — ♥huff huff♥",
+      "[Mia] No, not yet - I want my brother's super intense...",
+      "[Mia] ...and super thick semen♥",
+      "[Mia] Poor thing, you look like you're shivering. Your face is all distorted♥",
+      "[Mia] You're so cute♥ You must be dying to cum, right?",
+      "[Mia] The pathetic sight of you struggling to cum. Only I am allowed to see this♥",
+      "[Mia] I'm so happy... ♥ Ah~ Let me hear more intense moans from you, big brother... ♥",
+      "[Mia] I will always watch over you and keep you company. I will make you feel comfortable and happy♥",
+      "[Mia] So? Well? Will you also keep me in your mind forever? Please?"
+    ]
+  },
+  "story_hcg37": {
+    "prefix": "story_hcg37",
+    "name_en": "Story Hcg37",
+    "name_zh": "story_hcg37",
+    "costumes": [],
+    "models": [
+      "story_hcg37"
+    ],
+    "dialogues": [
+      "[Mia] Ah, ah ah... ♥",
+      "[Mia] Hmm♥ I can't even remember how many times it has been...",
+      "[Mia] You've been cumming into my butt nonstop, Big Brother...",
+      "[Mia] My belly already... ahh... feels so strange...",
+      "[Master] Isn't this the magic that you craved so much? Take it!",
+      "[Mia] Hmm, ahh...! No... it feels so weird...!",
+      "[Mia] Ah♥ The magic is so warm and thick, yet I can't absorb any of it...",
+      "[Mia] Ah, Big Brother... D-Don't poke me in that place... hmm...",
+      "[Mia] Th-That's my womb♥",
+      "Mia couldn't take it anymore. Despite ${playername} never entering her vaginally, the relentless torment of her rear made it feel like her uterus was being fiercely attacked. The overwhelming sensation, combined with a flood of semen spilling out, drove Mia to the edge of her tolerance, forcing her to cry out and beg for relief.",
+      "[Mia] Why... my belly feels so hot... Big Brother's semen is burning me up inside♥",
+      "[Mia] Ah, hmm... th-there's something inside... hngh!",
+      "[Master] You've built up a good amount of mana now... so you should know what's about to happen.",
+      "[Mia] No... something's coming out of me...♥",
+      "[Mia] Hngh... I-It's coming out now...",
+      "[Mia] Ahhhhh...♥♥",
+      "[Master] You've laid such a pretty mana egg... time to make you lay even more!",
+      "[Mia] AH, no...!",
+      "[Mia] Big Brother... stop... I don't want to keep...",
+      "[Mia] Hmm... ahh...♥ My belly feels funny again...♥",
+      "[Mia] All my magic disappeared again, ahh...♥",
+      "[Mia] My hope, and my magic... was turned into an egg inside my womb♥",
+      "[Mia] It's all because your cock keeps bullying me and making me lay eggs, Big Brother♥",
+      "[Mia] Ooh... An-Another one just formed in my belly...ahh♥",
+      "[Mia] S-Stop! I know I shouldn't do this, but my body...♥"
+    ]
+  },
+  "story_hcg38": {
+    "prefix": "story_hcg38",
+    "name_en": "Story Hcg38",
+    "name_zh": "story_hcg38",
+    "costumes": [],
+    "models": [
+      "story_hcg38"
+    ],
+    "dialogues": [
+      "At night, Pang Chunmei arrives at the inn where you are staying and delivers a message from Pan Jinlian. Upon hearing it, you immediately set out for the Golden Lotus.",
+      "Pang Chunmei guides you through the bustling crowd—a sea of pleasure-seekers thronging the entrance. Though you're no stranger to this opulent establishment, an unexpected unease settles over you.",
+      "[Master] (After refusing to see me for so many days, today I can finally…)",
+      "You stand before Pan Jinlian's door and give it two gentle knocks.",
+      "[Pan Jinlian] Come on in.",
+      "You push open the door and finally lay eyes once more upon that peerless, breathtaking face.",
+      "[Pan Jinlian] Stunned, are you?",
+      "A few dim candles flicker in the room, casting a hazy glow over Pan Jinlian's silhouette. She lounges casually by the bed, her seductive outfit half undone and revealing a generous expanse of pale, flawless skin.",
+      "[Master] I was just thinking… who in the world was heartless enough to leave such a beautiful woman all alone in her chamber?",
+      "[Pan Jinlian] Always so slick with your words.",
+      "[Pan Jinlian] Well… you're certainly persistent. I'll give you that.",
+      "[Master] I do have a favor to ask of you… But I fear bringing it up now would ruin the mood.",
+      "You speak as you walk toward Pan Jinlian, your eyes drifting continuously across the curves of her alluring figure.",
+      "[Pan Jinlian] Glad you realize that.",
+      "As you approach the bedside, Pan Jinlian suddenly flips over and pins you down onto the bed.",
+      "[Master] Haha... this takes me back to that night.",
+      "[Pan Jinlian] Do you remember what you said that day?",
+      "[Master] ...",
+      "[Pan Jinlian] Why so quiet? Did it slip your mind?",
+      "[Pan Jinlian] Oh well, I guess I've got no choice… Let me ask this big thing over here instead~ ♥",
+      "As she speaks, Pan Jinlian cradles your penis between her ample breasts.",
+      "[Master] Mm...",
+      "[Pan Jinlian] With that look on your face… remembering something~? ♥",
+      "A pair of snow-white, enormous breasts, kneaded and squeezed by Pan Jinlian, appear incredibly erotic. Their soft touch sends waves of tingling numbness through your lower body.",
+      "[Master] Jinlian..."
+    ]
+  },
+  "story_hcg39": {
+    "prefix": "story_hcg39",
+    "name_en": "Story Hcg39",
+    "name_zh": "story_hcg39",
+    "costumes": [],
+    "models": [
+      "story_hcg39"
+    ],
+    "dialogues": [
+      "[Arthur] Lord Archfiend, you're still awake at this hour?",
+      "Arthur instantly recognizes it is you from the sound of footsteps on the stairs.",
+      "[Master] You're up late too, Arthur.",
+      "You walk over to Arthur and find her standing alone by the trees in the garden, gazing up at the starry sky. Her figure looks a little lonely in the night.",
+      "[Master] Don't overthink it, Arthur.",
+      "[Master] It's not your fault.",
+      "You speak softly to comfort her and wrap your arms tightly around her from behind.",
+      "[Arthur] But... I still...",
+      "You do not let her finish speaking. Instead, you lower your head and press a gentle kiss to her lips.",
+      "[Master] What you need right now is to relax. Let yourself set aside the burdens that have been weighing on your shoulders, even if just for a while…",
+      "You gently caress Arthur's body, slowly removing her clothes one by one, and press her against a nearby tree...",
+      "[Arthur] Mmm...",
+      "Arthur lets out a soft moan, her body beginning to tremble slightly.",
+      "Your hardened shaft feels the growing heat and dampness between her thighs, sensing her lust begin to rise, and you press in with greater intensity, deepening the friction.",
+      "[Arthur] Haah...♥",
+      "Sensing the soft touch and Arthur's increasingly rapid breathing, your desire intensifies.",
+      "[Master] Let yourself relax, little by little…",
+      "[Arthur] Relax, little by little... mmm... ♥",
+      "[Arthur] Being in your arms like this… makes me feel safe… It's so comforting…",
+      "You wrap your arms around Arthur, kneading her slender waist and the heavy breasts that hang enticingly due to her posture. The massive rod between your thighs begins to tremble with restless desire.",
+      "[Master] That's right… being a little clingy once in a while isn't so bad, right?\"",
+      "[Arthur] B... But...",
+      "[Master] You carry so much on your shoulders without even noticing. What you see as ordinary would overwhelm most people.",
+      "[Master] Every now and then, you should try to see things differently—and give yourself a break.",
+      "[Arthur] ${playername}… ♥ What should I do?"
+    ]
+  },
+  "story_hcg40": {
+    "prefix": "story_hcg40",
+    "name_en": "Story Hcg40",
+    "name_zh": "story_hcg40",
+    "costumes": [],
+    "models": [
+      "story_hcg40"
+    ],
+    "dialogues": [
+      "After a harrowing battle with countless grotesque monsters, you and Miyamoto Musashi arrive at a town near Lunia, finally able to rest for a while.",
+      "[Miyamoto Musashi] Looks like this is where we'll be staying tonight. Not bad inside, actually.",
+      "Miyamoto Musashi pushes open the inn room door, glancing around the interior. Though the space is small, everything is tidy and in order—no dust on the windows, bed, or floor.",
+      "[Master] I figured the last room left would be pretty lousy, but it turns out that beautiful receptionist really wasn't lying.",
+      "[Miyamoto Musashi] Oh, so you were actually listening to her? I thought you were just staring at her ridiculously large chest.",
+      "[Master] Do I look like someone who would do that?",
+      "[Miyamoto Musashi] Are you not...? Just look at what's going on in your pants.",
+      "You follow Miyamoto Musashi's gaze.",
+      "—Sure enough, your “little buddy” refuses to cooperate and is standing completely at attention.",
+      "[Master] It's not because I was looking at her chest…",
+      "[Miyamoto Musashi] Oh? Then what is it? Don't tell me you got excited from fighting those monsters just now?",
+      "[Master] I don't have that kind of kink... It's just… being alone in a room with a woman as attractive as you, I couldn't help myself.",
+      "As you speak, you lean closer to Miyamoto Musashi, drawn in by her scent and warmth.",
+      "[Master] Don't tell me you came to look for me just for training. There must be another reason, right?",
+      "[Miyamoto Musashi] Didn't you say it yourself...? That kind of counts as... training too…",
+      "Feeling your breath on her ear, Musashi's breathing quickens.",
+      "Wasting no time, you lift her from behind and spread her legs.",
+      "[Miyamoto Musashi] Ah…!",
+      "[Miyamoto Musashi] Why do you still have so much stamina…? You're unbelievable…",
+      "[Master] When a woman like you is right in front of me, there's no way I could resist.",
+      "With those teasing words, the air in the room grows thick with lust. You and Miyamoto Musashi feel each other's soft lips melt together in a kiss.",
+      "[Miyamoto Musashi] Smoooch... smoooch...",
+      "The intertwining of mucous membranes always brings endless pleasure. This sensation excites you even more, as your firm shaft presses tightly against Musashi's steaming entrance.",
+      "[Master] Looks like I guessed right—you can't wait, can you?",
+      "[Miyamoto Musashi] Aren't you the one who can't wait?"
+    ]
+  },
+  "story_hcg41": {
+    "prefix": "story_hcg41",
+    "name_en": "Story Hcg41",
+    "name_zh": "story_hcg41",
+    "costumes": [],
+    "models": [
+      "story_hcg41"
+    ],
+    "dialogues": [
+      "In the dead of night, in Merlin's alchemy workshop, you wake up groggily to use the restroom and head back to bed, but bump into something, instantly dispelling your sleepiness.",
+      "[Master] What is it…? Huh? Merlin?!",
+      "[Merlin] Hehe... I've finally been waiting for this chance. Your little sidekick is fast asleep—now I can put my plan into action.",
+      "[Master] Sidekick? You mean Musashi?",
+      "[Merlin] That's right. Now there's no one to interrupt us.",
+      "[Master] Huh? What are you—",
+      "Merlin looks over at Musashi, peacefully asleep, then unexpectedly presses you back against the table, putting a finger to her lips for silence.",
+      "[Merlin] Quiet.",
+      "Lowering her voice, she deftly slides off your pants and bares her full, heavy breasts.",
+      "[Merlin] What I'm about to do is purely for research, of course~",
+      "[Merlin] Oh my, why is it already so hard as soon as I take your pants off? Lord Archfiend's little friend~",
+      "[Master] It's only because I just work up...",
+      "[Merlin] Are you sure it's not because you saw my body that you got this excited?”",
+      "At her words, your penis twitches slightly—almost as if to say that Merlin is, in fact, part of the reason you're so hard.",
+      "Merlin gently wraps her hand around your growing erection, leaning in to take in its scent up close.",
+      "[Merlin] Mm... what a wonderful masculine scent. Though I think I also smell a little bit of the bathroom you just visited...",
+      "[Master] ?!",
+      "[Merlin] Haha, I'm just kidding! But the scent your cock gives off... mm, it really is something else.",
+      "[Merlin] Just wait—the great mage Merlin's going to make you spotless myself in a minute!",
+      "[Merlin] But before that...",
+      "Merlin's eyes light up with curiosity as she wraps her slender hand around your shaft, pumping gently. The silky touch of her palm and delicate fingers sends intense pleasure straight through your rod.",
+      "[Merlin] It feels pretty good, doesn't it, when I move my hand like this~?",
+      "[Master] Ugh... What are you even trying to do?",
+      "[Merlin] It's all for science! I want to study your body's structure, Lord Archfiend! And… see exactly how your body reacts to mine! ♥",
+      "Merlin's stroking grows more rapid, and a glistening bead of precum appears at your tip."
+    ]
+  },
+  "story_hcg42": {
+    "prefix": "story_hcg42",
+    "name_en": "Story Hcg42",
+    "name_zh": "story_hcg42",
+    "costumes": [],
+    "models": [
+      "story_hcg42"
+    ],
+    "dialogues": [
+      "Under the watchful eyes of a crowd of soldiers, Yagyu Jubei and Hattori Hanzo are carried into a tent in Cecilia's temporary encampment...",
+      "[Yagyu Jubei] You... what are you planning to do...?",
+      "[Cecilia] Why, to enjoy the spoils of the hunt, of course.",
+      "[Hattori Hanzo] Hah...!",
+      "Hattori flips over and covertly throws a kunai at Cecilia, only for her to catch it with ease.",
+      "[Cecilia] As expected, facing opponents like you, I can't let my guard down for even a moment.",
+      "Cecilia tosses the kunai aside with a nonchalant smile, then shackles both Hattori and Yagyu, even gagging Yagyu's mouth.",
+      "[Cecilia] Let's start with you.",
+      "[Yagyu Jubei] What are you planning to do to Hanzo?!",
+      "[Cecilia] Don't be so impatient. Just stay right there and watch.",
+      "[Cecilia] Watch and see what happens to prey who dare to resist... how they're disciplined...",
+      "After removing her armor, Cecilia changes into a seductive outfit. Her voluminous breasts strain against black, sultry lingerie—simply impossible to ignore.",
+      "But what truly made it impossible to look away was the vicious strap-on she wore at her hips.",
+      "She fastens a collar around Hattori's neck, leashing her tightly with a chain in her right hand.",
+      "[Hattori Hanzo] Don't think any of this will work on me.",
+      "[Cecilia] Oh? Is that so?",
+      "Then let's see if you can still talk to me like that after a little discipline.",
+      "[Hattori Hanzo] Nngh...!",
+      "[Cecilia] We're just getting started. Why does it seem you're already feeling something?",
+      "[Hattori Hanzo] Hmph, don't flatter yourself so much.",
+      "[Cecilia] I won't deny my confidence. After all... not a single prey I've ever \"hunted\" has failed to submit to me.",
+      "Cecilia slightly increases the motion of her hips—not with a cold, mechanical rhythm, but while closely watching the subtle changes in Hattori's expression, teasing her senses.",
+      "[Cecilia] What an exquisite body...",
+      "Cecilia's gaze roams from Hattori's face to her bare torso and back again.",
+      "[Cecilia] These well-trained arms, waist, and legs... And these massive breasts, so naturally lewd..."
+    ]
+  },
+  "story_hcg43": {
+    "prefix": "story_hcg43",
+    "name_en": "Story Hcg43",
+    "name_zh": "story_hcg43",
+    "costumes": [],
+    "models": [
+      "story_hcg43"
+    ],
+    "dialogues": [
+      "Night falls over the border town of the Iris Principality, with a few lamps burning in the quiet bedroom.",
+      "Even after resting, Yagyu's forehead is still covered in cold sweat. Her fingers tremble, and her lips are pale, as if she's still struggling against some lingering power within her.",
+      "[Yagyu Jubei] Ah... it's... it's coming back... That power... it's still...",
+      "She clutches her head in pain, unable to suppress the lingering heat and mental pressure.",
+      "Merlin extends her right hand, enveloping Yagyu in warm magic, hoping to ease her discomfort.",
+      "[Merlin] ...The residual mental corruption is more stubborn than I imagined. Although there are no external wounds, the deep corruption of her soul will likely be difficult to resolve, even with magic.",
+      "[Miyamoto Musashi] What should we do, then? Is Jubei going to be all right?",
+      "[Merlin] To be honest... with her condition like this, I'm not sure I can completely resolve it myself.",
+      "[Miyamoto Musashi] How could this be...",
+      "[Merlin] However, ${playername} can do it.",
+      "[Master] Me?",
+      "[Merlin] Do you remember \"that\" analysis I did on you before?",
+      "[Master] A power that surpasses all elemental forces...",
+      "[Miyamoto Musashi] Hmm? What method is it?",
+      "[Merlin] Simply put, it means solving this problem with the method that ${playername} specializes in.",
+      "[Merlin] Let's leave this place to the two of them for now~",
+      "With that, Merlin leads Musashi out of the room.",
+      "In the bedroom, only the sounds of breathing and heartbeats remain. You have Yagyu lie flat on top of you, feeling the slight tremor in her body.",
+      "Her bra is pushed up beneath her collarbone as you gently cup and knead her full breasts with your warm hands.",
+      "[Yagyu Jubei] Nngh... ${playername}... my body... it feels like something is still churning inside... My head... is so dizzy...",
+      "[Yagyu Jubei] I left Hanzo behind... Damn it... I was too weak...",
+      "You lean close to her ear, whispering softly as your hands cradle and knead her breasts.",
+      "[Master] It's not your fault. What you need to do now is focus on recovering. We still have to save her, don't we?",
+      "Yagyu breathes heavily and nods slightly, as if she's not yet free from that oppressive shadow.",
+      "But... will this really get rid of that power...? I feel... my body getting hotter... ah...♥"
+    ]
+  },
+  "story_hcg44": {
+    "prefix": "story_hcg44",
+    "name_en": "Story Hcg44",
+    "name_zh": "story_hcg44",
+    "costumes": [],
+    "models": [
+      "story_hcg44_spine_Fin"
+    ],
+    "dialogues": []
+  },
+  "teaching_hcg02": {
+    "prefix": "teaching_hcg02",
+    "name_en": "Teaching Hcg02",
+    "name_zh": "teaching_hcg02",
+    "costumes": [],
+    "models": [
+      "teaching_hcg02_spine"
+    ],
+    "dialogues": []
+  },
+  "2.5nd_": {
+    "prefix": "2.5nd_",
+    "name_en": "2.5th Anniversary Special",
+    "name_zh": "二點五週年特刊",
+    "costumes": [],
+    "models": [
+      "2.5nd_Anniversary"
+    ],
+    "dialogues": []
+  },
+  "3rd_An": {
+    "prefix": "3rd_An",
+    "name_en": "3rd Anniversary Special",
+    "name_zh": "三週年特刊",
+    "costumes": [],
+    "models": [
+      "3rd_Anniversary"
+    ],
+    "dialogues": []
+  },
+  "3.5st_": {
+    "prefix": "3.5st_",
+    "name_en": "3.5th Anniversary Special",
+    "name_zh": "三點五週年特刊",
+    "costumes": [],
+    "models": [
+      "3.5st_Anniversary"
+    ],
+    "dialogues": []
+  },
+  "3.5rd_": {
+    "prefix": "3.5rd_",
+    "name_en": "3.5th Anniversary Redux",
+    "name_zh": "三點五週年特別篇",
+    "costumes": [],
+    "models": [
+      "3.5rd_Anniversary"
+    ],
+    "dialogues": []
+  },
+  "AprilF": {
+    "prefix": "AprilF",
+    "name_en": "April Fools Special",
+    "name_zh": "愚人節特刊",
+    "costumes": [],
+    "models": [
+      "AprilFools_Anniversary"
+    ],
+    "dialogues": []
+  },
+  "ct089": {
+    "prefix": "ct089",
+    "name_en": "Mamiya Marisa",
+    "name_zh": "間宮麻理沙",
+    "costumes": [],
+    "models": [
+      "ct089",
+      "ct089_CG"
+    ],
+    "dialogues": []
+  },
+  "ct091": {
+    "prefix": "ct091",
+    "name_en": "Da Vinci",
+    "name_zh": "達文西",
+    "costumes": [],
+    "models": [
+      "ct091_CG",
+      "ct091_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct092": {
+    "prefix": "ct092",
+    "name_en": "Salome",
+    "name_zh": "莎樂美",
+    "costumes": [],
+    "models": [
+      "ct092_CG",
+      "ct092_hcg1_ShaLeMei"
+    ],
+    "dialogues": []
+  },
+  "ct094": {
+    "prefix": "ct094",
+    "name_en": "Gulliver",
+    "name_zh": "格列佛",
+    "costumes": [],
+    "models": [
+      "ct094_CG",
+      "ct094_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct096": {
+    "prefix": "ct096",
+    "name_en": "Uriel",
+    "name_zh": "烏列爾",
+    "costumes": [],
+    "models": [
+      "ct096_CG",
+      "ct096_CG_fas",
+      "ct096_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct097": {
+    "prefix": "ct097",
+    "name_en": "Rudy",
+    "name_zh": "露蒂",
+    "costumes": [],
+    "models": [
+      "ct097_CG",
+      "ct097_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct098": {
+    "prefix": "ct098",
+    "name_en": "Diaochan",
+    "name_zh": "貂蟬",
+    "costumes": [],
+    "models": [
+      "ct098_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct101": {
+    "prefix": "ct101",
+    "name_en": "Qilin",
+    "name_zh": "麒麟",
+    "costumes": [],
+    "models": [
+      "ct101_hcg1"
+    ],
+    "dialogues": []
+  },
+  "ct107": {
+    "prefix": "ct107",
+    "name_en": "Seiryu",
+    "name_zh": "青龍",
+    "costumes": [],
+    "models": [
+      "ct107_CG",
+      "ct107_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct108": {
+    "prefix": "ct108",
+    "name_en": "Byakko",
+    "name_zh": "白虎",
+    "costumes": [],
+    "models": [
+      "ct108_CG",
+      "ct108_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct109": {
+    "prefix": "ct109",
+    "name_en": "Suzaku",
+    "name_zh": "朱雀",
+    "costumes": [],
+    "models": [
+      "ct109_CG",
+      "ct109_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct110": {
+    "prefix": "ct110",
+    "name_en": "Genbu",
+    "name_zh": "玄武",
+    "costumes": [],
+    "models": [
+      "ct110_CG",
+      "ct110_HCG"
+    ],
+    "dialogues": []
+  },
+  "ct145": {
+    "prefix": "ct145",
+    "name_en": "Special CG (ct145)",
+    "name_zh": "特殊CG (ct145)",
+    "costumes": [],
+    "models": [
+      "ct145_CG"
+    ],
+    "dialogues": []
+  },
+  "ct151": {
+    "prefix": "ct151",
+    "name_en": "Special CG (ct151)",
+    "name_zh": "特殊CG (ct151)",
+    "costumes": [],
+    "models": [
+      "ct151_CG"
+    ],
+    "dialogues": []
+  },
+  "ct152": {
+    "prefix": "ct152",
+    "name_en": "Special CG (ct152)",
+    "name_zh": "特殊CG (ct152)",
+    "costumes": [],
+    "models": [
+      "ct152_CG"
+    ],
+    "dialogues": []
+  },
+  "story_hcg45": {
+    "prefix": "story_hcg45",
+    "name_en": "Story Hcg45",
+    "name_zh": "story_hcg45",
+    "costumes": [],
+    "models": [
+      "story_hcg45_1_spine"
+    ],
+    "dialogues": []
+  },
+  "a000": {
+    "prefix": "a000",
+    "name_en": "Preset",
+    "name_zh": "預設",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s001": {
+    "prefix": "s001",
+    "name_en": "北境之國的城堡",
+    "name_zh": "北境之國的城堡",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s002": {
+    "prefix": "s002",
+    "name_en": "翡翠城的城堡",
+    "name_zh": "翡翠城的城堡",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s003": {
+    "prefix": "s003",
+    "name_en": "翡翠城的廣闊大平原",
+    "name_zh": "翡翠城的廣闊大平原",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s004": {
+    "prefix": "s004",
+    "name_en": "歡樂鎮的繁華鬧區",
+    "name_zh": "歡樂鎮的繁華鬧區",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s005": {
+    "prefix": "s005",
+    "name_en": "冰雪之國的冰雪王座",
+    "name_zh": "冰雪之國的冰雪王座",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s006": {
+    "prefix": "s006",
+    "name_en": "冰雪之國的城堡",
+    "name_zh": "冰雪之國的城堡",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s007": {
+    "prefix": "s007",
+    "name_en": "冰雪之國的凜冬雪山",
+    "name_zh": "冰雪之國的凜冬雪山",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s008": {
+    "prefix": "s008",
+    "name_en": "白馬城的貴族城鎮",
+    "name_zh": "白馬城的貴族城鎮",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s009": {
+    "prefix": "s009",
+    "name_en": "白馬城的貴族集結處",
+    "name_zh": "白馬城的貴族集結處",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s012": {
+    "prefix": "s012",
+    "name_en": "仙境之國的城堡",
+    "name_zh": "仙境之國的城堡",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s013": {
+    "prefix": "s013",
+    "name_en": "仙境之國的奇幻森林",
+    "name_zh": "仙境之國的奇幻森林",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "s014": {
+    "prefix": "s014",
+    "name_en": "仙境之國的森林宴會",
+    "name_zh": "仙境之國的森林宴會",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg1": {
+    "prefix": "cg1",
+    "name_en": "歡樂聖誕",
+    "name_zh": "歡樂聖誕",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg01": {
+    "prefix": "cg01",
+    "name_en": "Yes, Lord Archfiend~",
+    "name_zh": "遵命，魔王大人～",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg02": {
+    "prefix": "cg02",
+    "name_en": "Yes, Lord Archfiend~",
+    "name_zh": "遵命，魔王大人～",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg10": {
+    "prefix": "cg10",
+    "name_en": "Slutty Explosion",
+    "name_zh": "淫亂恣意的噴發",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg03": {
+    "prefix": "cg03",
+    "name_en": "Unknown Side of the Queen",
+    "name_zh": "女王不為人知的一面",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg04": {
+    "prefix": "cg04",
+    "name_en": "Rivalry Between Sun and Wind",
+    "name_zh": "太陽與北風的較勁",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg05": {
+    "prefix": "cg05",
+    "name_en": "Tyrant's Humiliation",
+    "name_zh": "暴君的羞辱",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg08": {
+    "prefix": "cg08",
+    "name_en": "Delicious Taste",
+    "name_zh": "品嘗美味的滋味",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg09": {
+    "prefix": "cg09",
+    "name_en": "Gourmet Cuisine",
+    "name_zh": "人間美味",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg07": {
+    "prefix": "cg07",
+    "name_en": "Chasing Carnal Desires",
+    "name_zh": "追尋著本能的渴望",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg11": {
+    "prefix": "cg11",
+    "name_en": "Love Trumps All",
+    "name_zh": "被愛融化的一切",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg12": {
+    "prefix": "cg12",
+    "name_en": "Lonely Frost Maiden",
+    "name_zh": "悲傷寂寞的雪女",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg13": {
+    "prefix": "cg13",
+    "name_en": "Scorching Mark",
+    "name_zh": "灼熱的標記",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg14": {
+    "prefix": "cg14",
+    "name_en": "Dutiful Little Tin Soldier",
+    "name_zh": "恪盡職守的小錫兵",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg15": {
+    "prefix": "cg15",
+    "name_en": "Bunny in Heat",
+    "name_zh": "終年發情的兔子",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg16": {
+    "prefix": "cg16",
+    "name_en": "Mother's Embrace",
+    "name_zh": "母親溫暖的懷抱中",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg17": {
+    "prefix": "cg17",
+    "name_en": "Enchanting Starry Night",
+    "name_zh": "旖旎星夜",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg18": {
+    "prefix": "cg18",
+    "name_en": "Cavern Angel",
+    "name_zh": "洞中天使",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg19": {
+    "prefix": "cg19",
+    "name_en": "Uncontrolled Punishment",
+    "name_zh": "失控的懲罰",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg21": {
+    "prefix": "cg21",
+    "name_en": "Arrogant Entanglement",
+    "name_zh": "傲慢的纏綿",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg20": {
+    "prefix": "cg20",
+    "name_en": "Painful Love",
+    "name_zh": "疼痛的愛慾",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg22": {
+    "prefix": "cg22",
+    "name_en": "Preparing for a Meeting",
+    "name_zh": "晉見前的準備",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg23": {
+    "prefix": "cg23",
+    "name_en": "Crystallized Love",
+    "name_zh": "愛的結晶",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg24": {
+    "prefix": "cg24",
+    "name_en": "Phantom in the Scroll",
+    "name_zh": "卷中魅影",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg25": {
+    "prefix": "cg25",
+    "name_en": "Drenched Angel",
+    "name_zh": "被濡濕的天使",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg26": {
+    "prefix": "cg26",
+    "name_en": "Death God's Delusional Simulation",
+    "name_zh": "死神的妄想模擬練習",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg27": {
+    "prefix": "cg27",
+    "name_en": "Flooding methods outside the Nile River",
+    "name_zh": "尼羅河以外的氾濫方式",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg28": {
+    "prefix": "cg28",
+    "name_en": "Tyrant's Spoils",
+    "name_zh": "暴君的戰利品",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg29": {
+    "prefix": "cg29",
+    "name_en": "Unknown Delights",
+    "name_zh": "未知的狂喜",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg32": {
+    "prefix": "cg32",
+    "name_en": "Researching Joy",
+    "name_zh": "愉悅的研究",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg30": {
+    "prefix": "cg30",
+    "name_en": "Revelry of Three",
+    "name_zh": "三人的狂歡",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg31": {
+    "prefix": "cg31",
+    "name_en": "Her Promise",
+    "name_zh": "與她的約定",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg33": {
+    "prefix": "cg33",
+    "name_en": "Fanatical Devotee",
+    "name_zh": "狂熱的追隨者",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg34": {
+    "prefix": "cg34",
+    "name_en": "Mother-Daughter Moments",
+    "name_zh": "母女的秘密時光",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg35": {
+    "prefix": "cg35",
+    "name_en": "Backstage Performance",
+    "name_zh": "舞台後的演出",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg36": {
+    "prefix": "cg36",
+    "name_en": "Absent-Minded",
+    "name_zh": "神情恍惚",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg37": {
+    "prefix": "cg37",
+    "name_en": "Viscous Mana",
+    "name_zh": "濃稠的魔力",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg38": {
+    "prefix": "cg38",
+    "name_en": "Revelry and Merriment",
+    "name_zh": "尋歡作樂",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg39": {
+    "prefix": "cg39",
+    "name_en": "Stardream Night",
+    "name_zh": "星幻夜色",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg40": {
+    "prefix": "cg40",
+    "name_en": "Tender lips",
+    "name_zh": "柔軟唇瓣",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg41": {
+    "prefix": "cg41",
+    "name_en": "Quiet gesture",
+    "name_zh": "「安靜」的手勢",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg42": {
+    "prefix": "cg42",
+    "name_en": "Savor the Fruits of the Hunt",
+    "name_zh": "品嘗狩獵的成果",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  },
+  "cg43": {
+    "prefix": "cg43",
+    "name_en": "A Wonderful Night",
+    "name_zh": "美好的夜晚",
+    "costumes": [],
+    "models": [],
+    "dialogues": []
+  }
+}

@@ -1,0 +1,13 @@
+id|typeAsset|order┤
+572000001|battleelement_1|0┤
+572000002|battleelement_2|1┤
+572000003|battleelement_3|2┤
+572000004|battleelement_4|3┤
+572000005|battleelement_5|4┤
+572000006|battleelement_6|5┤
+572000007|guard_0|20┤
+572000008|fighters_0|21┤
+572000009|archer_0|22┤
+572000010|priest_0|23┤
+572000011|master_0|24┤
+572000012|battleelement_other|10┤

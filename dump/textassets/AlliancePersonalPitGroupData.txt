@@ -1,0 +1,4 @@
+personalPitGruopID|buyerMinRequire|buyerMaxRequire┤
+934000001|16|35┤
+934000002|36|45┤
+934000003|46|100┤

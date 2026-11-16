@@ -1,0 +1,5 @@
+allianceDonateRewardID|donateValue|boxImgType|reward┤
+938000001|100|0|NULL┤
+938000002|500|1|NULL┤
+938000003|800|1|NULL┤
+938000004|1000|2|NULL┤

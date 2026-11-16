@@ -1,0 +1,3 @@
+costumesVfxID|modelID|skillVfxGroup|p2skillVfxGroup┤
+1|f005_02_b|NULL|NULL┤
+2|f005_03_b|NULL|NULL┤

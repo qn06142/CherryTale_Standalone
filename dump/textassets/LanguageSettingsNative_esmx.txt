@@ -1,0 +1,77 @@
+chineseStr_Key|esmx┤
+4G/Wifi連線不穩，請勇者大人確認一下連線噢！|Mala conexión de 4G/WiFi. Comprueba tu conexión a Internet.┤
+Auer帳號，密碼變更失敗|No se ha podido cambiar tu contraseña de la cuenta Auer.┤
+Auer帳號不存在，需註冊帳號，或者密碼錯誤|Tu cuenta de Auer no existe. Por favor, regístrate con una nueva cuenta o escribe la contraseña correcta.┤
+email格式錯誤|Email incorrecto.┤
+Vector服務利用規約|La especificación de servicio de Vector.┤
+不同意|No Estoy De Acuerdo.┤
+切換帳號|Cambiar Cuenta┤
+切換語系|Cambiar Idioma┤
+引繼後，引繼密碼將無效#推舉再次設置引繼用密碼|La contraseña dejará de ser válida tras reestablecerse.#Resetea la contraseña si es necesario.┤
+引繼設定密碼|Restablecer la contraseña┤
+可在app信息頁面重置授權|Puedes resetear el permiso en la página de la aplicación┤
+未成年玩家（未滿20歲）|Jugadores no adultos (menores de 20 años)┤
+正在努力準備檔案，請稍等一下~|Cargando... por favor, espera.┤
+目前元素大陸人潮眾多，如果暫時連不進#可以到LINE@跟柔伊聊天唷！|El Continente Elemental está al máximo de jugadores. Si no puedes acceder al Continente Elemental por ahora, te recomendamos una charla agradable con Zoe en Line@.┤
+目前元素大陸排隊進入中，已幫您優先排隊。#請按「確認」重新嘗試連線。|Estás entrando en la cola para acceder al Continente Elemental. Por favor, pulsa el botón "confirmar" para volver a conectarte al juego.┤
+目前網路不穩斷線了，請按「確認」重新登入。|Tu conexión ha caído. Por favor, pulsa el botón "confirmar" para volver a iniciar sesión en el juego.┤
+立即下載|Descargar┤
+同意|De Acuerdo┤
+至app信息頁面|Redirigir a la página de la aplicación.┤
+我已閱讀所有條款|He leído las normas┤
+系統資訊|Información del Sistema┤
+取消|Cancelar┤
+放棄訪客帳號|Descartar cuenta de invitado┤
+返回|Volver┤
+建立成功|Has creado la cuenta con éxito.┤
+建立奧爾帳號錯誤|Error al crear la cuenta.┤
+恢復數據|Recuperar los datos.┤
+是否確定「綁定」{0}帳號？|¿Seguro que quieres vincular la cuenta {0}?┤
+為了下載及存儲遊戲數據 需獲取您手機媒體庫的權限|Para descargar y guardar datos, necesitamos tu permiso para acceder a la biblioteca multimedia.┤
+若您拒絕授權，可能會影響遊戲數據的下載和保存 您仍要拒絕授權嗎？|Rechazar la licencia puede afectar a las descargas y a los datos guardados. ¿Seguro que quieres rechazarla?┤
+重新連線|Volver a Conectar┤
+重新請求|Petición┤
+修改成功|Revisada con éxito.┤
+特別提醒！此{0}帳號已有進度，無法執行榜定動作|¡Aviso! Esta cuenta {0} está en proceso y no puede vincularse.┤
+真的要恢復數據嗎?|¿Seguro que quieres recuperar los datos?┤
+偵測到新版本，是否前往更新?|Hemos detectado una nueva versión del juego. ¿Quieres descargarla?┤
+密碼長度不足4|La contraseña no puede tener menos de 4 caracteres.┤
+訪客登入|Invitado┤
+軟更新資訊|Actualizaciones┤
+連線中...請稍候|Conectado... por favor, espera...┤
+復原|Recuperar┤
+登入失敗|No se pudo iniciar sesión┤
+稍後|Espera┤
+進入遊戲|Entrar┤
+新密碼及確認密碼欄位輸入的值不相同|Las contraseñas no coinciden┤
+會員條款與管理規章|Términos de Suscripción y Reglas de Administración┤
+綁定|Vincular┤
+綁定失敗|No se ha podido vincular la cuenta┤
+該社群帳號已經綁定過，綁定失敗|No se ha podido vincular esta cuenta; ya estaba vinculada.┤
+該遊戲基本免費，遊戲內有收費鑽石出售，請按各自實際情況按需購買|Este es un juego gratuito. Puedes comprar diamantes en la tienda si los necesitas.┤
+資料有誤|Error┤
+載入中|descargando┤
+遊戲公告|Anuncio┤
+遊戲資源有新版本#當前使用WIFI不造成流量費用#是否下載遊戲檔案?#<color=red>檔案大小：{0}</color>|A continuación se cargará el contenido del juego.#Una descarga única hasta la actualización.#Se recomienda tener conexión WiFi.#<color=red>Descargar contenido：{0}</color>┤
+遊戲資源有新版本#當前使用行動網路可能會需要支付流量費用#是否下載遊戲檔案?#<color=red>檔案大小：{0}</color>|A continuación se cargará el contenido del juego.#Una descarga única hasta la actualización.#Se recomienda tener conexión WiFi.#<color=red>Descargar contenido：{0}</color>┤
+網路不太穩定|Conexión inestable.┤
+網路不太穩定，現在為您進行重新連線！|Conexión inestable. Estamos conectándote de nuevo.┤
+數據引繼失敗|No hemos podido restablecer tu cuenta.┤
+數據引繼失敗，請重新輸入|No hemos podido restablecer tu cuenta. Por favor, vuelve a introducirla.┤
+數據引繼結束|No se han podido sincronizar los datos del juego con otros dispositivos.┤
+確定|Confirmar┤
+確定刪除訪客帳號?|¿Seguro que quieres borrar la cuenta de invitado?┤
+確認|Confirmar┤
+請在購買鑽石前一定徵得父母的許可|Por favor, asegúrate de que tienes permiso de tus padres antes de comprar los diamantes.┤
+請注意|Atención, Por Favor┤
+請輸入ID...|Introduce tu ID┤
+請輸入信箱|Enter your e-mail┤
+請輸入密碼|Enter your password┤
+請輸入密碼...|Introduce tu contraseña┤
+請選擇要切換的帳號|Elige la cuenta, por favor┤
+檔案下載中  總進度： {0} / {1}|Descargando el juego. Progreso: {0} / {1}┤
+檔案清單讀取中... .. .|Leyendo la lista de datos...┤
+還原數據的話，目前終端上保存的數據就會被覆蓋消失，請注意!|¡Atención! Si quieres restablecer los datos, se ocultarán y cancelarán los datos guardados en la terminal.┤
+斷線，確認後重新登入遊戲|La conexión ha caído. Vuelve a iniciar sesión después de confirmar.┤
+關閉遊戲|Cerrar┤
+關閉對話|Ocultar┤

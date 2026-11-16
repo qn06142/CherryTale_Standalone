@@ -1,0 +1,8 @@
+id|randomExplain|info|valueType┤
+312000001|extraEffect:1510164202$extraEffect:1510164201$chance|技能說明|0┤
+312000002|effectTime|技能說明2|0┤
+312900001|effectValuePercent|火系追擊傷害增加(%)|1┤
+312900002|effectValuePercent|天賦傷害提升(%)|1┤
+312900003|effectValuePercent|DOT傷害提升(%)|1┤
+312900004|extraEffect:151690041-151690042$extraEffect:151690043$chance|普通攻擊命中時，機率(%)恢復自身生命值|1┤
+312900005|effectTime|被中毒時間減少(秒)|2┤

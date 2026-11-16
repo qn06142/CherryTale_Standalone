@@ -1,0 +1,4 @@
+dailyRewardID|killCount|killReward|battleRoomInCamera|dailyRewardGroup┤
+662000001|1|NULL|-1|1┤
+662000002|2|NULL|-1|1┤
+662000003|3|NULL|-1|1┤

@@ -1,0 +1,5 @@
+categoryID|categoryName|iconAssetID┤
+247000001|冒險成就|Achievements_icon_01┤
+247000002|培養成就|Achievements_icon_02┤
+247000003|挑戰成就|Achievements_icon_03┤
+247000004|開服挑戰|Achievements_icon_04┤

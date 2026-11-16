@@ -1,0 +1,77 @@
+chineseStr_Key|frfr┤
+4G/Wifi連線不穩，請勇者大人確認一下連線噢！|Mauvaise connexion 4G/Wi-Fi. Vérifiez votre connexion Internet.┤
+Auer帳號，密碼變更失敗|Échec de la modification de votre mot de passe du compte Auer.┤
+Auer帳號不存在，需註冊帳號，或者密碼錯誤|Votre compte Auer n'existe pas. Veuillez enregistrer un nouveau compte ou entrer un mot de passe valide.┤
+email格式錯誤|E-mail non valide.┤
+Vector服務利用規約|La spécification de service de Vector.┤
+不同意|Désapprouver.┤
+切換帳號|Changer Compte┤
+切換語系|Changer Langue┤
+引繼後，引繼密碼將無效#推舉再次設置引繼用密碼|Après la restauration, le mot de passe sera non valide.#Réinitialisez le mot de passe si nécessaire.┤
+引繼設定密碼|Définir un mot de passe de restauration┤
+可在app信息頁面重置授權|Vous pouvez réinitialiser l'autorisation dans la page de l'appli.┤
+未成年玩家（未滿20歲）|Joueurs non-adultes (en dessous de 20 ans)┤
+正在努力準備檔案，請稍等一下~|Chargement... veuillez patienter.┤
+目前元素大陸人潮眾多，如果暫時連不進#可以到LINE@跟柔伊聊天唷！|Elemental Continent est rempli de joueurs actuellement. Si vous ne pouvez pas entrer temporairement sur Elemental Continent, vous pouvez toujours avoir une conversation sympa avec Zoé en Ligne@.┤
+目前元素大陸排隊進入中，已幫您優先排隊。#請按「確認」重新嘗試連線。|Vous faites la queue pour entrer sur Elemental Continent. Tapotez sur le bouton "confirmer" pour vous reconnecter au jeu.┤
+目前網路不穩斷線了，請按「確認」重新登入。|Votre connexion a échoué. Tapotez sur le bouton "confirmer" pour vous reconnecter au jeu.┤
+立即下載|Télécharger┤
+同意|Approuver┤
+至app信息頁面|Redirection vers la page de l'appli.┤
+我已閱讀所有條款|J'ai lu le règlement┤
+系統資訊|Informations système┤
+取消|Annuler┤
+放棄訪客帳號|Supprimer le compte invité┤
+返回|Retour┤
+建立成功|Compte créé avec succès.┤
+建立奧爾帳號錯誤|Erreur lors de la création du compte.┤
+恢復數據|Récupérer les données.┤
+是否確定「綁定」{0}帳號？|Êtes-vous sûr de vouloir lier le compte {0} ?┤
+為了下載及存儲遊戲數據 需獲取您手機媒體庫的權限|Pour télécharger et sauvegarder des données, nous devons obtenir votre autorisation afin d'accéder à la bibliothèque multimédia.┤
+若您拒絕授權，可能會影響遊戲數據的下載和保存 您仍要拒絕授權嗎？|Le fait de refuser la licence pourrait affecter le téléchargement et la sauvegarde des données. Êtes-vous sûr de vouloir refuser la licence ?┤
+重新連線|Reconnecter┤
+重新請求|Requête┤
+修改成功|Modifié avec succès.┤
+特別提醒！此{0}帳號已有進度，無法執行榜定動作|Notification ! Ce compte {0} est en cours de traitement, il ne peut pas être lié.┤
+真的要恢復數據嗎?|Êtes-vous sûr de vouloir récupérer les données ?┤
+偵測到新版本，是否前往更新?|Nous détectons une nouvelle version du jeu. Souhaitez-vous le mettre à jour ?┤
+密碼長度不足4|Le mot de passe ne peut pas contenir moins de 4 caractères.┤
+訪客登入|Invité┤
+軟更新資訊|Mises à jour logiciel┤
+連線中...請稍候|Connexion… veuillez patienter…┤
+復原|Récupération┤
+登入失敗|Impossible de se connecter┤
+稍後|Patientez┤
+進入遊戲|Entrer┤
+新密碼及確認密碼欄位輸入的值不相同|Les mots de passe ne correspondent pas┤
+會員條款與管理規章|Conditions d'Adhésion et Règles de Gestion┤
+綁定|Lier┤
+綁定失敗|La liaison du compte a échoué┤
+該社群帳號已經綁定過，綁定失敗|La liaison du compte a échoué, car il a déjà été lié auparavant.┤
+該遊戲基本免費，遊戲內有收費鑽石出售，請按各自實際情況按需購買|C'est un jeu gratuit, et des diamants sont disponibles à l'achat dans la boutique. Vous pouvez acheter des diamants selon vos besoins.┤
+資料有誤|Erreur┤
+載入中|Téléchargement┤
+遊戲公告|Annonce┤
+遊戲資源有新版本#當前使用WIFI不造成流量費用#是否下載遊戲檔案?#<color=red>檔案大小：{0}</color>|Le contenu du jeu va maintenant se charger. Téléchargement unique jusqu'à la mise à jour. Une connexion Wi-Fi est recommandée. <Color=red>Télécharger contenu : {0}</color>┤
+遊戲資源有新版本#當前使用行動網路可能會需要支付流量費用#是否下載遊戲檔案?#<color=red>檔案大小：{0}</color>|Le contenu du jeu va maintenant se charger.#Téléchargement unique jusqu'à la mise à jour.# Une connexion Wi-Fi est recommandée.#<Color=red>Télécharger contenu : {0}</color>┤
+網路不太穩定|Connexion instable┤
+網路不太穩定，現在為您進行重新連線！|Connexion instable. Nous reconnectons le jeu pour vous.┤
+數據引繼失敗|Échec de la restauration de votre compte.┤
+數據引繼失敗，請重新輸入|Échec de la restauration de votre compte, veuillez le saisir à nouveau.┤
+數據引繼結束|La synchronisation des données de jeu avec d’autres appareils est terminée.┤
+確定|Confirmer┤
+確定刪除訪客帳號?|Êtes-vous sûr de vouloir supprimer le compte invité ?┤
+確認|Confirmer┤
+請在購買鑽石前一定徵得父母的許可|Assurez-vous d’obtenir l’autorisation de vos parents avant d’acheter les diamants.┤
+請注意|Votre attention, s'il vous plaît┤
+請輸入ID...|Entrez votre ID┤
+請輸入信箱|Entrez votre e-mail┤
+請輸入密碼|Entrez votre mot de passe┤
+請輸入密碼...|Entrez votre mot de passe┤
+請選擇要切換的帳號|Sélectionnez un compte┤
+檔案下載中  總進度： {0} / {1}|Téléchargement du jeu. Progression : {0} / {1}┤
+檔案清單讀取中... .. .|Lecture des données…┤
+還原數據的話，目前終端上保存的數據就會被覆蓋消失，請注意!|Attention ! Si vous souhaitez restaurer les données, les données enregistrées dans le terminal seront recouvertes et annulées.┤
+斷線，確認後重新登入遊戲|La connexion a échoué. Reconnectez-vous au jeu après confirmation.┤
+關閉遊戲|Fermer┤
+關閉對話|Cacher┤

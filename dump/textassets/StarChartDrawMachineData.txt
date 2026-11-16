@@ -1,0 +1,6 @@
+starChartDrawMachineID|machineName|jobID|bannerAssetID|textAssetID|starChartSinglePhase|costItemA|costItemAmountA|costItemB|costItemAmountB┤
+875000001|鎮守星系|900000001|StarBN_Bastion|StarTitle_Bastion|876000001|NULL|1|NULL|1┤
+875000002|衝鋒星系|900000002|StarBN_Vanguard|StarTitle_Vanguard|876000002|NULL|1|NULL|1┤
+875000003|精準星系|900000003|StarBN_Marksman|StarTitle_Marksman|876000003|NULL|1|NULL|1┤
+875000004|應援星系|900000004|StarBN_Support|StarTitle_Support|876000004|NULL|1|NULL|1┤
+875000005|轟炸星系|900000005|StarBN_Artillery|StarTitle_Artillery|876000005|NULL|1|NULL|1┤

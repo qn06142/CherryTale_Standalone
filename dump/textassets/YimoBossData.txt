@@ -1,0 +1,5 @@
+bossID|bossName|type|model|partGroup|uiPartRootStr|sceneName|uiRTCamera|startDate|endDate|chance|hideBOSSID|url|dailyRewardGroup┤
+660000001|暴走錫樵夫|0|me073_1|NULL|Yimo_me073_PartRootGo|s008_02|RTCamera_Yimo_me073|-1|-1|-1|660000001|-1|NULL┤
+660000002|隱藏王|1|me073_1|NULL|Yimo_me073_PartRootGo|s008_02|RTCamera_Yimo_me073|-1|-1|10000|660000001|-1|NULL┤
+660000003|活動暴走錫樵夫|2|me073_1|NULL|Yimo_me073_PartRootGo|s008_02|RTCamera_Yimo_me073|2018-01-01 11:00:00|2018-01-02 11:00:00|9999|660000004|-1|NULL┤
+660000004|活動隱藏王|3|me073_1|NULL|Yimo_me073_PartRootGo|s008_02|RTCamera_Yimo_me073|2018-01-01 11:00:00|2018-01-02 11:00:00|10000|660000003|-1|NULL┤

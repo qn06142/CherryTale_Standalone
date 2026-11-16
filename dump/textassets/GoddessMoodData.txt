@@ -1,0 +1,6 @@
+moodID|buffPercent|baseValue|barValue┤
+193000001|7500|<color=#FEFBECFF>Poor(75%)</color>|0┤
+193000002|8750|<color=#AAFF30FF>Bad(87%)</color>|25┤
+193000003|10000|<color=#329BFFFF>Fit(100%)</color>|50┤
+193000004|11250|<color=#E631FFFF>Good(112.5%)</color>|75┤
+193000005|12500|<color=#FFE64BFF>Expert(125%)</color>|100┤

@@ -1,0 +1,16 @@
+trainingLV|trainingExp|coinType|amount|nextunlockPlayerLV|woodenDummy|trainingName┤
+1|5|NULL|10|1|woodmanLv1|初級草人┤
+2|11|NULL|31|5|woodmanLv1|初級草人+1┤
+3|17|NULL|51|10|woodmanLv1|初級草人+2┤
+4|23|NULL|72|13|woodmanLv3|中級草人┤
+5|29|NULL|93|16|woodmanLv3|中級草人+1┤
+6|35|NULL|114|19|woodmanLv3|中級草人+2┤
+7|41|NULL|134|22|woodmanLv3|中級草人+3┤
+8|48|NULL|155|25|woodmanLv3|中級草人+4┤
+9|54|NULL|176|25|woodmanLv3|中級草人.Max┤
+10|60|NULL|196|25|woodmanLv5|高級草人┤
+11|66|NULL|217|25|woodmanLv5|高級草人+1┤
+12|72|NULL|238|25|woodmanLv5|高級草人+2┤
+13|78|NULL|259|25|woodmanLv5|高級草人+3┤
+14|84|NULL|300|25|woodmanLv5|高級草人+4┤
+15|90|NULL|-1|-1|woodmanLv5|高級草人.Max┤

@@ -1,0 +1,5 @@
+monopolySlotID|rewardSlotGroup|rewardSlotID|rewardSlotAmount|rewardSlotWeight|magnification1Weight|magnification3Weight|magnification5Weight┤
+818000001|1|200000152|1|4500|7000|2500|500┤
+818000001|2|200000152|2|5000|7000|2500|500┤
+818000001|3|200000152|3|400|7000|2500|500┤
+818000001|4|200000152|5|100|7000|2500|500┤

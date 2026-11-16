@@ -1,0 +1,2 @@
+teachPreBattle_ID|needTrigger_ID|needRunSection|checkTeachingID┤
+1|102000001|NULL|890100016┤

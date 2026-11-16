@@ -1,0 +1,4 @@
+trainingID|trainingName|coolDown|trainingExpMultiple|useItemID|itemAmount|ratio|maxToll┤
+110000001|免費鍛鍊|60|100|NULL|0|1|50┤
+110000002|一般鍛鍊|180|100|NULL|500|1|100┤
+110000003|紮實鍛鍊|720|100|NULL|1000|1|200┤

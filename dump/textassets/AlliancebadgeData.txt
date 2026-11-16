@@ -1,0 +1,11 @@
+alliancebadgDataID|iconID|value┤
+694000001|League_01_Icon|1┤
+694000002|League_02_Icon|0┤
+694000003|League_03_Icon|0┤
+694000004|League_04_Icon|0┤
+694000005|League_05_Icon|0┤
+694000006|League_06_Icon|0┤
+694000007|League_07_Icon|0┤
+694000008|League_08_Icon|0┤
+694000009|League_09_Icon|0┤
+694000010|League_10_Icon|0┤

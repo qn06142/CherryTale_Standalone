@@ -1,0 +1,12 @@
+tagID|areaTagName|areaTagResource|memoryAreaTagName|memoryAreaTagResource|order|lockIconType┤
+901000001|期間活動|Tage01|記憶活動關卡|Tage01|1|0┤
+901000002|降臨活動|Tage02|記憶降臨關卡|Tage02|2|1┤
+901000003|常駐活動|Tage04|常駐活動|Tage04|3|0┤
+901000004|新手活動|Tage05|新手活動|Tage05|4|0┤
+901000005|復刻活動|Tage09|復刻活動|Tage09|5|0┤
+901000006|循環活動|Tage06|循環活動|Tage06|6|0┤
+901000007|角色體驗|Tage10|角色體驗|Tage10|7|0┤
+901000008|戰術教學|Tage12|戰術教學|Tage12|8|0┤
+901000009|常駐降臨|Tage13|常駐降臨|Tage13|9|0┤
+901000010|水晶靈脈|Tage14|水晶靈脈|Tage14|10|0┤
+901000011|遺跡挑戰|Tage15|遺跡挑戰|Tage15|11|0┤

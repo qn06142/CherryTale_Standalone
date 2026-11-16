@@ -1,0 +1,14 @@
+materialAreaID|specialAreaID|regionName|regionType|iconName┤
+168000001|NULL|角色素材|1|guard_0┤
+168000002|NULL|角色素材|1|fighters_0┤
+168000003|NULL|角色素材|1|archer_0┤
+168000004|NULL|角色素材|1|priest_0┤
+168000005|NULL|角色素材|1|master_0┤
+168000006|NULL|角色素材|1|Favor_0┤
+168000007|NULL|角色素材|1|Exp_0┤
+168001001|NULL|元素試煉|2|battleelement_1┤
+168001002|NULL|元素試煉|2|battleelement_4┤
+168001003|NULL|元素試煉|2|battleelement_3┤
+168001004|NULL|元素試煉|2|battleelement_2┤
+168001005|NULL|元素試煉|2|battleelement_5┤
+168001006|NULL|元素試煉|2|battleelement_6┤

@@ -1,0 +1,400 @@
+drawMachineGroupID|groupIcon|activityName|activityTip|groupPriority|groupBackground|textAssetID|drawCount|reward|stringValue|loopCount|printGroupID|reset|needItemID|url|showReturn|storeID|url_Demo┤
+253000100|DrawCard_022_Icon|一般召喚|召喚獎勵|999999|b006_03_Gacha_Spine$b001_03_Gacha_Spine$b003_02_Gacha_Spine|b006_03_Gacha_Text|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253000200|Draw_Icon_0001|回憶英雄召喚|-1|8006|b007_03_Gacha_Spine|-1|80|NULL|-1|-1|-1|0|-1|-1|1|-1|-1┤
+253000300|Draw_Icon_0002|裝備召喚|-1|999999|Draw_Banner_0001|-1|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253000400|Draw_Icon_Guild|公會召喚|-1|8004|f008_02_Gacha_Spine$f005_02_Gacha_Spine|Guild_Gacha_Text|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253000500|Draw_Icon_Novice|新手召喚|-1|999999|f008_02_Gacha_Spine$f004_03_Gacha_Spine$c002_03_Gacha_Spine$f005_02_Gacha_Spine|Novice_Gacha_Text|60|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253000600|Draw_Icon_4001|限定召喚|-1|8005|c007_03_Gacha_Spine$a005_03_Gacha_Spine|Limited_Summon_Gacha_Text|-1|NULL|-1|-1|-1|0|200620046|-1|-1|-1|-1┤
+253000700|Draw_Icon_ct011|英雄召喚|-1|8002|wa05_01_Gacha_Spine$ct011_Gacha_Spine$ct002_Gacha_Spine|Hero_Gacha_Text|80|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253000800|Draw_Icon_0002|裝備召喚|-1|8003|Draw_Banner_0001|-1|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253000900|Draw_Icon_Novice|新手召喚|-1|8001|a007_04_Gacha_Spine$ct013_Gacha_Spine$da05_01_Gacha_Spine|Novice_Gacha_Text|60|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253001000|Draw_Icon_fi10_01_ct014|夢幻召喚|-1|7999|fi10_01_Gacha_Spine$ct014_Gacha_Spine|SSR_GET_Gacha_Text_F |120|NULL|-1|-1|100000150|0|-1|-1|-1|398000512|-1┤
+253100100|Draw_Icon_1001|契約召喚|-1|1000|b001_03_Gacha_Spine$f008_02_Gacha_Spine|b001_03_f008_02_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253100200|Draw_Icon_1002|契約召喚|-1|1001|f004_03_Gacha_Spine$e008_03_Gacha_Spine|f004_03_e008_03_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253100300|Draw_Icon_1003|契約召喚|-1|1002|c002_03_Gacha_Spine$d001_03_Gacha_Spine|c002_03_d001_03_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253100400|Draw_Icon_1004|契約召喚|-1|1003|b002_02_Gacha_Spine$f005_02_Gacha_Spine|b002_02_f005_02_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253100500|Draw_Icon_1005|契約召喚|-1|1004|a009_03_Gacha_Spine$e007_02_Gacha_Spine|a009_03_e007_02_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253100600|Draw_Icon_1006|契約召喚|-1|1005|b010_03_Gacha_Spine$f003_03_Gacha_Spine|b010_03_f003_03_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253100700|Draw_Icon_1007|契約召喚|-1|1006|g025_01_Gacha_Spine$f008_02_Gacha_Spine|g025_01_f008_02_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253100800|Draw_Icon_1008|契約召喚|-1|1007|b003_04_Gacha_Spine$e008_03_Gacha_Spine|b003_04_e008_03_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253100900|Draw_Icon_1009|契約召喚|-1|1008|c002_03_Gacha_Spine$c004_03_Gacha_Spine|c002_03_c004_03_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253101000|Draw_Icon_1010|契約召喚|-1|1009|ea01_01_Gacha_Spine$f005_02_Gacha_Spine|ea01_01_f005_02_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253101100|Draw_Icon_d005_03_g025_01|契約召喚|-1|1010|d005_03_Gacha_Spine$g025_01_Gacha_Spine|d005_03_g025_01_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253101200|Draw_Icon_a007_03_b003_04|契約召喚|-1|1011|a007_03_Gacha_Spine$b003_04_Gacha_Spine|a007_03_b003_04_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253101300|Draw_Icon_e007_04_c004_03|契約召喚|-1|1012|e007_04_Gacha_Spine$c004_03_Gacha_Spine|e007_04_c004_03_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253101400|Draw_Icon_e002_04_ea01_01|契約召喚|-1|1013|e002_04_Gacha_Spine$ea01_01_Gacha_Spine|e002_04_ea01_01_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253101500|Draw_Icon_fi04_01_d005_03|契約召喚|-1|1014|fi04_01_Gacha_Spine$d005_03_Gacha_Spine|fi04_01_d005_03_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253101600|Draw_Icon_wa06_01_a007_03|契約召喚|-1|1015|wa06_01_Gacha_Spine$a007_03_Gacha_Spine|wa06_01_a007_03_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253101700|Draw_Icon_wi04_01_e007_04|契約召喚|-1|1016|wi04_01_Gacha_Spine$e007_04_Gacha_Spine|wi04_01_e007_04_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253101800|Draw_Icon_f003_04_e002_04|契約召喚|-1|1017|f003_04_Gacha_Spine$e002_04_Gacha_Spine|f003_04_e002_04_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253101900|Draw_Icon_fi05_01_b009_03|主題召喚|-1|1018|fi05_01_Gacha_Spine$b009_03_Gacha_Spine|fi05_01_b009_03_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253102000|Draw_Icon_d010_02_e006_03|主題召喚|-1|1019|d010_02_Gacha_Spine$e006_03_Gacha_Spine|d010_02_e006_03_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253102100|Draw_Icon_wa02_01_e001_04|主題召喚|-1|1020|wa02_01_Gacha_Spine$e001_04_Gacha_Spine|wa02_01_e001_04_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253102200|Draw_Icon_d001_04_da05_01|主題召喚|-1|1021|d001_04_Gacha_Spine$da05_01_Gacha_Spine|d001_04_da05_01_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253102300|Draw_Icon_c004_05_ea05_01|主題召喚|-1|1022|c004_05_Gacha_Spine$ea05_01_Gacha_Spine|c004_05_ea05_01_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253102400|Draw_Icon_fi10_01_wa05_01|主題召喚|-1|1023|fi10_01_Gacha_Spine$wa05_01_Gacha_Spine|fi10_01_wa05_01_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253102500|Draw_Icon_ct026_ct027|主題召喚|-1|1024|ct026_Gacha_Spine$ct027_Gacha_Spine|ct026_ct027_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253102600|Draw_Icon_ct001_ct002|主題召喚|-1|1025|ct001_Gacha_Spine$ct002_Gacha_Spine|ct001_ct002_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253102700|Draw_Icon_ct029_ct030|主題召喚|-1|1026|ct029_Gacha_Spine$ct030_Gacha_Spine|ct029_ct030_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253102800|Draw_Icon_ct010_ct011|主題召喚|-1|1027|ct010_Gacha_Spine$ct011_Gacha_Spine|ct010_ct011_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253102900|Draw_Icon_ct014_ct013|主題召喚|-1|1028|ct014_Gacha_Spine$ct013_Gacha_Spine|ct014_ct013_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253103000|Draw_Icon_ct005_ct006|主題召喚|-1|1029|ct005_Gacha_Spine$ct006_Gacha_Spine|ct005_ct006_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253103100|Draw_Icon_ct021_ct022|主題召喚|-1|1030|ct021_Gacha_Spine$ct022_Gacha_Spine|ct021_ct022_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253103200|Draw_Icon_ct017_ct018|主題召喚|-1|1032|ct017_Gacha_Spine$ct018_Gacha_Spine|ct017_ct018_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253103300|Draw_Icon_ct032_ct033|主題召喚|-1|1033|ct032_Gacha_Spine$ct033_Gacha_Spine|ct032_ct033_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253103400|Draw_Icon_ct035_ct036|主題召喚|-1|51|ct035_Gacha_Spine$ct036_Gacha_Spine|ct035_ct036_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253103500|Draw_Icon_ct038_ct039|主題召喚|-1|68|ct038_Gacha_Spine$ct039_Gacha_Spine|ct038_ct039_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253103600|Draw_Icon_ct043_ct044|主題召喚|-1|62|ct043_Gacha_Spine$ct044_Gacha_Spine|ct043_ct044_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253103700|Draw_Icon_ct046_ct047|主題召喚|-1|1037|ct046_Gacha_Spine$ct047_Gacha_Spine|ct046_ct047_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253103800|Draw_Icon_ct051_ct052|主題召喚|-1|1038|ct051_Gacha_Spine$ct052_Gacha_Spine|ct051_ct052_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253103900|Draw_Icon_ct054_ct055|主題召喚|-1|1039|ct054_Gacha_Spine$ct055_Gacha_Spine|ct054_ct055_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253104000|Draw_Icon_ct057_ct058|主題召喚|-1|1040|ct057_Gacha_Spine$ct058_Gacha_Spine|ct057_ct058_Gacha_Text_T|100|NULL|-1|-1|-1|1|-1|-1|-1|-1|-1┤
+253104100|Draw_Icon_ct060_ct061|主題召喚|-1|1041|ct060_Gacha_Spine$ct061_Gacha_Spine|ct060_ct061_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253104200|Draw_Icon_ct063_ct064|主題召喚|-1|1042|ct063_Gacha_Spine$ct064_Gacha_Spine|ct063_ct064_Gacha_Text_T|100|NULL|-1|-1|-1|1|-1|-1|-1|-1|-1┤
+253104300|Draw_Icon_ct073_ct074|主題召喚|-1|1043|ct073_Gacha_Spine$ct074_Gacha_Spine|ct073_ct074_Gacha_Text_T|100|NULL|-1|-1|-1|1|-1|-1|-1|-1|-1┤
+253104400|Draw_Icon_ct077_ct078|主題召喚|-1|65|ct077_Gacha_Spine$ct078_Gacha_Spine|ct077_ct078_Gacha_Text_T|100|NULL|-1|-1|-1|1|-1|-1|-1|-1|-1┤
+253200100|Draw_Icon_1001|高級契約召喚|一次限定！|2000|b001_03_Gacha_Spine$f008_02_Gacha_Spine|b001_03_f008_02_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253200200|Draw_Icon_1002|高級契約召喚|一次限定！|2001|f004_03_Gacha_Spine$e008_03_Gacha_Spine|f004_03_e008_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253200300|Draw_Icon_1003|高級契約召喚|一次限定！|2002|c002_03_Gacha_Spine$d001_03_Gacha_Spine|c002_03_d001_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253200400|Draw_Icon_1004|高級契約召喚|一次限定！|2003|b002_02_Gacha_Spine$f005_02_Gacha_Spine|b002_02_f005_02_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253200500|Draw_Icon_1005|高級契約召喚|一次限定！|2004|a009_03_Gacha_Spine$e007_02_Gacha_Spine|a009_03_e007_02_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253200600|Draw_Icon_1006|高級契約召喚|一次限定！|2005|b010_03_Gacha_Spine$f003_03_Gacha_Spine|b010_03_f003_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253200700|Draw_Icon_g025_01_b001_03|高級契約召喚|一次限定！|2006|g025_01_Gacha_Spine$b001_03_Gacha_Spine|g025_01_b001_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253200800|Draw_Icon_1008|高級契約召喚|一次限定！|2007|b003_04_Gacha_Spine$e008_03_Gacha_Spine|b003_04_e008_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253200900|Draw_Icon_c004_03_d001_03|高級契約召喚|一次限定！|2008|c004_03_Gacha_Spine$d001_03_Gacha_Spine|c004_03_d001_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253201000|Draw_Icon_ea01_01_b002_02|高級契約召喚|一次限定！|2009|ea01_01_Gacha_Spine$b002_02_Gacha_Spine|ea01_01_b002_02_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253201100|Draw_Icon_d005_03_b001_03|高級契約召喚|一次限定！|2010|d005_03_Gacha_Spine$b001_03_Gacha_Spine|d005_03_b001_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253201200|Draw_Icon_a007_03_e008_03|高級契約召喚|一次限定！|2011|a007_03_Gacha_Spine$e008_03_Gacha_Spine|a007_03_e008_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253201300|Draw_Icon_e007_04_d001_03|高級契約召喚|一次限定！|2012|e007_04_Gacha_Spine$d001_03_Gacha_Spine|e007_04_d001_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253201400|Draw_Icon_e002_04_b002_02|高級契約召喚|一次限定！|2013|e002_04_Gacha_Spine$b002_02_Gacha_Spine|e002_04_b002_02_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253201500|Draw_Icon_fi04_01_b001_03|高級契約召喚|一次限定！|2014|fi04_01_Gacha_Spine$b001_03_Gacha_Spine|fi04_01_b001_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253201600|Draw_Icon_wa06_01_e008_03|高級契約召喚|一次限定！|2015|wa06_01_Gacha_Spine$e008_03_Gacha_Spine|wa06_01_e008_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253201700|Draw_Icon_wi04_01_d001_03|高級契約召喚|一次限定！|2016|wi04_01_Gacha_Spine$d001_03_Gacha_Spine|wi04_01_d001_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253201800|Draw_Icon_f003_04_b002_02|高級契約召喚|一次限定！|2017|f003_04_Gacha_Spine$b002_02_Gacha_Spine|f003_04_b002_02_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253201900|Draw_Icon_fi05_01_b009_03|高級主題召喚|一次限定！|2018|fi05_01_Gacha_Spine$b009_03_Gacha_Spine|fi05_01_b009_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253202000|Draw_Icon_d010_02_e006_03|高級主題召喚|一次限定！|2019|d010_02_Gacha_Spine$e006_03_Gacha_Spine|d010_02_e006_03_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253202100|Draw_Icon_wa02_01_e001_04|高級主題召喚|一次限定！|2020|wa02_01_Gacha_Spine$e001_04_Gacha_Spine|wa02_01_e001_04_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253202200|Draw_Icon_d001_04_da05_01|高級主題召喚|一次限定！|2021|d001_04_Gacha_Spine$da05_01_Gacha_Spine|d001_04_da05_01_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253202300|Draw_Icon_c004_05_ea05_01|高級主題召喚|一次限定！|2022|c004_05_Gacha_Spine$ea05_01_Gacha_Spine|c004_05_ea05_01_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253202400|Draw_Icon_fi10_01_wa05_01|高級主題召喚|一次限定！|2023|fi10_01_Gacha_Spine$wa05_01_Gacha_Spine|fi10_01_wa05_01_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253202500|Draw_Icon_ct026_ct027|高級主題召喚|一次限定！|2024|ct026_Gacha_Spine$ct027_Gacha_Spine|ct026_ct027_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253202600|Draw_Icon_ct001_ct002|高級主題召喚|一次限定！|2025|ct001_Gacha_Spine$ct002_Gacha_Spine|ct001_ct002_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253202700|Draw_Icon_ct029_ct030|高級主題召喚|一次限定！|2026|ct029_Gacha_Spine$ct030_Gacha_Spine|ct029_ct030_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253202800|Draw_Icon_ct010_ct011|高級主題召喚|一次限定！|2027|ct010_Gacha_Spine$ct011_Gacha_Spine|ct010_ct011_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253202900|Draw_Icon_ct014_ct013|高級主題召喚|一次限定！|2028|ct014_Gacha_Spine$ct013_Gacha_Spine|ct014_ct013_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253203000|Draw_Icon_ct005_ct006|高級主題召喚|一次限定！|2030|ct005_Gacha_Spine$ct006_Gacha_Spine|ct005_ct006_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253203100|Draw_Icon_ct021_ct022|高級主題召喚|一次限定！|2031|ct021_Gacha_Spine$ct022_Gacha_Spine|ct021_ct022_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253203200|Draw_Icon_ct017_ct018|高級主題召喚|一次限定！|2032|ct017_Gacha_Spine$ct018_Gacha_Spine|ct017_ct018_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253203300|Draw_Icon_ct032_ct033|高級主題召喚|一次限定！|2033|ct032_Gacha_Spine$ct033_Gacha_Spine|ct032_ct033_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253203400|Draw_Icon_ct035_ct036|高級主題召喚|一次限定！|2034|ct035_Gacha_Spine$ct036_Gacha_Spine|ct035_ct036_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253203500|Draw_Icon_ct038_ct039|高級主題召喚|一次限定！|2035|ct038_Gacha_Spine$ct039_Gacha_Spine|ct038_ct039_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253203600|Draw_Icon_ct043_ct044|高級主題召喚|一次限定！|2036|ct043_Gacha_Spine$ct044_Gacha_Spine|ct043_ct044_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253203700|Draw_Icon_ct046_ct047|高級主題召喚|一次限定！|2037|ct046_Gacha_Spine$ct047_Gacha_Spine|ct046_ct047_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253203800|Draw_Icon_ct051_ct052|高級主題召喚|一次限定！|2038|ct051_Gacha_Spine$ct052_Gacha_Spine|ct051_ct052_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253203900|Draw_Icon_ct054_ct055|高級主題召喚|一次限定！|2039|ct054_Gacha_Spine$ct055_Gacha_Spine|ct054_ct055_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253204000|Draw_Icon_ct057_ct058|高級主題召喚|一次限定！|2040|ct057_Gacha_Spine$ct058_Gacha_Spine|ct057_ct058_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|-1|-1|-1┤
+253204100|Draw_Icon_ct060_ct061|高級主題召喚|一次限定！|2041|ct060_Gacha_Spine$ct061_Gacha_Spine|ct060_ct061_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253204200|Draw_Icon_ct063_ct064|高級主題召喚|一次限定！|2042|ct063_Gacha_Spine$ct064_Gacha_Spine|ct063_ct064_Gacha_Text_H|-1|NULL|-1|-1|-1|1|-1|-1|-1|-1|-1┤
+253900100|Draw_Icon_ct057|高級主題召喚|一次限定！|600|ct057_Gacha_Spine$ct058_Gacha_Spine|ct057_Gacha_Text_T_L|-1|NULL|-1|1|100000161|1|-1|-1|-1|-1|-1┤
+253900200|Draw_Icon_ct063|高級主題召喚|一次限定！|601|ct063_Gacha_Spine$ct064_Gacha_Spine|ct063_Gacha_Text_T_L|-1|NULL|-1|1|100000162|1|-1|-1|-1|-1|-1┤
+253900300|Draw_Icon_ct032_ct033|高級主題召喚|一次限定！|602|ct032_Gacha_Spine$ct033_Gacha_Spine|ct032_ct033_Gacha_Text_H|-1|NULL|-1|1|100000163|1|-1|-1|-1|-1|-1┤
+253900400|Draw_Icon_ct021_ct022|高級主題召喚|一次限定！|603|ct021_Gacha_Spine$ct022_Gacha_Spine|ct021_ct022_Gacha_Text_H|-1|NULL|-1|1|100000164|1|-1|-1|-1|-1|-1┤
+253900500|Draw_Icon_ct035_ct036|高級主題召喚|一次限定！|50|ct035_Gacha_Spine$ct036_Gacha_Spine|ct035_ct036_Gacha_Text_H|-1|NULL|-1|1|100000165|1|-1|-1|1|-1|-1┤
+253900600|Draw_Icon_ct001_ct002|高級主題召喚|一次限定！|605|ct001_Gacha_Spine$ct002_Gacha_Spine|ct001_ct002_Gacha_Text_H|-1|NULL|-1|-1|100000166|1|-1|-1|-1|-1|-1┤
+253900700|Draw_Icon_ct051_ct052|高級主題召喚|一次限定！|606|ct051_Gacha_Spine$ct052_Gacha_Spine|ct051_ct052_Gacha_Text_H|-1|NULL|-1|-1|100000167|1|-1|-1|-1|-1|-1┤
+253900800|Draw_Icon_ct046_ct047|高級主題召喚|一次限定！|607|ct046_Gacha_Spine$ct047_Gacha_Spine|ct046_ct047_Gacha_Text_H|-1|NULL|-1|-1|100000168|1|-1|-1|-1|-1|-1┤
+253900900|Draw_Icon_ct014_ct013|高級主題召喚|一次限定！|608|ct014_Gacha_Spine$ct013_Gacha_Spine|ct014_ct013_Gacha_Text_H|-1|NULL|-1|-1|100000181|1|-1|-1|-1|-1|-1┤
+253901000|Draw_Icon_ct038_ct039|高級主題召喚|一次限定！|609|ct038_Gacha_Spine$ct039_Gacha_Spine|ct038_ct039_Gacha_Text_H|-1|NULL|-1|-1|100000183|1|-1|-1|-1|-1|-1┤
+253901100|Draw_Icon_ct073_ct074|高級主題召喚|一次限定！|610|ct073_Gacha_Spine$ct074_Gacha_Spine| ct073_Gacha_Text_T_L|-1|NULL|-1|-1|100000184|1|-1|-1|-1|-1|-1┤
+253901200|Draw_Icon_ct043_ct044|高級主題召喚|一次限定！|611|ct043_Gacha_Spine$ct044_Gacha_Spine|ct043_ct044_Gacha_Text_H|-1|NULL|-1|-1|100000186|1|-1|-1|-1|-1|-1┤
+253901300|Draw_Icon_ct077_ct078|高級主題召喚|一次限定！|612|ct077_Gacha_Spine$ct078_Gacha_Spine| ct077_Gacha_Text_T_L|-1|NULL|-1|-1|100000196|1|-1|-1|-1|-1|-1┤
+253901400|Draw_Icon_ct005_ct006|高級主題召喚|一次限定！|64|ct005_Gacha_Spine$ct006_Gacha_Spine|ct005_ct006_Gacha_Text_H|-1|NULL|-1|-1|100000201|1|-1|-1|-1|-1|-1┤
+253300100|Draw_Icon_3001|烈火裝備庫|-1|3001|Draw_Banner_3001|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253300200|Draw_Icon_3002|水波裝備庫|-1|3002|Draw_Banner_3002|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253300300|Draw_Icon_3003|狂風裝備庫|-1|3003|Draw_Banner_3003|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253300400|Draw_Icon_3004|大地裝備庫|-1|3004|Draw_Banner_3004|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253300500|Draw_Icon_3005|光芒裝備庫|-1|3005|Draw_Banner_3005|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253300600|Draw_Icon_3006|闇黑裝備庫|-1|3006|Draw_Banner_3006|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253300700|Draw_Icon_3001|烈火裝備庫|-1|3007|Draw_Banner_3001|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253300800|Draw_Icon_3002|水波裝備庫|-1|3008|Draw_Banner_3002|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253300900|Draw_Icon_3003|狂風裝備庫|-1|3009|Draw_Banner_3003|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253301000|Draw_Icon_3004|大地裝備庫|-1|3010|Draw_Banner_3004|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253301100|Draw_Icon_3001|烈火裝備庫|-1|3011|Draw_Banner_3001|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253301200|Draw_Icon_3002|水波裝備庫|-1|3012|Draw_Banner_3002|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253301300|Draw_Icon_3003|狂風裝備庫|-1|3013|Draw_Banner_3003|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253301400|Draw_Icon_3004|大地裝備庫|-1|3014|Draw_Banner_3004|-1|80|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253301500|Draw_Icon_3001|烈火裝備庫|-1|3015|Draw_Banner_3001|-1|-1|NULL|-1|-1|100000044|1|-1|-1|1|-1|-1┤
+253301600|Draw_Icon_3002|水波裝備庫|-1|3016|Draw_Banner_3002|-1|-1|NULL|-1|-1|100000046|1|-1|-1|1|-1|-1┤
+253301700|Draw_Icon_3003|狂風裝備庫|-1|3017|Draw_Banner_3003|-1|-1|NULL|-1|-1|100000047|1|-1|-1|1|-1|-1┤
+253301800|Draw_Icon_3004|大地裝備庫|-1|3018|Draw_Banner_3004|-1|-1|NULL|-1|-1|100000045|1|-1|-1|1|-1|-1┤
+253301900|Draw_Icon_Themed_Vault|主題裝備庫|-1|3019|Draw_Banner_fi05_01_b009_03|-1|-1|NULL|-1|-1|100000034|1|-1|-1|1|398001051|-1┤
+253302000|Draw_Icon_Themed_Vault|主題裝備庫|-1|3020|Draw_Banner_d010_02_e006_03|-1|-1|NULL|-1|-1|100000035|1|-1|-1|1|398001052|-1┤
+253302100|Draw_Icon_Themed_Vault|主題裝備庫|-1|3021|Draw_Banner_wa02_01_e001_04|-1|-1|NULL|-1|-1|100000036|1|-1|-1|1|398001053|-1┤
+253302200|Draw_Icon_Themed_Vault|主題裝備庫|-1|3022|Draw_Banner_d001_04_da05_01|-1|-1|NULL|-1|-1|100000037|1|-1|-1|1|398001054|-1┤
+253302300|Draw_Icon_Themed_Vault|主題裝備庫|-1|3023|Draw_Banner_c004_05_ea05_01|-1|-1|NULL|-1|-1|100000038|1|-1|-1|1|398001055|-1┤
+253302400|Draw_Icon_Themed_Vault|主題裝備庫|-1|3024|Draw_Banner_fi10_01_wa05_01|-1|-1|NULL|-1|-1|100000058|1|-1|-1|1|398001069|-1┤
+253302500|Draw_Icon_Themed_Vault|主題裝備庫|-1|3025|Draw_Banner_ct026_ct027|-1|-1|NULL|-1|-1|100000059|1|-1|-1|1|398001070|-1┤
+253302600|Draw_Icon_Themed_Vault|主題裝備庫|-1|3026|Draw_Banner_ct001_ct002|-1|-1|NULL|-1|-1|100000060|1|-1|-1|1|398001071|-1┤
+253302700|Draw_Icon_Themed_Vault|主題裝備庫|-1|3027|Draw_Banner_ct029_ct030|-1|-1|NULL|-1|-1|100000061|1|-1|-1|1|398001072|-1┤
+253302800|Draw_Icon_Themed_Vault|主題裝備庫|-1|3028|Draw_Banner_ct010_ct011|-1|-1|NULL|-1|-1|100000062|1|-1|-1|1|398001073|-1┤
+253302900|Draw_Icon_Themed_Vault|主題裝備庫|-1|3029|Draw_Banner_ct014_ct013|-1|-1|NULL|-1|-1|100000063|1|-1|-1|1|398001074|-1┤
+253303000|Draw_Icon_Themed_Vault|主題裝備庫|-1|3030|Draw_Banner_ct005_ct006|-1|-1|NULL|-1|-1|100000092|1|-1|-1|1|398001083|-1┤
+253303100|Draw_Icon_Themed_Vault|主題裝備庫|-1|3031|Draw_Banner_ct021_ct022|-1|-1|NULL|-1|-1|100000093|1|-1|-1|1|398001084|-1┤
+253303200|Draw_Icon_Themed_Vault|主題裝備庫|-1|3032|Draw_Banner_ct017_ct018|-1|-1|NULL|-1|-1|100000094|1|-1|-1|1|398001085|-1┤
+253303300|Draw_Icon_Themed_Vault|主題裝備庫|-1|3033|Draw_Banner_ct032_ct033|-1|-1|NULL|-1|-1|100000095|1|-1|-1|1|398001086|-1┤
+253303400|Draw_Icon_Themed_Vault|主題裝備庫|-1|52|Draw_Banner_ct035_ct036|-1|-1|NULL|-1|-1|100000096|1|-1|-1|1|398001087|-1┤
+253303500|Draw_Icon_Themed_Vault|主題裝備庫|-1|69|Draw_Banner_ct038_ct039|-1|-1|NULL|-1|-1|100000097|1|-1|-1|1|398001088|-1┤
+253303600|Draw_Icon_Themed_Vault|主題裝備庫|-1|63|Draw_Banner_ct043_ct044|-1|-1|NULL|-1|-1|100000098|1|-1|-1|1|398001089|-1┤
+253303700|Draw_Icon_Themed_Vault|主題裝備庫|-1|3037|Draw_Banner_ct046_ct047|-1|-1|NULL|-1|-1|100000099|1|-1|-1|1|398001090|-1┤
+253303800|Draw_Icon_Themed_Vault|主題裝備庫|-1|3038|Draw_Banner_ct051_ct052|-1|-1|NULL|-1|-1|100000100|1|-1|-1|1|398001091|-1┤
+253303900|Draw_Icon_Themed_Vault|主題裝備庫|-1|3039|Draw_Banner_ct054_ct055|-1|-1|NULL|-1|-1|100000101|1|-1|-1|-1|398001092|-1┤
+253304000|Draw_Icon_Themed_Vault|主題裝備庫|-1|3040|Draw_Banner_ct057_ct058|-1|-1|NULL|-1|-1|100000102|1|-1|-1|1|398001093|-1┤
+253304100|Draw_Icon_Themed_Vault|主題裝備庫|-1|3041|Draw_Banner_ct060_ct061|-1|-1|NULL|-1|-1|100000103|1|-1|-1|1|398001094|-1┤
+253304200|Draw_Icon_Themed_Vault|主題裝備庫|-1|3042|Draw_Banner_ct063_ct064|-1|-1|NULL|-1|-1|100000104|1|-1|-1|-1|398001095|-1┤
+253304300|Draw_Icon_Themed_Vault|主題裝備庫|-1|3043|Draw_Banner_ct073_ct074|-1|-1|NULL|-1|-1|100000185|1|-1|-1|-1|398001100|-1┤
+253304400|Draw_Icon_Themed_Vault|主題裝備庫|-1|66|Draw_Banner_ct077_ct078|-1|-1|NULL|-1|-1|100000197|1|-1|-1|-1|398001101|-1┤
+253310000|Draw_Icon_3004|大地裝備庫|-1|7000|Draw_Banner_3004|-1|-1|NULL|-1|-1|100000045|1|-1|-1|1|398003014|-1┤
+253310100|Draw_Icon_3001|烈火裝備庫|-1|7001|Draw_Banner_3001|-1|-1|NULL|-1|-1|100000044|1|-1|-1|1|398003013|-1┤
+253310200|Draw_Icon_3002|水波裝備庫|-1|7002|Draw_Banner_3002|-1|-1|NULL|-1|-1|100000046|1|-1|-1|1|398003015|-1┤
+253310300|Draw_Icon_3003|狂風裝備庫|-1|7003|Draw_Banner_3003|-1|-1|NULL|-1|-1|100000047|1|-1|-1|1|398003016|-1┤
+253310400|Draw_Icon_3004|大地裝備庫|-1|7004|Draw_Banner_3004|-1|-1|NULL|-1|-1|100000045|1|-1|-1|1|398003014|-1┤
+253310500|Draw_Icon_3001|烈火裝備庫|-1|7005|Draw_Banner_3001|-1|-1|NULL|-1|-1|100000044|1|-1|-1|1|398003013|-1┤
+253310600|Draw_Icon_3002|水波裝備庫|-1|7006|Draw_Banner_3002|-1|-1|NULL|-1|-1|100000046|1|-1|-1|1|398003015|-1┤
+253310700|Draw_Icon_3003|狂風裝備庫|-1|7007|Draw_Banner_3003|-1|-1|NULL|-1|-1|100000047|1|-1|-1|1|398003016|-1┤
+253400100|Draw_Icon_4001|特別召喚|-1|4000|c007_03_Gacha_Spine$a005_03_Gacha_Spine|c007_03_a005_03_Gacha_Text_S|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253400200|Draw_Icon_4003|特別召喚|-1|4001|a001_03_Gacha_Spine$a005_03_Gacha_Spine|LOVE_STEP_Gacha_Text_S|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253400300|Draw_Icon_4004|特別召喚|-1|4002|c007_03_Gacha_Spine$f002_03_Gacha_Spine|White_STEP_Gacha_Text_S|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253400400|Draw_Icon_d001_03_b002_02|特別召喚|-1|4003|d001_03_Gacha_Spine$b002_02_Gacha_Spine|W17_STEP_Gacha_Text_S|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253400500|Draw_Icon_5_Million|特別召喚|-1|4004|b001_03_Gacha_Spine$b002_02_Gacha_Spine|5_Million_Gacha_Text_F|-1|NULL|-1|-1|100000001|0|-1|-1|-1|-1|-1┤
+253400900|Draw_Icon_a007_04|特別召喚|-1|4006|a007_04_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000002|0|-1|-1|-1|-1|-1┤
+253401000|Draw_Icon_a007_04|特別召喚-Step|Step！|4005|a007_04_Gacha_Spine|a007_04_Gacha_Text_L|-1|NULL|-1|1|100000003|0|-1|-1|-1|-1|-1┤
+253401100|Draw_Icon_W28|特別召喚|-1|4007|a002_02_Gacha_Spine$a004_03_Gacha_Spine|Dragon_Boat_STEP_Gacha_Text_S|-1|NULL|-1|-1|100000004|0|-1|-1|-1|-1|-1┤
+253401200|Draw_Icon_d001_03_b002_02|特別召喚|-1|4008|d001_03_Gacha_Spine$b002_02_Gacha_Spine|Summer_Festival_Gacha_Text_F|-1|NULL|-1|-1|100000005|0|-1|-1|-1|-1|-1┤
+253401300|Draw_Icon_da03_01|特殊召喚 Melody|-1|4010|da03_01_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000006|0|-1|-1|-1|-1|-1┤
+253401400|Draw_Icon_da03_01|特殊召喚 Melody-Step|Step！|4009|da03_01_Gacha_Spine|da03_01_Gacha_Text_L|-1|NULL|-1|1|100000007|0|-1|-1|-1|-1|-1┤
+253401500|Draw_Icon_ea03_01|特殊召喚 懶妹|-1|4011|ea03_01_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000012|0|-1|-1|-1|-1|-1┤
+253401600|Draw_Icon_ea03_01|特殊召喚 懶妹-Step|Step！|4012|ea03_01_Gacha_Spine|ea03_01_Gacha_Text_L|-1|NULL|-1|1|100000013|0|-1|-1|-1|-1|-1┤
+253401700|Draw_Icon_b009_04|特殊召喚 觀月墨水|-1|4013|b009_04_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000014|0|-1|-1|-1|-1|-1┤
+253401800|Draw_Icon_b009_04|特殊召喚 觀月墨水-Step|Step！|4014|b009_04_Gacha_Spine|b009_04_Gacha_Text_L|-1|NULL|-1|1|100000015|0|-1|-1|-1|-1|-1┤
+253401900|Draw_Icon_a007_04|特別召喚|-1|4015|a007_04_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000002|0|-1|-1|-1|-1|-1┤
+253402000|Draw_Icon_a007_04|特別召喚-Step|Step！|4016|a007_04_Gacha_Spine|a007_04_Gacha_Text_L|-1|NULL|-1|1|100000003|0|-1|-1|-1|-1|-1┤
+253402100|Draw_Icon_wa04_01|特殊召喚|-1|4017|wa04_01_Gacha_Spine$f004_03_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000016|0|-1|-1|-1|-1|-1┤
+253402200|Draw_Icon_wa04_01|特殊召喚-Step|Step！|4018|wa04_01_Gacha_Spine$f004_03_Gacha_Spine|wa04_01_Gacha_Text_L|-1|NULL|-1|1|100000017|0|-1|-1|-1|-1|-1┤
+253402300|Draw_Icon_g025_01|主題召喚|-1|4019|g025_01_Gacha_Spine$f001_03_Gacha_Spine|g025_01_Gacha_Text_L|-1|NULL|-1|-1|100000018|0|-1|-1|-1|-1|-1┤
+253402400|Draw_Icon_wi03_01|特殊召喚|-1|4020|wi03_01_Gacha_Spine$f008_02_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000019|0|-1|-1|-1|-1|-1┤
+253402500|Draw_Icon_wi03_01|特殊召喚-Step|Step！|4021|wi03_01_Gacha_Spine$f008_02_Gacha_Spine|wi03_01_Gacha_Text_L|-1|NULL|-1|1|100000020|0|-1|-1|-1|-1|-1┤
+253402600|Draw_Icon_b003_04|主題召喚|-1|4022|b003_04_Gacha_Spine$f003_03_Gacha_Spine|b003_04_Gacha_Text_L|-1|NULL|-1|-1|100000021|0|-1|-1|-1|-1|-1┤
+253402700|Draw_Icon_f006_03|特殊召喚|-1|4023|f006_03_Gacha_Spine$c002_03_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000022|0|-1|-1|-1|-1|-1┤
+253402800|Draw_Icon_f006_03|特殊召喚-Step|Step！|4024|f006_03_Gacha_Spine$c002_03_Gacha_Spine|f006_03_Gacha_Text_L|-1|NULL|-1|1|100000023|0|-1|-1|-1|-1|-1┤
+253402900|Draw_Icon_c004_03|主題召喚|-1|4025|c004_03_Gacha_Spine$b005_03_Gacha_Spine|c004_03_Gacha_Text_L|-1|NULL|-1|-1|100000024|0|-1|-1|-1|-1|-1┤
+253403000|Draw_Icon_f008_02_c002_03|週年特殊召喚|-1|998|f008_02_Gacha_Spine$c002_03_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000025|0|-1|-1|-1|-1|-1┤
+253403100|Draw_Icon_f008_02_c002_03|週年特殊召喚-Step|Step！|997|f008_02_Gacha_Spine$c002_03_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|1|100000026|0|-1|-1|-1|-1|-1┤
+253403200|Draw_Icon_g025_03_li02_01|聖誕特殊召喚|-1|996|g025_03_Gacha_Spine$li02_01_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000027|0|-1|-1|-1|-1|-1┤
+253403300|Draw_Icon_g025_03_li02_01|聖誕特殊召喚-Step|Step！|995|g025_03_Gacha_Spine$li02_01_Gacha_Spine|g025_03_li02_01_Gacha_Text_L|-1|NULL|-1|1|100000028|0|-1|-1|-1|-1|-1┤
+253403400|Draw_Icon_g025_03_li02_01|聖誕高級特殊召喚-Step|Step！|994|g025_03_Gacha_Spine$li02_01_Gacha_Spine|g025_03_li02_01_Gacha_Text_H|-1|NULL|-1|1|100000029|0|-1|-1|-1|-1|-1┤
+253403500|Draw_Icon_f005_02|主題召喚|-1|993|f005_02_Gacha_Spine$a001_03_Gacha_Spine|f005_02_Gacha_Text_L|-1|NULL|-1|-1|100000030|0|-1|-1|-1|-1|-1┤
+253403600|Draw_Icon_f008_02|主題召喚|-1|992|a007_04_Gacha_Spine$f008_02_Gacha_Spine|f008_02_Gacha_Text_L|-1|NULL|-1|-1|100000031|0|-1|-1|-1|-1|-1┤
+253403700|Draw_Icon_g025_03_li02_01|聖誕高級特殊召喚-Step|Step！|991|g025_03_Gacha_Spine$li02_01_Gacha_Spine|g025_03_li02_01_Gacha_Text_H|-1|NULL|-1|1|100000032|0|200500023|-1|-1|-1|-1┤
+253403800|Draw_Icon_g025_03_li02_01|聖誕高級特殊召喚-Step|Step！|990|g025_03_Gacha_Spine$li02_01_Gacha_Spine|g025_03_li02_01_Gacha_Text_H|-1|NULL|-1|1|100000033|0|200500024|-1|-1|-1|-1┤
+253403900|Draw_Icon_e004_04|特殊召喚|-1|989|e004_04_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000039|0|-1|-1|-1|-1|-1┤
+253404000|Draw_Icon_e004_04|特殊召喚-Step|Step！|988|e004_04_Gacha_Spine|e004_04_Gacha_Text_L|-1|NULL|-1|1|100000040|0|-1|-1|-1|-1|-1┤
+253404100|Draw_Icon_a007_03_e008_03|情人節特殊召喚|-1|987|a007_03_Gacha_Spine$e008_03_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000041|0|-1|-1|-1|-1|-1┤
+253404200|Draw_Icon_a007_03_e008_03|情人節特殊召喚-Step|Step！|986|a007_03_Gacha_Spine$e008_03_Gacha_Spine|a007_03_Gacha_Text_L|-1|NULL|-1|1|100000042|0|-1|-1|-1|-1|-1┤
+253404300|Draw_Icon_f004_03|主題召喚|-1|985|f004_03_Gacha_Spine$e004_02_Gacha_Spine|f004_03_Gacha_Text_L|-1|NULL|-1|-1|100000043|0|-1|-1|-1|-1|-1┤
+253404400|Draw_Icon_da06_01|特殊召喚|-1|984|da06_01_Gacha_Spine$ea01_01_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000048|0|-1|-1|-1|-1|-1┤
+253404500|Draw_Icon_da06_01|特殊召喚-Step|Step！|983|da06_01_Gacha_Spine$ea01_01_Gacha_Spine|da06_01_Gacha_Text_L|-1|NULL|-1|1|100000049|0|-1|-1|-1|-1|-1┤
+253404600|Draw_Icon_f008_02_c002_03|特殊召喚|-1|982|f008_02_Gacha_Spine$c002_03_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|-1|100000050|0|-1|-1|-1|-1|-1┤
+253404700|Draw_Icon_f008_02_c002_03|特殊召喚-Step|Step！|981|f008_02_Gacha_Spine$c002_03_Gacha_Spine|PickUp_SSR5_Gacha_Text_L|-1|NULL|-1|1|100000051|0|-1|-1|-1|-1|-1┤
+253404800|Draw_Icon_li02_01|週年特殊召喚 (光) 路西法|-1|980|li02_01_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000052|0|-1|-1|-1|-1|-1┤
+253404900|Draw_Icon_g025_03|週年特殊召喚 (闇) 尤兒|-1|979|g025_03_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000052|0|-1|-1|-1|-1|-1┤
+253405000|Draw_Icon_li02_01|週年特殊召喚-Step(光) 路西法|Step！|978|li02_01_Gacha_Spine|li02_01_Gacha_Text_L|-1|NULL|-1|1|100000053|0|-1|-1|-1|-1|-1┤
+253405100|Draw_Icon_g025_03|週年特殊召喚-Step(闇) 尤兒|Step！|977|g025_03_Gacha_Spine|g025_03_Gacha_Text_L|-1|NULL|-1|1|100000054|0|-1|-1|-1|-1|-1┤
+253405200|Draw_Icon_g025_03_li02_01|週年高級特殊召喚-Step|Step！|976|li02_01_Gacha_Spine$g025_03_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000055|0|-1|-1|-1|-1|-1┤
+253405300|Draw_Icon_da03_01|特殊召喚 Melody|-1|975|da03_01_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000056|0|-1|-1|-1|-1|-1┤
+253405400|Draw_Icon_da03_01|特殊召喚 Melody-Step|Step！|974|da03_01_Gacha_Spine|da03_01_Gacha_Text_L|-1|NULL|-1|1|100000057|0|-1|-1|-1|-1|-1┤
+253405500|Draw_Icon_ea03_01|特殊召喚 懶妹|-1|5999|ea03_01_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000064|0|-1|-1|-1|-1|-1┤
+253405600|Draw_Icon_b009_04|特殊召喚 觀月墨水|-1|5998|b009_04_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000064|0|-1|-1|-1|-1|-1┤
+253405700|Draw_Icon_ea03_01|特殊召喚 懶妹-Step|Step！|5997|ea03_01_Gacha_Spine|ea03_01_Gacha_Text_L|-1|NULL|-1|1|100000065|0|-1|-1|-1|-1|-1┤
+253405800|Draw_Icon_b009_04|特殊召喚 觀月墨水-Step|Step！|5996|b009_04_Gacha_Spine|b009_04_Gacha_Text_L|-1|NULL|-1|1|100000066|0|-1|-1|-1|-1|-1┤
+253405900|Draw_Icon_ct026_ct027|高級特殊召喚-Step|Step！|5995|ct026_Gacha_Spine$ct027_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000067|0|-1|-1|1|-1|-1┤
+253406000|Draw_Icon_e004_04|特殊召喚 杏仁ミル|-1|5994|e004_04_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000068|0|-1|-1|-1|-1|-1┤
+253406100|Draw_Icon_e004_04|特殊召喚 杏仁ミル-Step|Step！|5993|e004_04_Gacha_Spine|e004_04_Gacha_Text_L|-1|NULL|-1|1|100000069|0|-1|-1|-1|-1|-1┤
+253406200|Draw_Icon_ct025_b010_03|特殊召喚 瑪門禮賜-Step|Step！|5992|ct025_Gacha_Spine$b010_03_Gacha_Spine|ct025_b010_03_Gacha_Text|-1|NULL|-1|1|100000070|1|-1|-1|-1|-1|-1┤
+253406300|Draw_Icon_ct009_wa04_01|特殊召喚 玉兔&嫦娥|-1|5991|ct009_Gacha_Spine$wa04_01_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000071|0|-1|-1|-1|398001077|-1┤
+253406400|Draw_Icon_ct009_wa04_01|特殊召喚 玉兔&嫦娥-Step|Step！|5990|ct009_Gacha_Spine$wa04_01_Gacha_Spine|ct009_Gacha_Text_L|-1|NULL|-1|1|100000072|0|-1|-1|-1|398001077|-1┤
+253406500|Draw_Icon_c005_03_a009_03|特殊召喚 瑪門禮賜-Step|Step！|5989|c005_03_Gacha_Spine$a009_03_Gacha_Spine|c005_03_a009_03_Gacha_Text|-1|NULL|-1|1|100000073|1|-1|-1|-1|-1|-1┤
+253406600|Draw_Icon_f003_04_e002_04|屬性召喚-Step|Step！|5988|f003_04_Gacha_Spine$e002_04_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000075|1|-1|-1|1|-1|-1┤
+253406700|Draw_Icon_f003_04_e002_04|屬性召喚|-1|6000|f003_04_Gacha_Spine$e002_04_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000074|1|-1|-1|1|398003014|-1┤
+253406800|Draw_Icon_fi04_01_wa06_01|特殊召喚|-1|6001|fi04_01_Gacha_Spine$wa06_01_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|-1|100000076|0|-1|-1|-1|398001078|-1┤
+253406900|Draw_Icon_fi04_01_wa06_01|特殊召喚-Step|Step！|5985|fi04_01_Gacha_Spine$wa06_01_Gacha_Spine|PickUp_SSR5_Gacha_Text_L|-1|NULL|-1|1|100000077|0|-1|-1|-1|398001078|-1┤
+253407000|Draw_Icon_ct029_ct030|高級特殊召喚-Step|Step！|5984|ct029_Gacha_Spine$ct030_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000078|1|-1|-1|1|-1|-1┤
+253407100|Draw_Icon_fi04_01_d005_03|屬性召喚-Step|Step！|6002|fi04_01_Gacha_Spine$d005_03_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000080|1|-1|-1|1|-1|-1┤
+253407200|Draw_Icon_fi04_01_d005_03|屬性召喚|-1|6003|fi04_01_Gacha_Spine$d005_03_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000079|1|-1|-1|1|398003013|-1┤
+253407300|Draw_Icon_wa06_01_a007_03|屬性召喚-Step|Step！|6004|wa06_01_Gacha_Spine$a007_03_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000082|1|-1|-1|1|-1|-1┤
+253407400|Draw_Icon_wa06_01_a007_03|屬性召喚|-1|6005|wa06_01_Gacha_Spine$a007_03_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000081|1|-1|-1|1|398003015|-1┤
+253407500|Draw_Icon_wi04_01_e007_04|屬性召喚-Step|Step！|6006|e007_04_Gacha_Spine$wi04_01_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000084|1|-1|-1|1|-1|-1┤
+253407600|Draw_Icon_wi04_01_e007_04|屬性召喚|-1|6007|e007_04_Gacha_Spine$wi04_01_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000083|1|-1|-1|1|398003016|-1┤
+253407700|Draw_Icon_a007_03_f005_02|特殊召喚|-1|5977|a007_03_Gacha_Spine$f005_02_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000085|0|-1|-1|-1|-1|-1┤
+253407800|Draw_Icon_a007_03_f005_02|特殊召喚-Step|Step！|5976|a007_03_Gacha_Spine$f005_02_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000086|0|-1|-1|-1|-1|-1┤
+253407900|Draw_Icon_ct008|特殊召喚|-1|5975|ct008_Gacha_Spine$li02_01_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000087|0|-1|-1|-1|-1|-1┤
+253408000|Draw_Icon_ct008|特殊召喚-Step|Step！|5974|ct008_Gacha_Spine$li02_01_Gacha_Spine|ct008_Gacha_Text_L|-1|NULL|-1|1|100000088|0|-1|-1|-1|-1|-1┤
+253408100|Draw_Icon_ct024|特殊召喚|-1|5973|ct024_Gacha_Spine$g025_03_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000089|0|-1|-1|-1|-1|-1┤
+253408200|Draw_Icon_ct024|特殊召喚-Step|Step！|5972|ct024_Gacha_Spine$g025_03_Gacha_Spine|ct024_Gacha_Text_L|-1|NULL|-1|1|100000090|0|-1|-1|-1|-1|-1┤
+253408300|Draw_Icon_ct026_ct027|特殊召喚-Step|Step！|5971|ct026_Gacha_Spine$ct027_Gacha_Spine|ct026_ct027_Gacha_Text_H|-1|NULL|-1|1|100000091|0|-1|-1|1|-1|-1┤
+253408400|Draw_Icon_fi04_01_wa06_01|特殊召喚|-1|5970|fi04_01_Gacha_Spine$wa06_01_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000105|0|-1|-1|-1|-1|-1┤
+253408500|Draw_Icon_fi04_01_wa06_01|特殊召喚-Step|Step！|5969|fi04_01_Gacha_Spine$wa06_01_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|1|100000106|0|-1|-1|-1|-1|-1┤
+253408600|Draw_Icon_ct016|情人節特殊召喚|-1|5968|ct016_Gacha_Spine$f004_03_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000107|0|-1|-1|-1|-1|-1┤
+253408700|Draw_Icon_ct016|情人節特殊召喚-Step|Step！|5967|ct016_Gacha_Spine$f004_03_Gacha_Spine|ct016_Gacha_Text_L|-1|NULL|-1|1|100000108|0|-1|-1|-1|-1|-1┤
+253408800|Draw_Icon_c004_05_d001_04|特殊召喚|-1|5966|d001_04_Gacha_Spine$c004_05_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000109|0|-1|-1|-1|-1|-1┤
+253408900|Draw_Icon_c004_05_d001_04|特殊召喚-Step|Step！|5965|d001_04_Gacha_Spine$c004_05_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000110|0|-1|-1|-1|-1|-1┤
+253409000|Draw_Icon_ct004_da06_01|特殊召喚|-1|5964|da06_01_Gacha_Spine$ct004_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000111|0|-1|-1|-1|-1|-1┤
+253409100|Draw_Icon_ct004_da06_01|特殊召喚-Step|Step！|5963|da06_01_Gacha_Spine$ct004_Gacha_Spine|ct004_Gacha_Text_L|-1|NULL|-1|1|100000112|0|-1|-1|-1|-1|-1┤
+253409200|Draw_Icon_ct025_b010_03|特殊召喚 海盜寶庫-Step|Step！|5962|ct025_Gacha_Spine$b010_03_Gacha_Spine|ct025_b010_03_Gacha_Text|-1|NULL|-1|1|100000113|1|-1|-1|1|-1|-1┤
+253409300|Draw_Icon_c005_03_a009_03|特殊召喚 海盜寶庫-Step|Step！|5961|c005_03_Gacha_Spine$a009_03_Gacha_Spine|c005_03_a009_03_Gacha_Text|-1|NULL|-1|1|100000114|1|-1|-1|1|-1|-1┤
+253409400|Draw_Icon_d001_04_da05_01|特殊召喚|-1|5959|d001_04_Gacha_Spine$da05_01_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000115|0|-1|-1|-1|-1|-1┤
+253409500|Draw_Icon_d001_04_da05_01|特殊召喚-Step|Step！|5958|d001_04_Gacha_Spine$da05_01_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|1|100000116|0|-1|-1|-1|-1|-1┤
+253409600|Draw_Icon_ct017_ct018|高級特殊召喚-Step|Step！|1031|ct017_Gacha_Spine$ct018_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000117|0|-1|-1|1|-1|-1┤
+253409700|Draw_Icon_c004_05_ea05_01|特殊召喚|-1|5957|c004_05_Gacha_Spine$ea05_01_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000118|0|-1|-1|-1|-1|-1┤
+253409800|Draw_Icon_c004_05_ea05_01|特殊召喚-Step|Step！|5956|c004_05_Gacha_Spine$ea05_01_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|1|100000119|0|-1|-1|-1|-1|-1┤
+253409900|Draw_Icon_ct008|特殊召喚|-1|5955|ct008_Gacha_Spine$li02_01_Gacha_Spine$g025_03_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000120|0|-1|-1|-1|-1|-1┤
+253410000|Draw_Icon_ct008|特殊召喚-Step|Step！|5954|ct008_Gacha_Spine$li02_01_Gacha_Spine$g025_03_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|1|100000121|0|-1|-1|-1|-1|-1┤
+253410100|Draw_Icon_ct008|高級特殊召喚-Step|Step！|5953|ct008_Gacha_Spine$li02_01_Gacha_Spine$g025_03_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000122|0|-1|-1|-1|-1|-1┤
+253410200|Draw_Icon_wa02_01_b003_04|特殊召喚|-1|5952|wa02_01_Gacha_Spine$b003_04_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000123|0|-1|-1|-1|-1|-1┤
+253410300|Draw_Icon_wa02_01_b003_04|特殊召喚-Step|Step！|5951|wa02_01_Gacha_Spine$b003_04_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|1|100000124|0|-1|-1|-1|-1|-1┤
+253410400|Draw_Icon_ct067|特殊召喚|-1|5950|ct067_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000125|0|-1|-1|1|398006014|-1┤
+253410500|Draw_Icon_ct067|特殊召喚-Step|Step！|5949|ct067_Gacha_Spine|ct067_Gacha_Text_L|-1|NULL|-1|1|100000126|0|-1|-1|1|398006014|-1┤
+253410600|Draw_Icon_fi10_01_fi05_01|屬性召喚-Step|一次限定！|5948|fi10_01_Gacha_Spine$fi05_01_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000127|1|-1|-1|1|-1|-1┤
+253410700|Draw_Icon_f008_02|特殊召喚|-1|5947|f008_02_Gacha_Spine|f008_02_Gacha_Text_L|120|NULL|-1|1|-1|0|-1|-1|-1|-1|-1┤
+253410800|Draw_Icon_ct029_ct030|主題召喚|-1|5946|ct029_Gacha_Spine$ct030_Gacha_Spine|ct029_ct030_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253410900|Draw_Icon_Themed_Vault|主題裝備庫|-1|5944|Draw_Banner_ct029_ct030|-1|-1|NULL|-1|-1|100000061|1|-1|-1|1|398001072|-1┤
+253411000|Draw_Icon_ct029_ct030|高級特殊召喚-Step|Step！|5943|ct029_Gacha_Spine$ct030_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000078|1|-1|-1|1|-1|-1┤
+253411100|Draw_Icon_ct014_wa02_01|屬性召喚-Step|一次限定！|70|ct014_Gacha_Spine$wa02_01_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000130|1|-1|-1|1|-1|-1┤
+253411200|Draw_Icon_f004_03|特殊召喚|-1|5941|f004_03_Gacha_Spine|f004_03_Gacha_Text_L|120|NULL|-1|1|-1|0|-1|-1|-1|-1|-1┤
+253411300|Draw_Icon_fi10_01_fi05_01|屬性召喚|-1|71|fi10_01_Gacha_Spine$fi05_01_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000079|1|-1|-1|1|398003013|-1┤
+253411400|Draw_Icon_ct014_wa02_01|屬性召喚|-1|72|ct014_Gacha_Spine$wa02_01_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000081|1|-1|-1|1|398003015|-1┤
+253411500|Draw_Icon_d001_04_e007_04|屬性召喚|-1|6010|e007_04_Gacha_Spine$d001_04_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000083|1|-1|-1|1|398003016|-1┤
+253411600|Draw_Icon_ct005_e006_03|屬性召喚|-1|6011|ct005_Gacha_Spine$e006_03_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000074|1|-1|-1|1|398003014|-1┤
+253411700|Draw_Icon_fi04_01_wa06_01|特殊召喚|-1|5940|wa06_01_Gacha_Spine$fi04_01_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000128|0|-1|-1|-1|398007007|-1┤
+253411800|Draw_Icon_fi04_01_wa06_01|特殊召喚-Step|Step！|5939|wa06_01_Gacha_Spine$fi04_01_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|1|100000129|0|-1|-1|-1|398007007|-1┤
+253411900|Draw_Icon_ct016|特殊召喚|-1|5038|fi04_01_Gacha_Spine$ct016_Gacha_Spine|SSR_Gacha_Text_L|-1|NULL|-1|-1|100000128|0|-1|-1|-1|398007007|-1┤
+253412000|Draw_Icon_ct016|特殊召喚-Step|Step！|5037|fi04_01_Gacha_Spine$ct016_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|1|100000129|0|-1|-1|-1|398007007|-1┤
+253412100|Draw_Icon_ct005_e006_03|屬性召喚-Step|一次限定！|5036|ct005_Gacha_Spine$e006_03_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000131|1|-1|-1|1|-1|-1┤
+253412200|Draw_Icon_f005_02|特殊召喚|-1|5935|f005_02_Gacha_Spine|f005_02_Gacha_Text_L|120|NULL|-1|1|-1|0|-1|-1|-1|-1|-1┤
+253412300|Draw_Icon_ct017_ct018|高級特殊召喚-Step|Step！|5932|ct017_Gacha_Spine$ct018_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000117|1|-1|-1|1|-1|-1┤
+253412400|Draw_Icon_ct017_ct018|主題召喚|-1|5933|ct017_Gacha_Spine$ct018_Gacha_Spine|ct017_ct018_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253412500|Draw_Icon_Themed_Vault|主題裝備庫|-1|5934|Draw_Banner_ct017_ct018|-1|-1|NULL|-1|-1|100000094|1|-1|-1|1|398001085|-1┤
+253412600|Draw_Icon_ct009_wa04_01|特殊召喚|-1|5931|wa04_01_Gacha_Spine$ct009_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000133|0|-1|-1|-1|398007009|-1┤
+253412700|Draw_Icon_ct009_wa04_01|特殊召喚-Step|Step！|5930|wa04_01_Gacha_Spine$ct009_Gacha_Spine|ct009_Gacha_Text_L|-1|NULL|-1|1|100000134|0|-1|-1|-1|-1|-1┤
+253412800|Draw_Icon_ct050|特殊召喚|-1|5929|ct050_Gacha_Spine$fi10_01_Gacha_Spine$fi05_01_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000135|0|-1|-1|-1|398007010|-1┤
+253412900|Draw_Icon_ct050|特殊召喚-Step|Step！|5928|ct050_Gacha_Spine$fi10_01_Gacha_Spine$fi05_01_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|-1|100000136|0|-1|-1|-1|398007010|-1┤
+253413000|Draw_Icon_ct050|高級特殊召喚-Step|Step！|5927|ct050_Gacha_Spine$fi10_01_Gacha_Spine$fi05_01_Gacha_Spine|ct050_Gacha_Text_L|-1|NULL|-1|1|100000137|1|-1|-1|-1|-1|-1┤
+253413100|Draw_Icon_wi03_01|特殊召喚|-1|5926|wi03_01_Gacha_Spine|wi03_01_Gacha_Text_L|-1|NULL|-1|-1|100000135|0|-1|-1|-1|398007010|-1┤
+253413200|Draw_Icon_ct032_ct033|高級主題召喚|一次限定！|5925|ct032_Gacha_Spine$ct033_Gacha_Spine|ct032_ct033_Gacha_Text_H|-1|NULL|-1|1|-1|1|-1|-1|1|-1|-1┤
+253413300|Draw_Icon_ct032_ct033|主題召喚|-1|5924|ct032_Gacha_Spine$ct033_Gacha_Spine|ct032_ct033_Gacha_Text|100|NULL|-1|-1|-1|1|-1|-1|1|-1|-1┤
+253413400|Draw_Icon_Themed_Vault|主題裝備庫|-1|5923|Draw_Banner_ct032_ct033|-1|-1|NULL|-1|-1|100000095|1|-1|-1|1|398001086|-1┤
+253413500|Draw_Icon_ct032_ct033|高級特殊召喚-Step|Step！|5922|ct032_Gacha_Spine$ct033_Gacha_Spine|PickUp_SSR5_Gacha_Text_L|-1|NULL|-1|1|100000138|1|-1|-1|1|-1|-1┤
+253413600|Draw_Icon_ct054_ct055|高級特殊召喚-Step|Step！|5921|ct054_Gacha_Spine$ct055_Gacha_Spine|PickUp_SSR5_Gacha_Text_L|-1|NULL|-1|1|100000139|1|-1|-1|-1|-1|-1┤
+253413700|Draw_Icon_b003_04|特殊召喚|-1|5920|b003_04_Gacha_Spine|b003_04_Gacha_Text_L|120|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253413800|Draw_Icon_li02_01|特殊召喚|-1|5919|li02_01_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000140|0|-1|-1|-1|398007011|-1┤
+253413900|Draw_Icon_li02_01|特殊召喚-Step|Step！|5918|li02_01_Gacha_Spine|li02_01_Gacha_Text_L|-1|NULL|-1|1|100000141|0|-1|-1|-1|398007011|-1┤
+253414000|Draw_Icon_ct008|特殊召喚|-1|5917|ct008_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000140|0|-1|-1|-1|398007011|-1┤
+253414100|Draw_Icon_ct008|特殊召喚-Step|Step！|5916|ct008_Gacha_Spine|ct008_Gacha_Text_L|-1|NULL|-1|1|100000142|0|-1|-1|-1|398007011|-1┤
+253414200|Draw_Icon_ct066|特殊召喚|-1|8502|ct066_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000143|0|-1|-1|-1|398007013|-1┤
+253414300|Draw_Icon_ct066|特殊召喚-Step|Step！|8501|ct066_Gacha_Spine|ct066_Gacha_Text_L|-1|NULL|-1|1|100000144|0|-1|-1|-1|398007013|-1┤
+253414400|Draw_Icon_ct024|特殊召喚|-1|5915|ct024_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000146|0|-1|-1|-1|398007016|-1┤
+253414500|Draw_Icon_ct024|特殊召喚-Step|Step！|5914|ct024_Gacha_Spine|ct024_Gacha_Text_L|-1|NULL|-1|1|100000147|0|-1|-1|-1|398007016|-1┤
+253414600|Draw_Icon_g025_03|特殊召喚|-1|5913|g025_03_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000146|0|-1|-1|-1|398007016|-1┤
+253414700|Draw_Icon_g025_03|特殊召喚-Step|Step！|5912|g025_03_Gacha_Spine|g025_03_Gacha_Text_L|-1|NULL|-1|1|100000148|0|-1|-1|-1|398007016|-1┤
+253414800|Draw_Icon_ct067|高級特殊召喚-Step|Step！|5911|ct067_Gacha_Spine|ct067_Gacha_Text_L|-1|NULL|-1|1|100000149|0|-1|-1|1|-1|-1┤
+253414900|Draw_Icon_ct067|特殊召喚|-1|5910|ct067_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000151|0|-1|-1|1|398007017|-1┤
+253415000|Draw_Icon_ct067|特殊召喚-Step|Step！|5909|ct067_Gacha_Spine|ct067_Gacha_Text_L|-1|NULL|-1|1|100000153|0|-1|-1|1|398007017|-1┤
+253415100|Draw_Icon_ct026_ct027|高級特殊召喚-Step|Step！|5908|ct026_Gacha_Spine$ct027_Gacha_Spine|ct026_ct027_Gacha_Text_H|-1|NULL|-1|1|100000152|0|-1|-1|1|-1|-1┤
+253415200|Draw_Icon_ct026_ct027|特殊召喚|-1|5907|ct026_Gacha_Spine$ct027_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000151|0|-1|-1|1|398007017|-1┤
+253415300|Draw_Icon_ct026_ct027|特殊召喚-Step|Step！|5906|ct026_Gacha_Spine$ct027_Gacha_Spine|ct026_ct027_Gacha_Text_H|-1|NULL|-1|1|100000154|0|-1|-1|1|398007017|-1┤
+253415400|Draw_Icon_li02_01|特殊召喚|-1|888|li02_01_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000027|0|-1|-1|-1|398007011|-1┤
+253415500|Draw_Icon_li02_01|特殊召喚-Step|Step！|889|li02_01_Gacha_Spine|li02_01_Gacha_Text_L|-1|NULL|-1|1|100001001|0|-1|-1|-1|398007011|-1┤
+253415600|Draw_Icon_g025_03|特殊召喚|-1|900|g025_03_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000027|0|-1|-1|-1|398007016|-1┤
+253415700|Draw_Icon_g025_03|特殊召喚-Step|Step！|901|g025_03_Gacha_Spine|g025_03_Gacha_Text_L|-1|NULL|-1|1|100001002|0|-1|-1|-1|398007016|-1┤
+253415800|Draw_Icon_li02_01|高級特殊召喚-Step|Step！|902|li02_01_Gacha_Spine$g025_03_Gacha_Spine|PickUp_SSR_Gacha_Text_L|-1|NULL|-1|1|100001003|1|-1|-1|-1|-1|-1┤
+253415900|Draw_Icon_c004_03|特殊召喚|-1|5905|c004_03_Gacha_Spine|c004_03_Gacha_Text_L|120|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253416000|Draw_Icon_d001_04_e007_04|屬性召喚-Step|一次限定！|5904|d001_04_Gacha_Spine$e007_04_Gacha_Spine|Choice_Chest_Gacha_Text_L|-1|NULL|-1|1|100000155|1|-1|-1|1|-1|-1┤
+253416100|Draw_Icon_ct102|邱比特高級特殊召喚-Step|一次限定！|5903|ct102_Gacha_Spine|ct102_Gacha_Text_L|-1|NULL|-1|1|100000156|0|-1|-1|-1|-1|-1┤
+253416200|Draw_Icon_ct102|邱比特特殊召喚-Step|Step！|5902|ct102_Gacha_Spine|ct102_Gacha_Text_L|-1|NULL|-1|1|100000157|0|-1|-1|-1|398007018|-1┤
+253416300|Draw_Icon_ct102|邱比特特殊召喚|-1|5901|ct102_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000160|0|-1|-1|-1|398007018|-1┤
+253416400|Draw_Icon_ct016|娜奇拉高級特殊召喚-Step|一次限定！|5900|ct016_Gacha_Spine|ct016_Gacha_Text_L|-1|NULL|-1|1|100000158|0|-1|-1|-1|-1|-1┤
+253416500|Draw_Icon_ct016|娜奇拉特殊召喚-Step|Step！|5899|ct016_Gacha_Spine| ct016_Gacha_Text_L|-1|NULL|-1|1|100000159|0|-1|-1|-1|398007018|-1┤
+253416600|Draw_Icon_ct016|娜奇拉特殊召喚|-1|5898|ct016_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000160|0|-1|-1|-1|398007018|-1┤
+253416700|Draw_Icon_e002_04|特殊召喚|-1|5897|e002_04_Gacha_Spine|e002_04_Gacha_Text_L|120|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253416800|Draw_Icon_ct106|凡妮娜高級特殊召喚-Step|一次限定！|5896|ct106_Gacha_Spine|ct106_Gacha_Text_L|-1|NULL|-1|1|100000169|0|-1|-1|-1|-1|-1┤
+253416900|Draw_Icon_ct106|凡妮娜特殊召喚-Step|Step！|5895|ct106_Gacha_Spine|ct106_Gacha_Text_L|-1|NULL|-1|1|100000170|0|-1|-1|-1|398007021|-1┤
+253417000|Draw_Icon_ct106|凡妮娜特殊召喚|-1|5894|ct106_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000171|0|-1|-1|-1|398007021|-1┤
+253417100|Draw_Icon_ct050|SweetieFox 高級特殊召喚-Step|一次限定！|5893|ct050_Gacha_Spine|ct050_Gacha_Text_L|-1|NULL|-1|1|100000172|0|-1|-1|-1|-1|-1┤
+253417200|Draw_Icon_ct050|SweetieFox 特殊召喚-Step|Step！|5892|ct050_Gacha_Spine|ct050_Gacha_Text_L|-1|NULL|-1|1|100000173|0|-1|-1|-1|398007010|-1┤
+253417300|Draw_Icon_ct050|SweetieFox 特殊召喚|-1|5891|ct050_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000174|0|-1|-1|-1|398007010|-1┤
+253417400|Draw_Icon_ct069|立花高級特殊召喚-Step|一次限定！|5890|ct069_Gacha_Spine|ct069_Gacha_Text_T_L|-1|NULL|-1|1|100000175|0|-1|-1|-1|-1|-1┤
+253417500|Draw_Icon_ct069|立花特殊召喚-Step|Step！|5889|ct069_Gacha_Spine|ct069_Gacha_Text_T_L|-1|NULL|-1|1|100000176|0|-1|-1|-1|398007023|-1┤
+253417600|Draw_Icon_ct069|立花特殊召喚|-1|5888|ct069_Gacha_Spine|ct069_Gacha_Text_T|-1|NULL|-1|-1|100000177|0|-1|-1|-1|398007023|-1┤
+253417700|Draw_Icon_ct070|天童美亞高級特殊召喚-Step|一次限定！|5887|ct070_Gacha_Spine|ct070_Gacha_Text_T_L|-1|NULL|-1|1|100000178|0|-1|-1|-1|-1|-1┤
+253417800|Draw_Icon_ct070|天童美亞特殊召喚-Step|Step！|5886|ct070_Gacha_Spine|ct070_Gacha_Text_T_L|-1|NULL|-1|1|100000179|0|-1|-1|-1|398007023|-1┤
+253417900|Draw_Icon_ct070|天童美亞特殊召喚|-1|5885|ct070_Gacha_Spine|ct070_Gacha_Text_T|-1|NULL|-1|-1|100000180|0|-1|-1|-1|398007023|-1┤
+253418000|Draw_Icon_d005_03|特殊召喚|-1|5884|d005_03_Gacha_Spine|d005_03_Gacha_Text_L|120|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253418100|Draw_Icon_ct049|瑪門高級特殊召喚-Step|一次限定！|5883|ct049_Gacha_Spine|ct049_Gacha_Text_L|-1|NULL|-1|1|100000187|0|-1|-1|-1|-1|-1┤
+253418200|Draw_Icon_ct049|瑪門特殊召喚-Step|Step！|5882|ct049_Gacha_Spine|ct049_Gacha_Text_L|-1|NULL|-1|1|100000188|0|-1|-1|-1|398007028|-1┤
+253418300|Draw_Icon_ct049|瑪門特殊召喚|-1|5881|ct049_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000189|0|-1|-1|-1|398007028|-1┤
+253418400|Draw_Icon_ct076|赤鬼伯伯高級特殊召喚-Step|一次限定！|53|ct076_Gacha_Spine|ct076_Gacha_Text_L|-1|NULL|-1|1|100000190|0|-1|-1|-1|-1|-1┤
+253418500|Draw_Icon_ct076|赤鬼伯伯特殊召喚-Step|Step！|54|ct076_Gacha_Spine|ct076_Gacha_Text_L|-1|NULL|-1|1|100000191|0|-1|-1|-1|398007029|-1┤
+253418600|Draw_Icon_ct076|赤鬼伯伯特殊召喚|-1|55|ct076_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000192|0|-1|-1|-1|398007029|-1┤
+253418700|Draw_Icon_ct072|馬可波羅特殊召喚|-1|56|ct072_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000193|0|-1|-1|-1|398007031|-1┤
+253418800|Draw_Icon_ct072|馬可波羅特殊召喚-Step|Step！|57|ct072_Gacha_Spine|ct072_Gacha_Text_L|-1|NULL|-1|1|100000194|0|-1|-1|-1|398007031|-1┤
+253418900|Draw_Icon_e007_04|特殊召喚|-1|58|e007_04_Gacha_Spine|e007_04_Gacha_Text_L|120|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253419000|Draw_Icon_ct081|達太安高級特殊召喚-Step|一次限定！|59|ct081_Gacha_Spine|ct081_Gacha_Text_L|-1|NULL|-1|1|100000198|0|-1|-1|-1|-1|-1┤
+253419100|Draw_Icon_ct081|達太安特殊召喚-Step|Step！|60|ct081_Gacha_Spine|ct081_Gacha_Text_L|-1|NULL|-1|1|100000199|0|-1|-1|-1|398007034|-1┤
+253419200|Draw_Icon_ct081|達太安特殊召喚|-1|61|ct081_Gacha_Spine|Limited_Gacha_Text_F|-1|NULL|-1|-1|100000200|0|-1|-1|-1|398007034|-1┤
+253490100|Draw_Icon_Wish|新手心願召喚|心願限定！|10000|f008_02_Gacha_Spine$c002_03_Gacha_Spine|SSR_UP_Gacha_Text_W|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253490200|Draw_Icon_Wish|二週年慶心願召喚|心願限定！|300|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000901|0|-1|-1|-1|-1|-1┤
+253490300|Draw_Icon_Wish|高級二週年慶心願召喚|心願限定！|301|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000902|0|-1|-1|-1|-1|-1┤
+253490400|Draw_Icon_Wish|2.5週年慶心願召喚|心願限定！|302|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000903|0|-1|-1|-1|-1|-1┤
+253490500|Draw_Icon_Wish|高級2.5週年慶心願召喚|心願限定！|303|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000904|0|-1|-1|-1|-1|-1┤
+253490600|Draw_Icon_Wish|端午慶典心願召喚|心願限定！|304|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000905|0|-1|-1|-1|-1|-1┤
+253490700|Draw_Icon_Wish|高級端午慶典心願召喚|心願限定！|305|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000906|0|-1|-1|-1|-1|-1┤
+253490800|Draw_Icon_Wish|史進心願召喚|心願限定！|306|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000907|0|-1|-1|-1|-1|-1┤
+253490900|Draw_Icon_Wish|盛夏祭典心願召喚|心願限定！|307|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000908|0|-1|-1|-1|398007005|-1┤
+253491000|Draw_Icon_Wish|高級盛夏祭典心願召喚|一次限定！|308|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000909|0|-1|-1|-1|-1|-1┤
+253491100|Draw_Icon_Wish|夏季狂歡心願召喚|心願限定！|309|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000910|0|-1|-1|-1|398007008|-1┤
+253491200|Draw_Icon_Wish|高級夏季狂歡心願召喚|一次限定！|310|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000911|0|-1|-1|-1|-1|-1┤
+253491300|Draw_Icon_Wish|3週年前夜祭心願召喚|心願限定！|311|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000912|0|-1|-1|-1|398007012|-1┤
+253491400|Draw_Icon_Wish|高級3週年前夜祭心願召喚|一次限定！|312|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000913|0|-1|-1|-1|-1|-1┤
+253491500|Draw_Icon_Wish|新手心願召喚|心願限定！|8000|wa05_01_Gacha_Spine$ct002_Gacha_Spine$da05_01_Gacha_Spine|SSR_UP_Gacha_Text_W|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253491600|Draw_Icon_Wish|東方盛宴・春之華心願召喚|心願限定！|313|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000914|0|-1|-1|-1|398007019|-1┤
+253491700|Draw_Icon_Wish|高級東方盛宴・春之華心願召喚|一次限定！|314|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000915|0|-1|-1|-1|-1|-1┤
+253491800|Draw_Icon_Wish|輝煌航跡心願召喚|心願限定！|315|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000916|0|-1|-1|-1|398007026|-1┤
+253491900|Draw_Icon_Wish|高級輝煌航跡心願召喚|一次限定！|316|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000917|0|-1|-1|-1|-1|-1┤
+253492000|Draw_Icon_Wish|3.5週年心願召喚|心願限定！|317|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000918|0|-1|-1|-1|398007030|-1┤
+253492100|Draw_Icon_Wish|高級3.5週年心願召喚|一次限定！|318|Draw_Banner_Wish|SSR_UP_GET_Gacha_Text_W|-1|NULL|-1|-1|100000919|0|-1|-1|-1|-1|-1┤
+253500100|Draw_Icon_1001|追憶召喚 (火) 安泰西亞|追憶限定！|9000|b001_03_Gacha_Spine$f008_02_Gacha_Spine|ED_b001_03_f008_02_Gacha_Text_H|-1|NULL|-1|-1|100000008|0|200500006|-1|1|398000511|-1┤
+253500200|Draw_Icon_1002|追憶召喚 (水) 藍鬍子|追憶限定！|9001|f004_03_Gacha_Spine$e008_03_Gacha_Spine|ED_f004_03_e008_03_Gacha_Text_H|-1|NULL|-1|-1|100000009|0|200500006|-1|1|398000511|-1┤
+253500300|Draw_Icon_1003|追憶召喚 (風) 北風|追憶限定！|9002|c002_03_Gacha_Spine$d001_03_Gacha_Spine|ED_c002_03_d001_03_Gacha_Text_H|-1|NULL|-1|-1|100000010|0|200500006|-1|1|398000511|-1┤
+253500400|Draw_Icon_1004|追憶召喚 (土) 金桔布蘭妮|追憶限定！|9003|b002_02_Gacha_Spine$f005_02_Gacha_Spine|ED_b002_02_f005_02_Gacha_Text_H|-1|NULL|-1|-1|100000011|0|200500006|-1|1|398000511|-1┤
+253500500|Draw_Icon_g025_01_b001_03|追憶召喚 (火) 小紅帽|追憶限定！|9004|g025_01_Gacha_Spine$b001_03_Gacha_Spine|ED_g025_01_b001_03_Gacha_Text_H|-1|NULL|-1|-1|100000008|0|200500008|-1|1|398000511|-1┤
+253500600|Draw_Icon_1008|追憶召喚 (水) 蜜爾妮絲|追憶限定！|9005|b003_04_Gacha_Spine$e008_03_Gacha_Spine|ED_b003_04_e008_03_Gacha_Text_H|-1|NULL|-1|-1|100000009|0|200500008|-1|1|398000511|-1┤
+253500700|Draw_Icon_c004_03_d001_03|追憶召喚 (風) 醜小鴨|追憶限定！|9006|c004_03_Gacha_Spine$d001_03_Gacha_Spine|ED_c004_03_d001_03_Gacha_Text_H|-1|NULL|-1|-1|100000010|0|200500008|-1|1|398000511|-1┤
+253500800|Draw_Icon_ea01_01_b002_02|追憶召喚 (土) 皮諾丘|追憶限定！|9007|ea01_01_Gacha_Spine$b002_02_Gacha_Spine|ED_ea01_01_b002_02_Gacha_Text_H|-1|NULL|-1|-1|100000011|0|200500008|-1|1|398000511|-1┤
+253500900|Draw_Icon_d005_03_b001_03|追憶召喚 (火) 卑彌呼|追憶限定！|9008|d005_03_Gacha_Spine$b001_03_Gacha_Spine|ED_d005_03_b001_03_Gacha_Text_H|-1|NULL|-1|-1|100000008|0|200500129|-1|1|398000511|-1┤
+253501000|Draw_Icon_a007_03_e008_03|追憶召喚 (水) 小雪|追憶限定！|9009|a007_03_Gacha_Spine$e008_03_Gacha_Spine|ED_a007_03_e008_03_Gacha_Text_H|-1|NULL|-1|-1|100000009|0|200500129|-1|1|398000511|-1┤
+253501100|Draw_Icon_e007_04_d001_03|追憶召喚 (風) 聶小倩|追憶限定！|9010|e007_04_Gacha_Spine$d001_03_Gacha_Spine|ED_e007_04_d001_03_Gacha_Text_H|-1|NULL|-1|-1|100000010|0|200500129|-1|1|398000511|-1┤
+253501200|Draw_Icon_e002_04_b002_02|追憶召喚 (土) 地藏|追憶限定！|9011|e002_04_Gacha_Spine$b002_02_Gacha_Spine|ED_e002_04_b002_02_Gacha_Text_H|-1|NULL|-1|-1|100000011|0|200500129|-1|1|398000511|-1┤
+253501300|Draw_Icon_fi04_01_b001_03|追憶召喚 (火) 武則天|追憶限定！|9012|fi04_01_Gacha_Spine$b001_03_Gacha_Spine|ED_fi04_01_b001_03_Gacha_Text_H|-1|NULL|-1|-1|100000008|0|200500130|-1|1|398000511|-1┤
+253501400|Draw_Icon_wa06_01_e008_03|追憶召喚 (水) 萍|追憶限定！|9013|wa06_01_Gacha_Spine$e008_03_Gacha_Spine|ED_wa06_01_e008_03_Gacha_Text_H|-1|NULL|-1|-1|100000009|0|200500130|-1|1|398000511|-1┤
+253501500|Draw_Icon_wi04_01_d001_03|追憶召喚 (風) 大天狗|追憶限定！|9014|wi04_01_Gacha_Spine$d001_03_Gacha_Spine|ED_wi04_01_d001_03_Gacha_Text_H|-1|NULL|-1|-1|100000010|0|200500130|-1|1|398000511|-1┤
+253501600|Draw_Icon_f003_04_b002_02|追憶召喚 (土) 莉莉絲|追憶限定！|9015|f003_04_Gacha_Spine$b002_02_Gacha_Spine|ED_f003_04_b002_02_Gacha_Text_H|-1|NULL|-1|-1|100000011|0|200500130|-1|1|398000511|-1┤
+253600100|Draw_Icon_3001|復刻烈火裝備庫|復刻限定！|5001|Draw_Banner_3001|-1|-1|NULL|-1|-1|-1|0|200620018|-1|1|-1|-1┤
+253600200|Draw_Icon_3002|復刻水波裝備庫|復刻限定！|5002|Draw_Banner_3002|-1|-1|NULL|-1|-1|-1|0|200620019|-1|1|-1|-1┤
+253600300|Draw_Icon_3003|復刻狂風裝備庫|復刻限定！|5003|Draw_Banner_3003|-1|-1|NULL|-1|-1|-1|0|200620020|-1|1|-1|-1┤
+253600400|Draw_Icon_3004|復刻大地裝備庫|復刻限定！|5004|Draw_Banner_3004|-1|-1|NULL|-1|-1|-1|0|200620021|-1|1|-1|-1┤
+253700100|Draw_Icon_ct060|特殊召喚|-1|75|ct060_Gacha_Spine|Limited_Summon_Gacha_Text|-1|NULL|-1|-1|-1|0|-1|-1|1|-1|-1┤
+253700200|Draw_Icon_f006_03|特殊召喚|-1|511|f006_03_Gacha_Spine|f006_03_Gacha_Text_L|100|NULL|-1|-1|-1|0|-1|-1|1|-1|-1┤
+253700300|Draw_Icon_ct068|特殊召喚|-1|512|ct068_Gacha_Spine|Limited_Summon_Gacha_Text|-1|NULL|-1|-1|-1|0|-1|-1|1|-1|-1┤
+253700400|Draw_Icon_ct062|特殊召喚|-1|73|ct062_Gacha_Spine|Limited_Summon_Gacha_Text|-1|NULL|-1|-1|-1|0|-1|-1|-1|-1|-1┤
+253800100|Draw_Icon_ct066_fas|拉斐爾時裝召喚-Step|-1|550|ct066_fas_Gacha_Spine|fas_Step3_Gacha_Text_L|-1|NULL|-1|-1|100000145|0|-1|-1|-1|398007014|-1┤
+253800200|Draw_Icon_ct062_fas|時裝召喚-Step|-1|74|ct062_fas_Gacha_Spine|fas_Step3_Gacha_Text_L|-1|NULL|-1|-1|100000182|0|-1|-1|-1|398007027|-1┤
+253800300|Draw_Icon_ct072_fas|馬可波羅時裝召喚-Step|-1|552|ct072_fas_Gacha_Spine|fas_Step3_Gacha_Text_L|-1|NULL|-1|-1|100000195|0|-1|-1|-1|398007032|-1┤

@@ -1,0 +1,37 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Antigravity / Teamwork agent checkpoints
+.agents/
+
+# Heavy Game Assets & Raw Caches (regenerable via `python cherrytale.py sync / extract / build`)
+Asset/
+dump/audio/
+dump/hcg_art/textures/
+dump/hcg_art/skel/
+dump/hcg_art/atlas/
+viewer/out/
+
+# Raw encrypted bytes in textassets (original tables regenerated via `cherrytale.py sync`)
+dump/textassets/*.bytes
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.log

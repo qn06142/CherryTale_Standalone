@@ -1,0 +1,2527 @@
+[
+  {
+    "stem": "2.5nd_Anniversary",
+    "name": "2.5th Anniversary Special",
+    "code": "2.5nd_"
+  },
+  {
+    "stem": "2nd_Anniversary_hcg1_1",
+    "name": "2Nd An",
+    "code": "2nd_An"
+  },
+  {
+    "stem": "3.5rd_Anniversary",
+    "name": "3.5th Anniversary Redux",
+    "code": "3.5rd_"
+  },
+  {
+    "stem": "3.5st_Anniversary",
+    "name": "3.5th Anniversary Special",
+    "code": "3.5st_"
+  },
+  {
+    "stem": "3rd_Anniversary",
+    "name": "3rd Anniversary Special",
+    "code": "3rd_An"
+  },
+  {
+    "stem": "ct082_CG",
+    "name": "Abe no Seimei",
+    "code": "ct082"
+  },
+  {
+    "stem": "ct082_HCG",
+    "name": "Abe no Seimei",
+    "code": "ct082"
+  },
+  {
+    "stem": "ct076_CG",
+    "name": "Akaoni",
+    "code": "ct076"
+  },
+  {
+    "stem": "ct076_HCG",
+    "name": "Akaoni",
+    "code": "ct076"
+  },
+  {
+    "stem": "ct076_hcg1_2_spine",
+    "name": "Akaoni",
+    "code": "ct076"
+  },
+  {
+    "stem": "ct076_hcg1_3",
+    "name": "Akaoni",
+    "code": "ct076"
+  },
+  {
+    "stem": "a002_01_CG",
+    "name": "Aladdin",
+    "code": "a002"
+  },
+  {
+    "stem": "a002_01_hcg",
+    "name": "Aladdin",
+    "code": "a002"
+  },
+  {
+    "stem": "a002_02",
+    "name": "Aladdin",
+    "code": "a002"
+  },
+  {
+    "stem": "a002_02_hcg1_spine",
+    "name": "Aladdin",
+    "code": "a002"
+  },
+  {
+    "stem": "a005_03_CG",
+    "name": "Alice",
+    "code": "a005"
+  },
+  {
+    "stem": "a005_03_hcg_spine",
+    "name": "Alice",
+    "code": "a005"
+  },
+  {
+    "stem": "ct071_CG",
+    "name": "Amamiya",
+    "code": "ct071"
+  },
+  {
+    "stem": "ct071_HCG",
+    "name": "Amamiya",
+    "code": "ct071"
+  },
+  {
+    "stem": "c005_03_CG_Spine",
+    "name": "Amaterasu",
+    "code": "c005"
+  },
+  {
+    "stem": "c005_03_hcg1_Spine",
+    "name": "Amaterasu",
+    "code": "c005"
+  },
+  {
+    "stem": "c005_03_story",
+    "name": "Amaterasu",
+    "code": "c005"
+  },
+  {
+    "stem": "d010_02_CG_Spine",
+    "name": "Anubis",
+    "code": "d010"
+  },
+  {
+    "stem": "d010_02_hcg1_Spine",
+    "name": "Anubis",
+    "code": "d010"
+  },
+  {
+    "stem": "ct068_HCG",
+    "name": "Aoi Hinamori",
+    "code": "ct068"
+  },
+  {
+    "stem": "ct068_cg",
+    "name": "Aoi Hinamori",
+    "code": "ct068"
+  },
+  {
+    "stem": "ct068_hcg1_2",
+    "name": "Aoi Hinamori",
+    "code": "ct068"
+  },
+  {
+    "stem": "ct026_hcg1",
+    "name": "Apathy",
+    "code": "ct026"
+  },
+  {
+    "stem": "cq03_01_CG",
+    "name": "Aphrodite",
+    "code": "cq03"
+  },
+  {
+    "stem": "cq03_01_hcg1_Spine",
+    "name": "Aphrodite",
+    "code": "cq03"
+  },
+  {
+    "stem": "AprilFools_Anniversary",
+    "name": "April Fools Special",
+    "code": "AprilF"
+  },
+  {
+    "stem": "ct077_CG",
+    "name": "Aramis",
+    "code": "ct077"
+  },
+  {
+    "stem": "ct077_hcg",
+    "name": "Aramis",
+    "code": "ct077"
+  },
+  {
+    "stem": "ct001_CG",
+    "name": "Arthur",
+    "code": "ct001"
+  },
+  {
+    "stem": "ct001_hcg1",
+    "name": "Arthur",
+    "code": "ct001"
+  },
+  {
+    "stem": "ct083_CG",
+    "name": "Ashiya Doma",
+    "code": "ct083"
+  },
+  {
+    "stem": "ct083_LuWuDaoMan",
+    "name": "Ashiya Doma",
+    "code": "ct083"
+  },
+  {
+    "stem": "f007_02",
+    "name": "Asmodeus",
+    "code": "f007"
+  },
+  {
+    "stem": "f007_02_hcg1",
+    "name": "Asmodeus",
+    "code": "f007"
+  },
+  {
+    "stem": "ct063_CG",
+    "name": "Athena",
+    "code": "ct063"
+  },
+  {
+    "stem": "ct063_HCG",
+    "name": "Athena",
+    "code": "ct063"
+  },
+  {
+    "stem": "ct078_CG",
+    "name": "Athos",
+    "code": "ct078"
+  },
+  {
+    "stem": "ct078_HCG",
+    "name": "Athos",
+    "code": "ct078"
+  },
+  {
+    "stem": "b005_03_edit00",
+    "name": "Aunt Tigress",
+    "code": "b005"
+  },
+  {
+    "stem": "b005_03_hcg1_spine",
+    "name": "Aunt Tigress",
+    "code": "b005"
+  },
+  {
+    "stem": "ct030_CG",
+    "name": "Ayaka Yoshino",
+    "code": "ct030"
+  },
+  {
+    "stem": "ct030_hcg",
+    "name": "Ayaka Yoshino",
+    "code": "ct030"
+  },
+  {
+    "stem": "f003_03_CG",
+    "name": "Beelzebub",
+    "code": "f003"
+  },
+  {
+    "stem": "f003_03_hcg1_Spine",
+    "name": "Beelzebub",
+    "code": "f003"
+  },
+  {
+    "stem": "f003_04_CG_Spine",
+    "name": "Beelzebub",
+    "code": "f003"
+  },
+  {
+    "stem": "f003_04_hcg1",
+    "name": "Beelzebub",
+    "code": "f003"
+  },
+  {
+    "stem": "a009_03_CG",
+    "name": "Belle",
+    "code": "a009"
+  },
+  {
+    "stem": "a009_03_hcg1_Spine",
+    "name": "Belle",
+    "code": "a009"
+  },
+  {
+    "stem": "f006_01_CG",
+    "name": "Belphegor",
+    "code": "f006"
+  },
+  {
+    "stem": "f006_01_hcg",
+    "name": "Belphegor",
+    "code": "f006"
+  },
+  {
+    "stem": "f006_03",
+    "name": "Belphegor",
+    "code": "f006"
+  },
+  {
+    "stem": "f006_03_Hcg_Spine",
+    "name": "Belphegor",
+    "code": "f006"
+  },
+  {
+    "stem": "d007_02_CG",
+    "name": "Beth",
+    "code": "d007"
+  },
+  {
+    "stem": "d007_02_hcg1",
+    "name": "Beth",
+    "code": "d007"
+  },
+  {
+    "stem": "ct056_CG",
+    "name": "Brynhildr",
+    "code": "ct056"
+  },
+  {
+    "stem": "ct056_HCG",
+    "name": "Brynhildr",
+    "code": "ct056"
+  },
+  {
+    "stem": "ct108_CG",
+    "name": "Byakko",
+    "code": "ct108"
+  },
+  {
+    "stem": "ct108_HCG",
+    "name": "Byakko",
+    "code": "ct108"
+  },
+  {
+    "stem": "c051_HCG",
+    "name": "C051 Hcg",
+    "code": "c051"
+  },
+  {
+    "stem": "c007_01_CG",
+    "name": "Captain Hook",
+    "code": "c007"
+  },
+  {
+    "stem": "c007_01_hcg",
+    "name": "Captain Hook",
+    "code": "c007"
+  },
+  {
+    "stem": "c007_03_CG",
+    "name": "Captain Hook",
+    "code": "c007"
+  },
+  {
+    "stem": "c007_03_fas_CG_Spine",
+    "name": "Captain Hook",
+    "code": "c007"
+  },
+  {
+    "stem": "c007_03_hcg1_Spine",
+    "name": "Captain Hook",
+    "code": "c007"
+  },
+  {
+    "stem": "ct105_CG",
+    "name": "Cecilia",
+    "code": "ct105"
+  },
+  {
+    "stem": "story_hcg01_1_Spine",
+    "name": "Ch. 1: Dark Fortress Contract",
+    "code": "story_hcg01"
+  },
+  {
+    "stem": "story_hcg02_spine",
+    "name": "Ch. 1: Emerald Realm Secrets",
+    "code": "story_hcg02"
+  },
+  {
+    "stem": "story_hcg03",
+    "name": "Ch. 1: Queen's Private Chamber",
+    "code": "story_hcg03"
+  },
+  {
+    "stem": "wa04_01_CG_Spine",
+    "name": "Chang'e",
+    "code": "wa04"
+  },
+  {
+    "stem": "wa04_01_hcg01",
+    "name": "Chang'e",
+    "code": "wa04"
+  },
+  {
+    "stem": "ct041_CG",
+    "name": "Cheshire Cat",
+    "code": "ct041"
+  },
+  {
+    "stem": "ct041_hcg",
+    "name": "Cheshire Cat",
+    "code": "ct041"
+  },
+  {
+    "stem": "ea05_01",
+    "name": "Cheung-san",
+    "code": "ea05"
+  },
+  {
+    "stem": "ea05_01_hcg1",
+    "name": "Cheung-san",
+    "code": "ea05"
+  },
+  {
+    "stem": "ct040_CG",
+    "name": "Chunhyang",
+    "code": "ct040"
+  },
+  {
+    "stem": "ct040_hcg1",
+    "name": "Chunhyang",
+    "code": "ct040"
+  },
+  {
+    "stem": "e001_01_CG",
+    "name": "Cinderella",
+    "code": "e001"
+  },
+  {
+    "stem": "e001_01_hcg1_Spine",
+    "name": "Cinderella",
+    "code": "e001"
+  },
+  {
+    "stem": "e001_04_CG_spine",
+    "name": "Cinderella",
+    "code": "e001"
+  },
+  {
+    "stem": "e001_04_hcg1",
+    "name": "Cinderella",
+    "code": "e001"
+  },
+  {
+    "stem": "ct023_CG",
+    "name": "Claudius",
+    "code": "ct023"
+  },
+  {
+    "stem": "ct023_hcg1",
+    "name": "Claudius",
+    "code": "ct023"
+  },
+  {
+    "stem": "wa08_01_CG",
+    "name": "Cleopatra",
+    "code": "wa08"
+  },
+  {
+    "stem": "wa08_01_hcg1",
+    "name": "Cleopatra",
+    "code": "wa08"
+  },
+  {
+    "stem": "ct035_CG",
+    "name": "Cormoran",
+    "code": "ct035"
+  },
+  {
+    "stem": "ct035_hcg1",
+    "name": "Cormoran",
+    "code": "ct035"
+  },
+  {
+    "stem": "cq25cq26cq27_hcg1",
+    "name": "Cq25",
+    "code": "cq25"
+  },
+  {
+    "stem": "ct02_CG",
+    "name": "Ct02",
+    "code": "ct02"
+  },
+  {
+    "stem": "ct26_01_CG",
+    "name": "Ct26",
+    "code": "ct26"
+  },
+  {
+    "stem": "ct27_01_CG",
+    "name": "Ct27",
+    "code": "ct27"
+  },
+  {
+    "stem": "ct28_01_CG",
+    "name": "Ct28",
+    "code": "ct28"
+  },
+  {
+    "stem": "ct64_HCG",
+    "name": "Ct64",
+    "code": "ct64"
+  },
+  {
+    "stem": "ct87ct88ct89_hcg1_1_spine",
+    "name": "Ct87",
+    "code": "ct87"
+  },
+  {
+    "stem": "ct87ct88ct89_hcg1_2",
+    "name": "Ct87",
+    "code": "ct87"
+  },
+  {
+    "stem": "ct102_CG",
+    "name": "Cupid",
+    "code": "ct102"
+  },
+  {
+    "stem": "ct102_HCG",
+    "name": "Cupid",
+    "code": "ct102"
+  },
+  {
+    "stem": "ct081_CG",
+    "name": "D'Artagnan",
+    "code": "ct081"
+  },
+  {
+    "stem": "ct081_HCG",
+    "name": "D'Artagnan",
+    "code": "ct081"
+  },
+  {
+    "stem": "ct051_CG",
+    "name": "Da Qiao",
+    "code": "ct051"
+  },
+  {
+    "stem": "ct091_CG",
+    "name": "Da Vinci",
+    "code": "ct091"
+  },
+  {
+    "stem": "ct091_HCG",
+    "name": "Da Vinci",
+    "code": "ct091"
+  },
+  {
+    "stem": "ct104",
+    "name": "Daphne",
+    "code": "ct104"
+  },
+  {
+    "stem": "ct095_CG",
+    "name": "Demeter",
+    "code": "ct095"
+  },
+  {
+    "stem": "ct095_HCG",
+    "name": "Demeter",
+    "code": "ct095"
+  },
+  {
+    "stem": "ct098_HCG",
+    "name": "Diaochan",
+    "code": "ct098"
+  },
+  {
+    "stem": "a004_03_CG_Spine",
+    "name": "Don Quixote",
+    "code": "a004"
+  },
+  {
+    "stem": "a004_03_hcg1_Spine",
+    "name": "Don Quixote",
+    "code": "a004"
+  },
+  {
+    "stem": "d008_03",
+    "name": "Dorothy",
+    "code": "d008"
+  },
+  {
+    "stem": "d008_03_hcg1_Spine",
+    "name": "Dorothy",
+    "code": "d008"
+  },
+  {
+    "stem": "e004_01_CG",
+    "name": "Dorothy",
+    "code": "e004"
+  },
+  {
+    "stem": "e004_01_hcg",
+    "name": "Dorothy",
+    "code": "e004"
+  },
+  {
+    "stem": "e004_02",
+    "name": "Dorothy",
+    "code": "e004"
+  },
+  {
+    "stem": "e004_02_Teaching",
+    "name": "Dorothy",
+    "code": "e004"
+  },
+  {
+    "stem": "e004_02_hcg1",
+    "name": "Dorothy",
+    "code": "e004"
+  },
+  {
+    "stem": "e004_04",
+    "name": "Dorothy",
+    "code": "e004"
+  },
+  {
+    "stem": "e004_04_hcg1",
+    "name": "Dorothy",
+    "code": "e004"
+  },
+  {
+    "stem": "e004_04_hcg2",
+    "name": "Dorothy",
+    "code": "e004"
+  },
+  {
+    "stem": "b010_03_CG_Spine",
+    "name": "Dracula",
+    "code": "b010"
+  },
+  {
+    "stem": "b010_03_hcg1_Spine",
+    "name": "Dracula",
+    "code": "b010"
+  },
+  {
+    "stem": "c001_01",
+    "name": "Dragon",
+    "code": "c001"
+  },
+  {
+    "stem": "c001_01_hcg1_FIN_Spine",
+    "name": "Dragon",
+    "code": "c001"
+  },
+  {
+    "stem": "c001_03_CG_Spine",
+    "name": "Dragon",
+    "code": "c001"
+  },
+  {
+    "stem": "c001_03_hcg1",
+    "name": "Dragon",
+    "code": "c001"
+  },
+  {
+    "stem": "b008_01_cg",
+    "name": "Drizella",
+    "code": "b008"
+  },
+  {
+    "stem": "b008_01_hcg",
+    "name": "Drizella",
+    "code": "b008"
+  },
+  {
+    "stem": "b008_02",
+    "name": "Drizella",
+    "code": "b008"
+  },
+  {
+    "stem": "b008_02_hcg1_1",
+    "name": "Drizella",
+    "code": "b008"
+  },
+  {
+    "stem": "b007_01_CG",
+    "name": "Eaves",
+    "code": "b007"
+  },
+  {
+    "stem": "b007_01_hcg",
+    "name": "Eaves",
+    "code": "b007"
+  },
+  {
+    "stem": "b007_03",
+    "name": "Eaves",
+    "code": "b007"
+  },
+  {
+    "stem": "b007_03_hcg1",
+    "name": "Eaves",
+    "code": "b007"
+  },
+  {
+    "stem": "li01_01_CG_Spine",
+    "name": "Elizabeth I",
+    "code": "li01"
+  },
+  {
+    "stem": "li01_01_hcg1",
+    "name": "Elizabeth I",
+    "code": "li01"
+  },
+  {
+    "stem": "ct039_CG",
+    "name": "Eowudong",
+    "code": "ct039"
+  },
+  {
+    "stem": "ct039_HCG",
+    "name": "Eowudong",
+    "code": "ct039"
+  },
+  {
+    "stem": "ct106_CG",
+    "name": "Fannina",
+    "code": "ct106"
+  },
+  {
+    "stem": "ct106_HCG",
+    "name": "Fannina",
+    "code": "ct106"
+  },
+  {
+    "stem": "FI05",
+    "name": "Fi05",
+    "code": "FI05"
+  },
+  {
+    "stem": "d002_01_cg",
+    "name": "Frankenstein",
+    "code": "d002"
+  },
+  {
+    "stem": "d002_01_hcg1",
+    "name": "Frankenstein",
+    "code": "d002"
+  },
+  {
+    "stem": "d002_03_CG",
+    "name": "Frankenstein",
+    "code": "d002"
+  },
+  {
+    "stem": "d002_03_hcg1_spine",
+    "name": "Frankenstein",
+    "code": "d002"
+  },
+  {
+    "stem": "d002_04_CG",
+    "name": "Frankenstein",
+    "code": "d002"
+  },
+  {
+    "stem": "d002_04_hcg1",
+    "name": "Frankenstein",
+    "code": "d002"
+  },
+  {
+    "stem": "ct055_CG",
+    "name": "Freya",
+    "code": "ct055"
+  },
+  {
+    "stem": "ct055_hcg1",
+    "name": "Freya",
+    "code": "ct055"
+  },
+  {
+    "stem": "c003_01_CG_Spine",
+    "name": "Gabriel",
+    "code": "c003"
+  },
+  {
+    "stem": "c003_01_hcg_spine",
+    "name": "Gabriel",
+    "code": "c003"
+  },
+  {
+    "stem": "ct005_CG",
+    "name": "Gawain",
+    "code": "ct005"
+  },
+  {
+    "stem": "ct005_hcg1",
+    "name": "Gawain",
+    "code": "ct005"
+  },
+  {
+    "stem": "ct110_CG",
+    "name": "Genbu",
+    "code": "ct110"
+  },
+  {
+    "stem": "ct110_HCG",
+    "name": "Genbu",
+    "code": "ct110"
+  },
+  {
+    "stem": "ct022_CG",
+    "name": "Gertrude",
+    "code": "ct022"
+  },
+  {
+    "stem": "ct022_hcg1",
+    "name": "Gertrude",
+    "code": "ct022"
+  },
+  {
+    "stem": "cq29cq30cq31_hcg1_1",
+    "name": "Greeting The Leader",
+    "code": "cq29"
+  },
+  {
+    "stem": "cq29cq30cq31_hcg1_2",
+    "name": "Greeting The Leader",
+    "code": "cq29"
+  },
+  {
+    "stem": "a001_01_CG",
+    "name": "Gretel",
+    "code": "a001"
+  },
+  {
+    "stem": "a001_01_hcg",
+    "name": "Gretel",
+    "code": "a001"
+  },
+  {
+    "stem": "a001_03_CG",
+    "name": "Gretel",
+    "code": "a001"
+  },
+  {
+    "stem": "a001_03_hcg1_Spine",
+    "name": "Gretel",
+    "code": "a001"
+  },
+  {
+    "stem": "ct003_CG",
+    "name": "Guinevere",
+    "code": "ct003"
+  },
+  {
+    "stem": "ct003_hcg1",
+    "name": "Guinevere",
+    "code": "ct003"
+  },
+  {
+    "stem": "ct094_CG",
+    "name": "Gulliver",
+    "code": "ct094"
+  },
+  {
+    "stem": "ct094_HCG",
+    "name": "Gulliver",
+    "code": "ct094"
+  },
+  {
+    "stem": "ct037_CG",
+    "name": "Hamel",
+    "code": "ct037"
+  },
+  {
+    "stem": "ct037_hcg1",
+    "name": "Hamel",
+    "code": "ct037"
+  },
+  {
+    "stem": "ct021_CG",
+    "name": "Hamlet",
+    "code": "ct021"
+  },
+  {
+    "stem": "ct021_hcg1",
+    "name": "Hamlet",
+    "code": "ct021"
+  },
+  {
+    "stem": "b006_03_CG",
+    "name": "Hansel",
+    "code": "b006"
+  },
+  {
+    "stem": "b006_03_hcg1_Spine",
+    "name": "Hansel",
+    "code": "b006"
+  },
+  {
+    "stem": "ct032_CG",
+    "name": "Hattori Hanzo",
+    "code": "ct032"
+  },
+  {
+    "stem": "ct032_hcg1",
+    "name": "Hattori Hanzo",
+    "code": "ct032"
+  },
+  {
+    "stem": "da05_01_CG",
+    "name": "Hela",
+    "code": "da05"
+  },
+  {
+    "stem": "da05_01_hcg1",
+    "name": "Hela",
+    "code": "da05"
+  },
+  {
+    "stem": "fi10_01_CG",
+    "name": "Hephaestus",
+    "code": "fi10"
+  },
+  {
+    "stem": "fi10_01_hcg1",
+    "name": "Hephaestus",
+    "code": "fi10"
+  },
+  {
+    "stem": "d005_03_CG_Spine",
+    "name": "Himiko",
+    "code": "d005"
+  },
+  {
+    "stem": "d005_03_hcg1_spine",
+    "name": "Himiko",
+    "code": "d005"
+  },
+  {
+    "stem": "ct013_CG",
+    "name": "Izanagi",
+    "code": "ct013"
+  },
+  {
+    "stem": "ct013_hcg1",
+    "name": "Izanagi",
+    "code": "ct013"
+  },
+  {
+    "stem": "ct015_CG",
+    "name": "Izanami",
+    "code": "ct015"
+  },
+  {
+    "stem": "ct015_HCG",
+    "name": "Izanami",
+    "code": "ct015"
+  },
+  {
+    "stem": "ct036_CG",
+    "name": "Jack",
+    "code": "ct036"
+  },
+  {
+    "stem": "ct036_HCG",
+    "name": "Jack",
+    "code": "ct036"
+  },
+  {
+    "stem": "ct048_CG",
+    "name": "Jackie",
+    "code": "ct048"
+  },
+  {
+    "stem": "ct048_HCG",
+    "name": "Jackie",
+    "code": "ct048"
+  },
+  {
+    "stem": "ct009_CG",
+    "name": "Jade Rabbit",
+    "code": "ct009"
+  },
+  {
+    "stem": "ct009_hcg1",
+    "name": "Jade Rabbit",
+    "code": "ct009"
+  },
+  {
+    "stem": "d001_03_CG",
+    "name": "Jafar",
+    "code": "d001"
+  },
+  {
+    "stem": "d001_03_hcg1",
+    "name": "Jafar",
+    "code": "d001"
+  },
+  {
+    "stem": "d001_04_CG",
+    "name": "Jafar",
+    "code": "d001"
+  },
+  {
+    "stem": "d001_04_hcg1",
+    "name": "Jafar",
+    "code": "d001"
+  },
+  {
+    "stem": "ct038_CG",
+    "name": "Janggeum",
+    "code": "ct038"
+  },
+  {
+    "stem": "ct038_hcg1",
+    "name": "Janggeum",
+    "code": "ct038"
+  },
+  {
+    "stem": "ct086_CG",
+    "name": "Kaguya",
+    "code": "ct086"
+  },
+  {
+    "stem": "ct086_HCG",
+    "name": "Kaguya",
+    "code": "ct086"
+  },
+  {
+    "stem": "e005_03_CG",
+    "name": "Kaguya",
+    "code": "e005"
+  },
+  {
+    "stem": "e005_03_hcg1",
+    "name": "Kaguya",
+    "code": "e005"
+  },
+  {
+    "stem": "b002_02",
+    "name": "Kinreiko",
+    "code": "b002"
+  },
+  {
+    "stem": "b002_02_hcg1_spine",
+    "name": "Kinreiko",
+    "code": "b002"
+  },
+  {
+    "stem": "ct031_CG",
+    "name": "Kiriko Hitomi",
+    "code": "ct031"
+  },
+  {
+    "stem": "ct031_hcg",
+    "name": "Kiriko Hitomi",
+    "code": "ct031"
+  },
+  {
+    "stem": "ct002_hcg1",
+    "name": "Lancelot",
+    "code": "ct002"
+  },
+  {
+    "stem": "mb05_1_CG",
+    "name": "Lanho",
+    "code": "mb05"
+  },
+  {
+    "stem": "mb05_1_hcg1_2",
+    "name": "Lanho",
+    "code": "mb05"
+  },
+  {
+    "stem": "ea03_01",
+    "name": "Lanmei",
+    "code": "ea03"
+  },
+  {
+    "stem": "ea03_01_hcg1",
+    "name": "Lanmei",
+    "code": "ea03"
+  },
+  {
+    "stem": "ea03_01_hcg1_2_spine",
+    "name": "Lanmei",
+    "code": "ea03"
+  },
+  {
+    "stem": "f004_03_CG",
+    "name": "Leviathan",
+    "code": "f004"
+  },
+  {
+    "stem": "f004_03_hcg01",
+    "name": "Leviathan",
+    "code": "f004"
+  },
+  {
+    "stem": "ct007_CG",
+    "name": "Li Ping'er",
+    "code": "ct007"
+  },
+  {
+    "stem": "ct007_hcg1",
+    "name": "Li Ping'er",
+    "code": "ct007"
+  },
+  {
+    "stem": "e003_03_CG",
+    "name": "Little Red Riding Hood",
+    "code": "e003"
+  },
+  {
+    "stem": "e003_03_hcg1",
+    "name": "Little Red Riding Hood",
+    "code": "e003"
+  },
+  {
+    "stem": "cq10_01_CG",
+    "name": "Loki",
+    "code": "cq10"
+  },
+  {
+    "stem": "cq10_01_hcg1",
+    "name": "Loki",
+    "code": "cq10"
+  },
+  {
+    "stem": "ct074_CG",
+    "name": "Lu Zhishen",
+    "code": "ct074"
+  },
+  {
+    "stem": "ct074_HCG",
+    "name": "Lu Zhishen",
+    "code": "ct074"
+  },
+  {
+    "stem": "ct027_hcg1",
+    "name": "Lucia",
+    "code": "ct027"
+  },
+  {
+    "stem": "f002_01_CG",
+    "name": "Lucifer",
+    "code": "f002"
+  },
+  {
+    "stem": "f002_01_hcg",
+    "name": "Lucifer",
+    "code": "f002"
+  },
+  {
+    "stem": "f002_03",
+    "name": "Lucifer",
+    "code": "f002"
+  },
+  {
+    "stem": "f002_03_fas_CG_Spine",
+    "name": "Lucifer",
+    "code": "f002"
+  },
+  {
+    "stem": "f002_03_hcg1",
+    "name": "Lucifer",
+    "code": "f002"
+  },
+  {
+    "stem": "f002_04_cg",
+    "name": "Lucifer",
+    "code": "f002"
+  },
+  {
+    "stem": "f002_04_hcg1",
+    "name": "Lucifer",
+    "code": "f002"
+  },
+  {
+    "stem": "li02_01",
+    "name": "Lucifer",
+    "code": "li02"
+  },
+  {
+    "stem": "li02_01_CG",
+    "name": "Lucifer",
+    "code": "li02"
+  },
+  {
+    "stem": "m5_verify_2.5nd",
+    "name": "M5 Verify 2.5Nd",
+    "code": "m5_ver"
+  },
+  {
+    "stem": "m5_verify_a001",
+    "name": "M5 Verify A001",
+    "code": "m5_ver"
+  },
+  {
+    "stem": "m5_verify_ct001",
+    "name": "M5 Verify Ct001",
+    "code": "m5_ver"
+  },
+  {
+    "stem": "ct087_CG",
+    "name": "Mamiya Marie",
+    "code": "ct087"
+  },
+  {
+    "stem": "ct087_HCG",
+    "name": "Mamiya Marie",
+    "code": "ct087"
+  },
+  {
+    "stem": "ct088_CG",
+    "name": "Mamiya Marika",
+    "code": "ct088"
+  },
+  {
+    "stem": "ct088_HCG",
+    "name": "Mamiya Marika",
+    "code": "ct088"
+  },
+  {
+    "stem": "ct089",
+    "name": "Mamiya Marisa",
+    "code": "ct089"
+  },
+  {
+    "stem": "ct089_CG",
+    "name": "Mamiya Marisa",
+    "code": "ct089"
+  },
+  {
+    "stem": "ct049_CG",
+    "name": "Mammon",
+    "code": "ct049"
+  },
+  {
+    "stem": "ct049_HCG",
+    "name": "Mammon",
+    "code": "ct049"
+  },
+  {
+    "stem": "f005_01_CG",
+    "name": "Mammon",
+    "code": "f005"
+  },
+  {
+    "stem": "f005_01_hcg",
+    "name": "Mammon",
+    "code": "f005"
+  },
+  {
+    "stem": "f005_02_edit00",
+    "name": "Mammon",
+    "code": "f005"
+  },
+  {
+    "stem": "f005_02_hcg",
+    "name": "Mammon",
+    "code": "f005"
+  },
+  {
+    "stem": "b004_01_CG",
+    "name": "March Hare",
+    "code": "b004"
+  },
+  {
+    "stem": "b004_01_hcg1",
+    "name": "March Hare",
+    "code": "b004"
+  },
+  {
+    "stem": "ct072_CG",
+    "name": "Marco Polo",
+    "code": "ct072"
+  },
+  {
+    "stem": "ct072_HCG",
+    "name": "Marco Polo",
+    "code": "ct072"
+  },
+  {
+    "stem": "ct072_fas",
+    "name": "Marco Polo",
+    "code": "ct072"
+  },
+  {
+    "stem": "ct072_fas_HCG",
+    "name": "Marco Polo",
+    "code": "ct072"
+  },
+  {
+    "stem": "wi03_01_CG_Spine",
+    "name": "Martha",
+    "code": "wi03"
+  },
+  {
+    "stem": "wi03_01_hcg1",
+    "name": "Martha",
+    "code": "wi03"
+  },
+  {
+    "stem": "ct020_CG",
+    "name": "Mary",
+    "code": "ct020"
+  },
+  {
+    "stem": "ct020_HCG",
+    "name": "Mary",
+    "code": "ct020"
+  },
+  {
+    "stem": "f001_03_CG",
+    "name": "Medusa",
+    "code": "f001"
+  },
+  {
+    "stem": "f001_03_hcg1",
+    "name": "Medusa",
+    "code": "f001"
+  },
+  {
+    "stem": "da03",
+    "name": "Melody",
+    "code": "da03"
+  },
+  {
+    "stem": "da03_01_CG",
+    "name": "Melody",
+    "code": "da03"
+  },
+  {
+    "stem": "da03_0_hcg",
+    "name": "Melody",
+    "code": "da03"
+  },
+  {
+    "stem": "ct004_CG",
+    "name": "Merlin",
+    "code": "ct004"
+  },
+  {
+    "stem": "ct004_hcg1",
+    "name": "Merlin",
+    "code": "ct004"
+  },
+  {
+    "stem": "ct042_CG",
+    "name": "Merlin",
+    "code": "ct042"
+  },
+  {
+    "stem": "ct042_HCG",
+    "name": "Merlin",
+    "code": "ct042"
+  },
+  {
+    "stem": "ct008_CG",
+    "name": "Mia",
+    "code": "ct008"
+  },
+  {
+    "stem": "ct008_CG_fas",
+    "name": "Mia",
+    "code": "ct008"
+  },
+  {
+    "stem": "ct008_hcg01",
+    "name": "Mia",
+    "code": "ct008"
+  },
+  {
+    "stem": "ct024_CG",
+    "name": "Mier",
+    "code": "ct024"
+  },
+  {
+    "stem": "ct024_hcg1",
+    "name": "Mier",
+    "code": "ct024"
+  },
+  {
+    "stem": "b003_02",
+    "name": "Milnes",
+    "code": "b003"
+  },
+  {
+    "stem": "b003_02_hcg1",
+    "name": "Milnes",
+    "code": "b003"
+  },
+  {
+    "stem": "b003_04_CG",
+    "name": "Milnes",
+    "code": "b003"
+  },
+  {
+    "stem": "b003_04_hcg1",
+    "name": "Milnes",
+    "code": "b003"
+  },
+  {
+    "stem": "ct084",
+    "name": "Minamoto no Hiromasa",
+    "code": "ct084"
+  },
+  {
+    "stem": "ct084_CG",
+    "name": "Minamoto no Hiromasa",
+    "code": "ct084"
+  },
+  {
+    "stem": "ct064_CG",
+    "name": "Minerva",
+    "code": "ct064"
+  },
+  {
+    "stem": "ct060_CG",
+    "name": "Miyamoto Musashi",
+    "code": "ct060"
+  },
+  {
+    "stem": "ct060_hcg1",
+    "name": "Miyamoto Musashi",
+    "code": "ct060"
+  },
+  {
+    "stem": "ct033_CG",
+    "name": "Mochizuki Chiyome",
+    "code": "ct033"
+  },
+  {
+    "stem": "ct033_hcg1",
+    "name": "Mochizuki Chiyome",
+    "code": "ct033"
+  },
+  {
+    "stem": "ct006_CG",
+    "name": "Mordred",
+    "code": "ct006"
+  },
+  {
+    "stem": "ct006_hcg1",
+    "name": "Mordred",
+    "code": "ct006"
+  },
+  {
+    "stem": "a006_03",
+    "name": "Mother Goat",
+    "code": "a006"
+  },
+  {
+    "stem": "a006_03_hcg_spine",
+    "name": "Mother Goat",
+    "code": "a006"
+  },
+  {
+    "stem": "a010_01_CG",
+    "name": "Mysterious Figure",
+    "code": "a010"
+  },
+  {
+    "stem": "ct016_CG",
+    "name": "Nakira",
+    "code": "ct016"
+  },
+  {
+    "stem": "ct016_hcg1",
+    "name": "Nakira",
+    "code": "ct016"
+  },
+  {
+    "stem": "ct018_CG",
+    "name": "Nakoto Munakata",
+    "code": "ct018"
+  },
+  {
+    "stem": "ct018_HCG",
+    "name": "Nakoto Munakata",
+    "code": "ct018"
+  },
+  {
+    "stem": "d009_03_CG",
+    "name": "Naphissa",
+    "code": "d009"
+  },
+  {
+    "stem": "d009_03_hcg1_Spine",
+    "name": "Naphissa",
+    "code": "d009"
+  },
+  {
+    "stem": "c002_01_CG",
+    "name": "North Wind",
+    "code": "c002"
+  },
+  {
+    "stem": "c002_01_hcg1",
+    "name": "North Wind",
+    "code": "c002"
+  },
+  {
+    "stem": "c002_03",
+    "name": "North Wind",
+    "code": "c002"
+  },
+  {
+    "stem": "c002_03_hcg1",
+    "name": "North Wind",
+    "code": "c002"
+  },
+  {
+    "stem": "ct054_CG",
+    "name": "Odin",
+    "code": "ct054"
+  },
+  {
+    "stem": "ct054_HCG",
+    "name": "Odin",
+    "code": "ct054"
+  },
+  {
+    "stem": "da04_01_CG_Spine",
+    "name": "Orochi",
+    "code": "da04"
+  },
+  {
+    "stem": "da04_01_hcg1",
+    "name": "Orochi",
+    "code": "da04"
+  },
+  {
+    "stem": "da04_02_CG",
+    "name": "Orochi",
+    "code": "da04"
+  },
+  {
+    "stem": "ct065_CG",
+    "name": "Pandora",
+    "code": "ct065"
+  },
+  {
+    "stem": "ct065_HCG",
+    "name": "Pandora",
+    "code": "ct065"
+  },
+  {
+    "stem": "wa06_01_CG",
+    "name": "Ping",
+    "code": "wa06"
+  },
+  {
+    "stem": "wa06_01_hcg1",
+    "name": "Ping",
+    "code": "wa06"
+  },
+  {
+    "stem": "ea01_01_CG",
+    "name": "Pinocchio",
+    "code": "ea01"
+  },
+  {
+    "stem": "ea01_01_hcg1",
+    "name": "Pinocchio",
+    "code": "ea01"
+  },
+  {
+    "stem": "ct079_CG",
+    "name": "Porthos",
+    "code": "ct079"
+  },
+  {
+    "stem": "ct079_hcg01",
+    "name": "Porthos",
+    "code": "ct079"
+  },
+  {
+    "stem": "wa02_01_CG",
+    "name": "Poseidon",
+    "code": "wa02"
+  },
+  {
+    "stem": "wa02_01_hcg1",
+    "name": "Poseidon",
+    "code": "wa02"
+  },
+  {
+    "stem": "story_free_hcg01",
+    "name": "Prologue: Cinderella's Submission",
+    "code": "story_free_hcg01"
+  },
+  {
+    "stem": "story_free_hcg02_spine",
+    "name": "Prologue: Morning Desire",
+    "code": "story_free_hcg02"
+  },
+  {
+    "stem": "story_free_hcg03_FIN_Spine",
+    "name": "Prologue: Sun's Awakening",
+    "code": "story_free_hcg03"
+  },
+  {
+    "stem": "ct093_CG",
+    "name": "Pygmalion",
+    "code": "ct093"
+  },
+  {
+    "stem": "ct093_HCG",
+    "name": "Pygmalion",
+    "code": "ct093"
+  },
+  {
+    "stem": "ct101_hcg1",
+    "name": "Qilin",
+    "code": "ct101"
+  },
+  {
+    "stem": "ct028_hcg1",
+    "name": "Rafael",
+    "code": "ct028"
+  },
+  {
+    "stem": "ct057_CG",
+    "name": "Rakshasi",
+    "code": "ct057"
+  },
+  {
+    "stem": "ct057_HCG",
+    "name": "Rakshasi",
+    "code": "ct057"
+  },
+  {
+    "stem": "ct066_CG",
+    "name": "Raphael",
+    "code": "ct066"
+  },
+  {
+    "stem": "ct066_HCG",
+    "name": "Raphael",
+    "code": "ct066"
+  },
+  {
+    "stem": "ct066_fas_CG",
+    "name": "Raphael",
+    "code": "ct066"
+  },
+  {
+    "stem": "e009_01_CG",
+    "name": "Rapunzel",
+    "code": "e009"
+  },
+  {
+    "stem": "e009_01_hcg1_Spine",
+    "name": "Rapunzel",
+    "code": "e009"
+  },
+  {
+    "stem": "g025_01",
+    "name": "Red",
+    "code": "g025"
+  },
+  {
+    "stem": "g025_01_hcg1_Spine",
+    "name": "Red",
+    "code": "g025"
+  },
+  {
+    "stem": "g025_03_cg",
+    "name": "Red",
+    "code": "g025"
+  },
+  {
+    "stem": "g025_03_hcg01",
+    "name": "Red",
+    "code": "g025"
+  },
+  {
+    "stem": "ct019_CG",
+    "name": "Ren Takahara",
+    "code": "ct019"
+  },
+  {
+    "stem": "ct019_hcg1",
+    "name": "Ren Takahara",
+    "code": "ct019"
+  },
+  {
+    "stem": "wi01_01_CG_Spine",
+    "name": "Rinko",
+    "code": "wi01"
+  },
+  {
+    "stem": "wi01_01_hcg1",
+    "name": "Rinko",
+    "code": "wi01"
+  },
+  {
+    "stem": "ct097_CG",
+    "name": "Rudy",
+    "code": "ct097"
+  },
+  {
+    "stem": "ct097_hcg1",
+    "name": "Rudy",
+    "code": "ct097"
+  },
+  {
+    "stem": "ct017_CG",
+    "name": "Rurie Munakata",
+    "code": "ct017"
+  },
+  {
+    "stem": "ct017_hcg1",
+    "name": "Rurie Munakata",
+    "code": "ct017"
+  },
+  {
+    "stem": "fi05_01_CG_Spine",
+    "name": "Sakiko",
+    "code": "fi05"
+  },
+  {
+    "stem": "ct092_CG",
+    "name": "Salome",
+    "code": "ct092"
+  },
+  {
+    "stem": "ct092_hcg1_ShaLeMei",
+    "name": "Salome",
+    "code": "ct092"
+  },
+  {
+    "stem": "ct061_CG",
+    "name": "Sasaki Kojiro",
+    "code": "ct061"
+  },
+  {
+    "stem": "ct061_HCG",
+    "name": "Sasaki Kojiro",
+    "code": "ct061"
+  },
+  {
+    "stem": "ct034_CG",
+    "name": "Sasuke Sarutobi",
+    "code": "ct034"
+  },
+  {
+    "stem": "ct034_hcg1",
+    "name": "Sasuke Sarutobi",
+    "code": "ct034"
+  },
+  {
+    "stem": "f008_02",
+    "name": "Satan",
+    "code": "f008"
+  },
+  {
+    "stem": "f008_02_hcg01",
+    "name": "Satan",
+    "code": "f008"
+  },
+  {
+    "stem": "ct103_CG",
+    "name": "Saturn",
+    "code": "ct103"
+  },
+  {
+    "stem": "ct107_CG",
+    "name": "Seiryu",
+    "code": "ct107"
+  },
+  {
+    "stem": "ct107_HCG",
+    "name": "Seiryu",
+    "code": "ct107"
+  },
+  {
+    "stem": "ct090_CG",
+    "name": "Shelley",
+    "code": "ct090"
+  },
+  {
+    "stem": "ct090_HCG",
+    "name": "Shelley",
+    "code": "ct090"
+  },
+  {
+    "stem": "ct046_CG",
+    "name": "Sherlock Holmes",
+    "code": "ct046"
+  },
+  {
+    "stem": "ct046_HCG",
+    "name": "Sherlock Holmes",
+    "code": "ct046"
+  },
+  {
+    "stem": "ct067_CG",
+    "name": "Shi Jin",
+    "code": "ct067"
+  },
+  {
+    "stem": "ct067_hcg",
+    "name": "Shi Jin",
+    "code": "ct067"
+  },
+  {
+    "stem": "ct067_hcg1_2_spine",
+    "name": "Shi Jin",
+    "code": "ct067"
+  },
+  {
+    "stem": "ct029_CG",
+    "name": "Shima Itsuki",
+    "code": "ct029"
+  },
+  {
+    "stem": "ct029_hcg1",
+    "name": "Shima Itsuki",
+    "code": "ct029"
+  },
+  {
+    "stem": "b009_03_01_hcg1",
+    "name": "Shuten-douji",
+    "code": "b009"
+  },
+  {
+    "stem": "b009_03_CG_Spine",
+    "name": "Shuten-douji",
+    "code": "b009"
+  },
+  {
+    "stem": "b009_04",
+    "name": "Shuten-douji",
+    "code": "b009"
+  },
+  {
+    "stem": "b009_04_01_hcg",
+    "name": "Shuten-douji",
+    "code": "b009"
+  },
+  {
+    "stem": "b009_04_hcg1_2_spine",
+    "name": "Shuten-douji",
+    "code": "b009"
+  },
+  {
+    "stem": "ct012_CG",
+    "name": "Skuld",
+    "code": "ct012"
+  },
+  {
+    "stem": "ct012_hcg",
+    "name": "Skuld",
+    "code": "ct012"
+  },
+  {
+    "stem": "e008_03_CG",
+    "name": "Sleeping Beauty",
+    "code": "e008"
+  },
+  {
+    "stem": "e008_03_hcg1_Spine",
+    "name": "Sleeping Beauty",
+    "code": "e008"
+  },
+  {
+    "stem": "smoke_test",
+    "name": "Smoke Test",
+    "code": "smoke_"
+  },
+  {
+    "stem": "e002_03_CG",
+    "name": "Snow White",
+    "code": "e002"
+  },
+  {
+    "stem": "e002_03_hcg1",
+    "name": "Snow White",
+    "code": "e002"
+  },
+  {
+    "stem": "e002_04_CG_Spine",
+    "name": "Snow White",
+    "code": "e002"
+  },
+  {
+    "stem": "e002_04_hcg_Spine",
+    "name": "Snow White",
+    "code": "e002"
+  },
+  {
+    "stem": "ct145_CG",
+    "name": "Special CG (ct145)",
+    "code": "ct145"
+  },
+  {
+    "stem": "ct151_CG",
+    "name": "Special CG (ct151)",
+    "code": "ct151"
+  },
+  {
+    "stem": "ct152_CG",
+    "name": "Special CG (ct152)",
+    "code": "ct152"
+  },
+  {
+    "stem": "story_hcg04",
+    "name": "Story Hcg04",
+    "code": "story_hcg04"
+  },
+  {
+    "stem": "story_hcg05_Spine",
+    "name": "Story Hcg05",
+    "code": "story_hcg05"
+  },
+  {
+    "stem": "story_hcg07_spine",
+    "name": "Story Hcg07",
+    "code": "story_hcg07"
+  },
+  {
+    "stem": "story_hcg08",
+    "name": "Story Hcg08",
+    "code": "story_hcg08"
+  },
+  {
+    "stem": "story_hcg09_spine",
+    "name": "Story Hcg09",
+    "code": "story_hcg09"
+  },
+  {
+    "stem": "story_hcg10",
+    "name": "Story Hcg10",
+    "code": "story_hcg10"
+  },
+  {
+    "stem": "story_hcg11",
+    "name": "Story Hcg11",
+    "code": "story_hcg11"
+  },
+  {
+    "stem": "story_hcg12",
+    "name": "Story Hcg12",
+    "code": "story_hcg12"
+  },
+  {
+    "stem": "story_hcg13",
+    "name": "Story Hcg13",
+    "code": "story_hcg13"
+  },
+  {
+    "stem": "story_hcg14",
+    "name": "Story Hcg14",
+    "code": "story_hcg14"
+  },
+  {
+    "stem": "story_hcg15",
+    "name": "Story Hcg15",
+    "code": "story_hcg15"
+  },
+  {
+    "stem": "story_hcg16",
+    "name": "Story Hcg16",
+    "code": "story_hcg16"
+  },
+  {
+    "stem": "story_hcg17_1",
+    "name": "Story Hcg17",
+    "code": "story_hcg17"
+  },
+  {
+    "stem": "story_hcg18",
+    "name": "Story Hcg18",
+    "code": "story_hcg18"
+  },
+  {
+    "stem": "story_hcg19_1",
+    "name": "Story Hcg19",
+    "code": "story_hcg19"
+  },
+  {
+    "stem": "story_hcg20",
+    "name": "Story Hcg20",
+    "code": "story_hcg20"
+  },
+  {
+    "stem": "story_hcg21",
+    "name": "Story Hcg21",
+    "code": "story_hcg21"
+  },
+  {
+    "stem": "story_hcg22",
+    "name": "Story Hcg22",
+    "code": "story_hcg22"
+  },
+  {
+    "stem": "story_hcg24",
+    "name": "Story Hcg24",
+    "code": "story_hcg24"
+  },
+  {
+    "stem": "story_hcg25",
+    "name": "Story Hcg25",
+    "code": "story_hcg25"
+  },
+  {
+    "stem": "story_hcg26",
+    "name": "Story Hcg26",
+    "code": "story_hcg26"
+  },
+  {
+    "stem": "story_hcg27",
+    "name": "Story Hcg27",
+    "code": "story_hcg27"
+  },
+  {
+    "stem": "story_hcg28",
+    "name": "Story Hcg28",
+    "code": "story_hcg28"
+  },
+  {
+    "stem": "story_hcg29",
+    "name": "Story Hcg29",
+    "code": "story_hcg29"
+  },
+  {
+    "stem": "story_hcg30",
+    "name": "Story Hcg30",
+    "code": "story_hcg30"
+  },
+  {
+    "stem": "story_hcg31",
+    "name": "Story Hcg31",
+    "code": "story_hcg31"
+  },
+  {
+    "stem": "story_hcg32",
+    "name": "Story Hcg32",
+    "code": "story_hcg32"
+  },
+  {
+    "stem": "story_hcg33",
+    "name": "Story Hcg33",
+    "code": "story_hcg33"
+  },
+  {
+    "stem": "story_hcg34",
+    "name": "Story Hcg34",
+    "code": "story_hcg34"
+  },
+  {
+    "stem": "story_hcg35",
+    "name": "Story Hcg35",
+    "code": "story_hcg35"
+  },
+  {
+    "stem": "story_hcg36",
+    "name": "Story Hcg36",
+    "code": "story_hcg36"
+  },
+  {
+    "stem": "story_hcg37",
+    "name": "Story Hcg37",
+    "code": "story_hcg37"
+  },
+  {
+    "stem": "story_hcg38",
+    "name": "Story Hcg38",
+    "code": "story_hcg38"
+  },
+  {
+    "stem": "story_hcg39",
+    "name": "Story Hcg39",
+    "code": "story_hcg39"
+  },
+  {
+    "stem": "story_hcg40",
+    "name": "Story Hcg40",
+    "code": "story_hcg40"
+  },
+  {
+    "stem": "story_hcg41",
+    "name": "Story Hcg41",
+    "code": "story_hcg41"
+  },
+  {
+    "stem": "story_hcg42",
+    "name": "Story Hcg42",
+    "code": "story_hcg42"
+  },
+  {
+    "stem": "story_hcg43",
+    "name": "Story Hcg43",
+    "code": "story_hcg43"
+  },
+  {
+    "stem": "story_hcg44_spine_Fin",
+    "name": "Story Hcg44",
+    "code": "story_hcg44"
+  },
+  {
+    "stem": "story_hcg45_1_spine",
+    "name": "Story Hcg45",
+    "code": "story_hcg45"
+  },
+  {
+    "stem": "a003_01",
+    "name": "Sun",
+    "code": "a003"
+  },
+  {
+    "stem": "a003_01_hcg",
+    "name": "Sun",
+    "code": "a003"
+  },
+  {
+    "stem": "a003_02",
+    "name": "Sun",
+    "code": "a003"
+  },
+  {
+    "stem": "a003_02_HCG",
+    "name": "Sun",
+    "code": "a003"
+  },
+  {
+    "stem": "ct075_CG",
+    "name": "Sun Erniang",
+    "code": "ct075"
+  },
+  {
+    "stem": "ct075_HCG",
+    "name": "Sun Erniang",
+    "code": "ct075"
+  },
+  {
+    "stem": "ct053_CG",
+    "name": "Sun Shangxiang",
+    "code": "ct053"
+  },
+  {
+    "stem": "ct053_HCG",
+    "name": "Sun Shangxiang",
+    "code": "ct053"
+  },
+  {
+    "stem": "ct014_CG",
+    "name": "Susanoo",
+    "code": "ct014"
+  },
+  {
+    "stem": "ct014_hcg1",
+    "name": "Susanoo",
+    "code": "ct014"
+  },
+  {
+    "stem": "ct109_CG",
+    "name": "Suzaku",
+    "code": "ct109"
+  },
+  {
+    "stem": "ct109_HCG",
+    "name": "Suzaku",
+    "code": "ct109"
+  },
+  {
+    "stem": "ct050_CG",
+    "name": "Sweetie Fox",
+    "code": "ct050"
+  },
+  {
+    "stem": "ct050_HCG",
+    "name": "Sweetie Fox",
+    "code": "ct050"
+  },
+  {
+    "stem": "ct050_hcg1_2_spine",
+    "name": "Sweetie Fox",
+    "code": "ct050"
+  },
+  {
+    "stem": "ct069_CG",
+    "name": "Tachibana",
+    "code": "ct069"
+  },
+  {
+    "stem": "ct069_HCG",
+    "name": "Tachibana",
+    "code": "ct069"
+  },
+  {
+    "stem": "teaching_hcg02_spine",
+    "name": "Teaching Hcg02",
+    "code": "teaching_hcg02"
+  },
+  {
+    "stem": "ct070_CG",
+    "name": "Tendo Mia",
+    "code": "ct070"
+  },
+  {
+    "stem": "ct070_HCg",
+    "name": "Tendo Mia",
+    "code": "ct070"
+  },
+  {
+    "stem": "wi04_01_CG_Spine",
+    "name": "Tengu",
+    "code": "wi04"
+  },
+  {
+    "stem": "wi04_01_hcg1",
+    "name": "Tengu",
+    "code": "wi04"
+  },
+  {
+    "stem": "test_a001_03",
+    "name": "Test A001 03",
+    "code": "test_a"
+  },
+  {
+    "stem": "test_a001_03_anim",
+    "name": "Test A001 03 Anim",
+    "code": "test_a"
+  },
+  {
+    "stem": "cq17cq18cq19_hcg1_1",
+    "name": "The Daily Life of the Munakata Family",
+    "code": "cq17"
+  },
+  {
+    "stem": "cq17cq18cq19_hcg1_2",
+    "name": "The Daily Life of the Munakata Family",
+    "code": "cq17"
+  },
+  {
+    "stem": "wa05_01_CG",
+    "name": "Thetis",
+    "code": "wa05"
+  },
+  {
+    "stem": "wa05_01_hcg1",
+    "name": "Thetis",
+    "code": "wa05"
+  },
+  {
+    "stem": "b001",
+    "name": "Tin Soldier",
+    "code": "b001"
+  },
+  {
+    "stem": "b001_01_nightshot_CG",
+    "name": "Tin Soldier",
+    "code": "b001"
+  },
+  {
+    "stem": "b001_03_hcg1_spine",
+    "name": "Tin Soldier",
+    "code": "b001"
+  },
+  {
+    "stem": "e006_03_CG_Spine",
+    "name": "Tinkerbell",
+    "code": "e006"
+  },
+  {
+    "stem": "e006_03_hcg1",
+    "name": "Tinkerbell",
+    "code": "e006"
+  },
+  {
+    "stem": "ct025_cg",
+    "name": "Tsukuyomi",
+    "code": "ct025"
+  },
+  {
+    "stem": "ct025_hcg1",
+    "name": "Tsukuyomi",
+    "code": "ct025"
+  },
+  {
+    "stem": "teaching_hcg01_spine",
+    "name": "Tutorial: Seduction Lessons",
+    "code": "teaching_hcg01"
+  },
+  {
+    "stem": "c004_03_CG",
+    "name": "Ugly Duckling",
+    "code": "c004"
+  },
+  {
+    "stem": "c004_03_hcg1_Spine",
+    "name": "Ugly Duckling",
+    "code": "c004"
+  },
+  {
+    "stem": "c004_04_fas_CG_Spine",
+    "name": "Ugly Duckling",
+    "code": "c004"
+  },
+  {
+    "stem": "c004_04_hcg1",
+    "name": "Ugly Duckling",
+    "code": "c004"
+  },
+  {
+    "stem": "c004_05_CG",
+    "name": "Ugly Duckling",
+    "code": "c004"
+  },
+  {
+    "stem": "c004_05_hcg1",
+    "name": "Ugly Duckling",
+    "code": "c004"
+  },
+  {
+    "stem": "ct010_CG",
+    "name": "Urd",
+    "code": "ct010"
+  },
+  {
+    "stem": "ct010_hcg1",
+    "name": "Urd",
+    "code": "ct010"
+  },
+  {
+    "stem": "ct096_CG",
+    "name": "Uriel",
+    "code": "ct096"
+  },
+  {
+    "stem": "ct096_CG_fas",
+    "name": "Uriel",
+    "code": "ct096"
+  },
+  {
+    "stem": "ct096_HCG",
+    "name": "Uriel",
+    "code": "ct096"
+  },
+  {
+    "stem": "e007_02_CG",
+    "name": "Valkyrie",
+    "code": "e007"
+  },
+  {
+    "stem": "e007_02_hcg",
+    "name": "Valkyrie",
+    "code": "e007"
+  },
+  {
+    "stem": "e007_04_CG_Spine",
+    "name": "Valkyrie",
+    "code": "e007"
+  },
+  {
+    "stem": "e007_04_hcg1",
+    "name": "Valkyrie",
+    "code": "e007"
+  },
+  {
+    "stem": "ct011_CG",
+    "name": "Verthandi",
+    "code": "ct011"
+  },
+  {
+    "stem": "ct011_hcg",
+    "name": "Verthandi",
+    "code": "ct011"
+  },
+  {
+    "stem": "ct047_CG",
+    "name": "Watson",
+    "code": "ct047"
+  },
+  {
+    "stem": "ct047_HCG",
+    "name": "Watson",
+    "code": "ct047"
+  },
+  {
+    "stem": "ct073_CG",
+    "name": "Wu Song",
+    "code": "ct073"
+  },
+  {
+    "stem": "ct073_HCG",
+    "name": "Wu Song",
+    "code": "ct073"
+  },
+  {
+    "stem": "fi04_01_CG_Spine",
+    "name": "Wu Zetian",
+    "code": "fi04"
+  },
+  {
+    "stem": "fi04_01_hcg1",
+    "name": "Wu Zetian",
+    "code": "fi04"
+  },
+  {
+    "stem": "ct045_CG",
+    "name": "Wujing",
+    "code": "ct045"
+  },
+  {
+    "stem": "ct045_hcg1",
+    "name": "Wujing",
+    "code": "ct045"
+  },
+  {
+    "stem": "ct043_CG",
+    "name": "Wukong",
+    "code": "ct043"
+  },
+  {
+    "stem": "ct043_HCG",
+    "name": "Wukong",
+    "code": "ct043"
+  },
+  {
+    "stem": "ct044_CG",
+    "name": "Wuneng",
+    "code": "ct044"
+  },
+  {
+    "stem": "ct044_HCG",
+    "name": "Wuneng",
+    "code": "ct044"
+  },
+  {
+    "stem": "ct052_CG",
+    "name": "Xiao Qiao",
+    "code": "ct052"
+  },
+  {
+    "stem": "ct052_hcg",
+    "name": "Xiao Qiao",
+    "code": "ct052"
+  },
+  {
+    "stem": "ct062_CG",
+    "name": "Yagyu Jubei",
+    "code": "ct062"
+  },
+  {
+    "stem": "ct062_HCG",
+    "name": "Yagyu Jubei",
+    "code": "ct062"
+  },
+  {
+    "stem": "ct062_fas",
+    "name": "Yagyu Jubei",
+    "code": "ct062"
+  },
+  {
+    "stem": "da06_01",
+    "name": "Yama",
+    "code": "da06"
+  },
+  {
+    "stem": "da06_01_CG",
+    "name": "Yama",
+    "code": "da06"
+  },
+  {
+    "stem": "ct058_CG",
+    "name": "Yu Ning",
+    "code": "ct058"
+  },
+  {
+    "stem": "ct058_hcg",
+    "name": "Yu Ning",
+    "code": "ct058"
+  },
+  {
+    "stem": "a007_03_CG_Spine",
+    "name": "Yuki",
+    "code": "a007"
+  },
+  {
+    "stem": "a007_03_hcg1_Spine",
+    "name": "Yuki",
+    "code": "a007"
+  },
+  {
+    "stem": "a007_04_CG",
+    "name": "Yuki",
+    "code": "a007"
+  },
+  {
+    "stem": "a007_04_Spine",
+    "name": "Yuki",
+    "code": "a007"
+  },
+  {
+    "stem": "ct080_CG",
+    "name": "Zheng Xiyue",
+    "code": "ct080"
+  },
+  {
+    "stem": "ct080_HCG",
+    "name": "Zheng Xiyue",
+    "code": "ct080"
+  },
+  {
+    "stem": "ct085_CG",
+    "name": "Zhinu",
+    "code": "ct085"
+  },
+  {
+    "stem": "ct085_hcg",
+    "name": "Zhinu",
+    "code": "ct085"
+  },
+  {
+    "stem": "ct059_CG",
+    "name": "Zhiying",
+    "code": "ct059"
+  },
+  {
+    "stem": "ct059_HCG",
+    "name": "Zhiying",
+    "code": "ct059"
+  },
+  {
+    "stem": "d003_03_CG_Spine",
+    "name": "Zhuge Liang",
+    "code": "d003"
+  },
+  {
+    "stem": "d003_03_hcg1_Spine",
+    "name": "Zhuge Liang",
+    "code": "d003"
+  },
+  {
+    "stem": "ct69ct70ct71_hcg1_1_spine",
+    "name": "醫護室的秘密會談",
+    "code": "ct69"
+  },
+  {
+    "stem": "ct69ct70ct71_hcg1_2_spine",
+    "name": "醫護室的秘密會談",
+    "code": "ct69"
+  }
+]

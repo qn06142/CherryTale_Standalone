@@ -1,0 +1,62 @@
+# =============================================================================
+# CherryTale Standalone & Datamine Environment - Complete Lock (52 Packages)
+# Environment: Python 3.11 (Windows x86_64)
+# =============================================================================
+
+# --- Core Standalone Production (16 packages) ---
+archspec==0.2.6
+astc-encoder-py==0.1.12
+attrs==26.1.0
+brotli==1.2.0
+etcpak==0.9.15
+fmod_toolkit==0.1.3
+fsspec==2026.7.0
+lz4==4.4.5
+pillow==12.3.0
+psutil==7.2.2
+pycryptodome==3.23.0
+pyfmodex==0.7.2
+texture2ddecoder==1.0.6
+tpk_ar==0.2.4
+tqdm==4.70.0
+UnityPy==1.25.3
+
+# --- APK Reverse-Engineering & Static Analysis Stack (21 packages) ---
+alembic==1.19.1
+androguard==4.1.4
+apkInspector==1.3.6
+asn1crypto==1.5.1
+cffi==2.1.1
+click==8.4.2
+colorama==0.4.6
+cryptography==50.0.0
+dataset==2.0.0
+greenlet==3.5.4
+lxml==6.1.1
+Mako==1.4.1
+MarkupSafe==3.0.3
+mutf8==1.1.0
+networkx==3.6.1
+pycparser==3.0
+pydot==4.0.1
+pyparsing==3.3.2
+PyYAML==6.0.3
+SQLAlchemy==2.0.51
+typing_extensions==4.16.0
+
+# --- Interactive Development & Diagnostic Shell Stack (15 packages) ---
+asttokens==3.0.2
+executing==2.2.1
+ipython==9.16.1
+ipython_pygments_lexers==1.1.1
+jedi==0.20.0
+loguru==0.7.3
+matplotlib-inline==0.2.2
+parso==0.8.7
+prompt_toolkit==3.0.53
+pure_eval==0.2.3
+Pygments==2.20.0
+stack-data==0.6.3
+traitlets==5.16.1
+wcwidth==0.8.2
+win32_setctime==1.2.0

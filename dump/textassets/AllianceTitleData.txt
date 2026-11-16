@@ -1,0 +1,8 @@
+allianceTitleID|titleName|iconAssetID|vocation|teamPitJoinCount|order┤
+937000001|會長|Grade_01_icon|2|3|1┤
+937000002|副會長|Grade_02_icon|1|3|2┤
+937000003|一般會員|Grade_07_icon|0|0|6┤
+937000004|資深會員|Grade_06_icon|-1|2|5┤
+937000005|榮譽會員|Grade_05_icon|-1|2|4┤
+937000006|菁英|Grade_03_icon|-1|0|7┤
+937000007|元老|Grade_04_icon|-1|3|3┤

@@ -1,0 +1,7 @@
+jobID|enumNum|jobName|jobicon|jobFeatureProperty1|jobFeatureProperty2|jobFeatureProperty3|jobFeatureProperty4|jobFeatureProperty5|jobFeatureColor┤
+900000000|0|無|-1|0|0|0|0|0|000000┤
+900000001|1|鎮守|guard_{ele}|生命力|物理防|魔法防|援護|控場|957C7A┤
+900000002|2|衝鋒|fighters_{ele}|攻擊|增益|減益|控場|追擊|EA3333┤
+900000003|3|精準|archer_{ele}|攻擊|增益|減益|控場|追擊|FFC405┤
+900000004|4|應援|priest_{ele}|治療力|增益|減益|援護|輔助|33EA62┤
+900000005|5|轟炸|master_{ele}|攻擊|增益|減益|控場|追擊|9433EA┤

@@ -1,0 +1,4 @@
+donateID|name|icon|costItemID|costAmount|creditAmount|feebackItemID1|feebackItemAmount1|feebackItemID2|feebackItemAmount2┤
+693000001|初級捐獻|Donate_Icon_01|NULL|5000|10|NULL|1|NULL|0┤
+693000002|中級捐獻|Donate_Icon_02|NULL|50|50|NULL|3|NULL|0┤
+693000003|高級捐獻|Donate_Icon_03|NULL|200|200|NULL|12|NULL|0┤

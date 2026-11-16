@@ -1,0 +1,7 @@
+mirrorMachineID|machineName|bingoID|bingoRewardID|bingoBattleBuffID|bannerAssetID|textAssetID|bgAssetID|tabTip|order|mirrorSinglePhase|costItemA|costItemAmountA|costItemB|costItemAmountB┤
+925000001|夏日泳裝|928000001|929000001|926900001|Card_Swimsuit_f008_02|MirrorTitle_Swimsuit|Card_Swimsuit|-1|9999|927000001|200000117|1|-1|-1┤
+925000002|禮服盛宴|928000002|929000002|926900002|Card_suit_c001_03|MirrorTitle_Suit|Card_Suit|-1|9998|927000002|200000117|1|-1|-1┤
+925000003|夢幻學園|928000003|929000003|926900003|Card_JK_c001_01|MirrorTitle_JK|Card_JK|-1|9997|927000003|200000117|1|-1|-1┤
+925000004|賽場之星|928000004|929000004|926900004|Card_sports_fi05_01|MirrorTitle_sports|Card_sports|-1|9996|927000004|200000117|1|-1|-1┤
+925000005|樂音律動|928000005|929000005|926900005|Card_music_e007_04|MirrorTitle_music|Card_music|-1|9995|927000005|200000117|1|-1|-1┤
+925000006|絲韻流光|928000006|929000006|926900006|Card_silk_ea05_01|MirrorTitle_silk|Card_silk|-1|9994|927000006|200000117|1|-1|-1┤

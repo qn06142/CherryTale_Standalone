@@ -1,0 +1,2 @@
+itemID|materialID1|materialAmount1|materialID2|materialAmount2|outputTargetItem┤
+200200039|NULL|5|NULL|5|NULL┤

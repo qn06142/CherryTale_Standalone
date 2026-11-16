@@ -1,0 +1,393 @@
+goldMineActiveMissionID|goldMineMissionTimeGroupID|misTitle|misDescription|misSubSorting|nextMisSub|icon|actionID|actionTarget|count|addPoint|reward|bonusReward|rewardTipItem|itemAmount|missionVIPRequie|activeMissionType|goTo|goToParameter┤
+808000001|NULL|百煉成鋼(I)|通關<color=#D28B27> {0} </color>次。|1|NULL|mission_004_Icon|060101|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000002|NULL|百煉成鋼(II)|通關<color=#D28B27> {0} </color>次。|2|NULL|mission_004_Icon|060101|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000003|NULL|百煉成鋼(III)|通關<color=#D28B27> {0} </color>次。|3|NULL|mission_004_Icon|060101|null|50|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000004|NULL|百煉成鋼(IV)|通關<color=#D28B27> {0} </color>次。|4|NULL|mission_004_Icon|060101|null|80|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000005|NULL|百煉成鋼(V)|通關<color=#D28B27> {0} </color>次。|5|NULL|mission_004_Icon|060101|null|100|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000006|NULL|百煉成鋼(VI)|通關<color=#D28B27> {0} </color>次。|6|NULL|mission_004_Icon|060101|null|150|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000007|NULL|百煉成鋼(VII)|通關<color=#D28B27> {0} </color>次。|7|NULL|mission_004_Icon|060101|null|200|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000008|NULL|牛刀小試(I)|競技場挑戰<color=#D28B27> {0} </color>次。|8|NULL|mission_004_Icon|130103|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000009|NULL|牛刀小試(II)|競技場挑戰<color=#D28B27> {0} </color>次。|9|NULL|mission_004_Icon|130103|null|10|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000010|NULL|牛刀小試(III)|競技場挑戰<color=#D28B27> {0} </color>次。|10|NULL|mission_004_Icon|130103|null|15|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000011|NULL|牛刀小試(IV)|競技場挑戰<color=#D28B27> {0} </color>次。|11|NULL|mission_004_Icon|130103|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000012|NULL|牛刀小試(V)|競技場挑戰<color=#D28B27> {0} </color>次。|12|NULL|mission_004_Icon|130103|null|25|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000013|NULL|牛刀小試(VI)|競技場挑戰<color=#D28B27> {0} </color>次。|13|NULL|mission_004_Icon|130103|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000014|NULL|精力充沛(I)|用鑽石購買體力<color=#D28B27> {0} </color>次。|14|NULL|mission_004_Icon|090201|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000015|NULL|精力充沛(II)|用鑽石購買體力<color=#D28B27> {0} </color>次。|15|NULL|mission_004_Icon|090201|null|10|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000016|NULL|精力充沛(III)|用鑽石購買體力<color=#D28B27> {0} </color>次。|16|NULL|mission_004_Icon|090201|null|20|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000017|NULL|精力充沛(IV)|用鑽石購買體力<color=#D28B27> {0} </color>次。|17|NULL|mission_004_Icon|090201|null|30|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000018|NULL|精力充沛(V)|用鑽石購買體力<color=#D28B27> {0} </color>次。|18|NULL|mission_004_Icon|090201|null|40|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000019|NULL|精力充沛(VI)|用鑽石購買體力<color=#D28B27> {0} </color>次。|19|NULL|mission_004_Icon|090201|null|50|1|NULL|NULL|200000124|15|0|0|NULL|-1┤
+808000020|NULL|閃耀的星(I)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|20|NULL|mission_004_Icon|070101|id:253408100|10|1|NULL|NULL|200000124|3|0|0|NULL|253102100┤
+808000021|NULL|閃耀的星(II)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|21|NULL|mission_004_Icon|070101|id:253408100|20|1|NULL|NULL|200000124|5|0|0|NULL|253102100┤
+808000022|NULL|閃耀的星(III)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|22|NULL|mission_004_Icon|070101|id:253408100|30|1|NULL|NULL|200000124|5|0|0|NULL|253102100┤
+808000023|NULL|閃耀的星(IV)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|23|NULL|mission_004_Icon|070101|id:253408100|40|1|NULL|NULL|200000124|10|0|0|NULL|253102100┤
+808000024|NULL|閃耀的星(V)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|24|NULL|mission_004_Icon|070101|id:253408100|50|1|NULL|NULL|200000124|10|0|0|NULL|253102100┤
+808000025|NULL|閃耀的星(VI)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|25|NULL|mission_004_Icon|070101|id:253408100|80|1|NULL|NULL|200000124|12|0|0|NULL|253102100┤
+808000026|NULL|閃耀的星(VII)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|26|NULL|mission_004_Icon|070101|id:253408100|90|1|NULL|NULL|200000124|12|0|0|NULL|253102100┤
+808000027|NULL|閃耀的星(VIII)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|27|NULL|mission_004_Icon|070101|id:253408100|100|1|NULL|NULL|200000124|12|0|0|NULL|253102100┤
+808000028|NULL|閃耀的星(IX)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|28|NULL|mission_004_Icon|070101|id:253408100|110|1|NULL|NULL|200000124|15|0|0|NULL|253102100┤
+808000029|NULL|閃耀的星(X)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|29|NULL|mission_004_Icon|070101|id:253408100|150|1|NULL|NULL|200000124|25|0|0|NULL|253102100┤
+808000030|NULL|天使之賜(I)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|30|NULL|mission_004_Icon|330202|null|10|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000031|NULL|天使之賜(II)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|31|NULL|mission_004_Icon|330202|null|20|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000032|NULL|天使之賜(III)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|32|NULL|mission_004_Icon|330202|null|30|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000033|NULL|天使之賜(IV)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|33|NULL|mission_004_Icon|330202|null|45|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000034|NULL|天使之賜(V)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|34|NULL|mission_004_Icon|330202|null|60|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000035|NULL|天使之賜(VI)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|35|NULL|mission_004_Icon|330202|null|80|1|NULL|NULL|200000124|12|0|0|NULL|-1┤
+808000036|NULL|百煉成鋼(I)|通關<color=#D28B27> {0} </color>次。|1|NULL|mission_004_Icon|060101|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000037|NULL|百煉成鋼(II)|通關<color=#D28B27> {0} </color>次。|2|NULL|mission_004_Icon|060101|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000038|NULL|百煉成鋼(III)|通關<color=#D28B27> {0} </color>次。|3|NULL|mission_004_Icon|060101|null|50|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000039|NULL|百煉成鋼(IV)|通關<color=#D28B27> {0} </color>次。|4|NULL|mission_004_Icon|060101|null|80|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000040|NULL|百煉成鋼(V)|通關<color=#D28B27> {0} </color>次。|5|NULL|mission_004_Icon|060101|null|100|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000041|NULL|百煉成鋼(VI)|通關<color=#D28B27> {0} </color>次。|6|NULL|mission_004_Icon|060101|null|150|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000042|NULL|百煉成鋼(VII)|通關<color=#D28B27> {0} </color>次。|7|NULL|mission_004_Icon|060101|null|200|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000043|NULL|牛刀小試(I)|競技場挑戰<color=#D28B27> {0} </color>次。|8|NULL|mission_004_Icon|130103|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000044|NULL|牛刀小試(II)|競技場挑戰<color=#D28B27> {0} </color>次。|9|NULL|mission_004_Icon|130103|null|10|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000045|NULL|牛刀小試(III)|競技場挑戰<color=#D28B27> {0} </color>次。|10|NULL|mission_004_Icon|130103|null|15|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000046|NULL|牛刀小試(IV)|競技場挑戰<color=#D28B27> {0} </color>次。|11|NULL|mission_004_Icon|130103|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000047|NULL|牛刀小試(V)|競技場挑戰<color=#D28B27> {0} </color>次。|12|NULL|mission_004_Icon|130103|null|25|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000048|NULL|牛刀小試(VI)|競技場挑戰<color=#D28B27> {0} </color>次。|13|NULL|mission_004_Icon|130103|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000049|NULL|精力充沛(I)|用鑽石購買體力<color=#D28B27> {0} </color>次。|14|NULL|mission_004_Icon|090201|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000050|NULL|精力充沛(II)|用鑽石購買體力<color=#D28B27> {0} </color>次。|15|NULL|mission_004_Icon|090201|null|10|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000051|NULL|精力充沛(III)|用鑽石購買體力<color=#D28B27> {0} </color>次。|16|NULL|mission_004_Icon|090201|null|20|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000052|NULL|精力充沛(IV)|用鑽石購買體力<color=#D28B27> {0} </color>次。|17|NULL|mission_004_Icon|090201|null|30|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000053|NULL|精力充沛(V)|用鑽石購買體力<color=#D28B27> {0} </color>次。|18|NULL|mission_004_Icon|090201|null|40|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000054|NULL|精力充沛(VI)|用鑽石購買體力<color=#D28B27> {0} </color>次。|19|NULL|mission_004_Icon|090201|null|50|1|NULL|NULL|200000124|15|0|0|NULL|-1┤
+808000055|NULL|閃耀的星(I)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|20|NULL|mission_004_Icon|070101|id:253102400|10|1|NULL|NULL|200000124|3|0|0|NULL|253102400┤
+808000056|NULL|閃耀的星(II)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|21|NULL|mission_004_Icon|070101|id:253102400|20|1|NULL|NULL|200000124|5|0|0|NULL|253102400┤
+808000057|NULL|閃耀的星(III)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|22|NULL|mission_004_Icon|070101|id:253102400|30|1|NULL|NULL|200000124|5|0|0|NULL|253102400┤
+808000058|NULL|閃耀的星(IV)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|23|NULL|mission_004_Icon|070101|id:253102400|40|1|NULL|NULL|200000124|10|0|0|NULL|253102400┤
+808000059|NULL|閃耀的星(V)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|24|NULL|mission_004_Icon|070101|id:253102400|50|1|NULL|NULL|200000124|10|0|0|NULL|253102400┤
+808000060|NULL|閃耀的星(VI)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|25|NULL|mission_004_Icon|070101|id:253102400|80|1|NULL|NULL|200000124|12|0|0|NULL|253102400┤
+808000061|NULL|閃耀的星(VII)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|26|NULL|mission_004_Icon|070101|id:253102400|90|1|NULL|NULL|200000124|12|0|0|NULL|253102400┤
+808000062|NULL|閃耀的星(VIII)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|27|NULL|mission_004_Icon|070101|id:253102400|100|1|NULL|NULL|200000124|12|0|0|NULL|253102400┤
+808000063|NULL|閃耀的星(IX)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|28|NULL|mission_004_Icon|070101|id:253102400|110|1|NULL|NULL|200000124|15|0|0|NULL|253102400┤
+808000064|NULL|閃耀的星(X)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|29|NULL|mission_004_Icon|070101|id:253102400|150|1|NULL|NULL|200000124|25|0|0|NULL|253102400┤
+808000065|NULL|天使之賜(I)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|30|NULL|mission_004_Icon|330202|null|10|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000066|NULL|天使之賜(II)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|31|NULL|mission_004_Icon|330202|null|20|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000067|NULL|天使之賜(III)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|32|NULL|mission_004_Icon|330202|null|30|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000068|NULL|天使之賜(IV)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|33|NULL|mission_004_Icon|330202|null|45|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000069|NULL|天使之賜(V)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|34|NULL|mission_004_Icon|330202|null|60|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000070|NULL|天使之賜(VI)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|35|NULL|mission_004_Icon|330202|null|80|1|NULL|NULL|200000124|12|0|0|NULL|-1┤
+808000071|NULL|特別限時任務|累績到 {0} 層數|36|NULL|mission_004_Icon|330102|null|10|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000072|NULL|特別限時任務|累績到 {0} 層數|37|NULL|mission_004_Icon|330102|null|20|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000073|NULL|特別限時任務|累績到 {0} 層數|38|NULL|mission_004_Icon|330102|null|30|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000074|NULL|特別限時任務|累績到 {0} 層數|39|NULL|mission_004_Icon|330102|null|40|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000075|NULL|特別限時任務|累績到 {0} 層數|40|NULL|mission_004_Icon|330102|null|50|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000076|NULL|特別限時任務|累績到 {0} 層數|41|NULL|mission_004_Icon|330102|null|75|1|NULL|NULL|200000127|3|0|0|NULL|-1┤
+808000077|NULL|特別限時任務|累績到 {0} 層數|42|NULL|mission_004_Icon|330102|null|100|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000078|NULL|特別限時任務|累績到 {0} 層數|43|NULL|mission_004_Icon|330102|null|150|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000079|NULL|特別限時任務|累績到 {0} 層數|44|NULL|mission_004_Icon|330102|null|200|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000080|NULL|特別限時任務|累績到 {0} 層數|45|NULL|mission_004_Icon|330102|null|250|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000081|NULL|特別限時任務|累績到 {0} 層數|46|NULL|mission_004_Icon|330102|null|300|1|NULL|NULL|200000127|10|0|0|NULL|-1┤
+808000082|NULL|百煉成鋼(I)|通關<color=#D28B27> {0} </color>次。|1|NULL|mission_004_Icon|060101|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000083|NULL|百煉成鋼(II)|通關<color=#D28B27> {0} </color>次。|2|NULL|mission_004_Icon|060101|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000084|NULL|百煉成鋼(III)|通關<color=#D28B27> {0} </color>次。|3|NULL|mission_004_Icon|060101|null|50|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000085|NULL|百煉成鋼(IV)|通關<color=#D28B27> {0} </color>次。|4|NULL|mission_004_Icon|060101|null|80|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000086|NULL|百煉成鋼(V)|通關<color=#D28B27> {0} </color>次。|5|NULL|mission_004_Icon|060101|null|100|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000087|NULL|百煉成鋼(VI)|通關<color=#D28B27> {0} </color>次。|6|NULL|mission_004_Icon|060101|null|150|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000088|NULL|百煉成鋼(VII)|通關<color=#D28B27> {0} </color>次。|7|NULL|mission_004_Icon|060101|null|200|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000089|NULL|牛刀小試(I)|競技場挑戰<color=#D28B27> {0} </color>次。|8|NULL|mission_004_Icon|130103|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000090|NULL|牛刀小試(II)|競技場挑戰<color=#D28B27> {0} </color>次。|9|NULL|mission_004_Icon|130103|null|10|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000091|NULL|牛刀小試(III)|競技場挑戰<color=#D28B27> {0} </color>次。|10|NULL|mission_004_Icon|130103|null|15|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000092|NULL|牛刀小試(IV)|競技場挑戰<color=#D28B27> {0} </color>次。|11|NULL|mission_004_Icon|130103|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000093|NULL|牛刀小試(V)|競技場挑戰<color=#D28B27> {0} </color>次。|12|NULL|mission_004_Icon|130103|null|25|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000094|NULL|牛刀小試(VI)|競技場挑戰<color=#D28B27> {0} </color>次。|13|NULL|mission_004_Icon|130103|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000095|NULL|精力充沛(I)|用鑽石購買體力<color=#D28B27> {0} </color>次。|14|NULL|mission_004_Icon|090201|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000096|NULL|精力充沛(II)|用鑽石購買體力<color=#D28B27> {0} </color>次。|15|NULL|mission_004_Icon|090201|null|10|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000097|NULL|精力充沛(III)|用鑽石購買體力<color=#D28B27> {0} </color>次。|16|NULL|mission_004_Icon|090201|null|20|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000098|NULL|精力充沛(IV)|用鑽石購買體力<color=#D28B27> {0} </color>次。|17|NULL|mission_004_Icon|090201|null|30|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000099|NULL|精力充沛(V)|用鑽石購買體力<color=#D28B27> {0} </color>次。|18|NULL|mission_004_Icon|090201|null|40|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000100|NULL|精力充沛(VI)|用鑽石購買體力<color=#D28B27> {0} </color>次。|19|NULL|mission_004_Icon|090201|null|50|1|NULL|NULL|200000124|15|0|0|NULL|-1┤
+808000101|NULL|閃耀的星(I)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|20|NULL|mission_004_Icon|070101|id:253102600|10|1|NULL|NULL|200000124|3|0|0|NULL|253102600┤
+808000102|NULL|閃耀的星(II)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|21|NULL|mission_004_Icon|070101|id:253102600|20|1|NULL|NULL|200000124|5|0|0|NULL|253102600┤
+808000103|NULL|閃耀的星(III)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|22|NULL|mission_004_Icon|070101|id:253102600|30|1|NULL|NULL|200000124|5|0|0|NULL|253102600┤
+808000104|NULL|閃耀的星(IV)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|23|NULL|mission_004_Icon|070101|id:253102600|40|1|NULL|NULL|200000124|10|0|0|NULL|253102600┤
+808000105|NULL|閃耀的星(V)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|24|NULL|mission_004_Icon|070101|id:253102600|50|1|NULL|NULL|200000124|10|0|0|NULL|253102600┤
+808000106|NULL|閃耀的星(VI)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|25|NULL|mission_004_Icon|070101|id:253102600|80|1|NULL|NULL|200000124|12|0|0|NULL|253102600┤
+808000107|NULL|閃耀的星(VII)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|26|NULL|mission_004_Icon|070101|id:253102600|90|1|NULL|NULL|200000124|12|0|0|NULL|253102600┤
+808000108|NULL|閃耀的星(VIII)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|27|NULL|mission_004_Icon|070101|id:253102600|100|1|NULL|NULL|200000124|12|0|0|NULL|253102600┤
+808000109|NULL|閃耀的星(IX)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|28|NULL|mission_004_Icon|070101|id:253102600|110|1|NULL|NULL|200000124|15|0|0|NULL|253102600┤
+808000110|NULL|閃耀的星(X)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|29|NULL|mission_004_Icon|070101|id:253102600|150|1|NULL|NULL|200000124|25|0|0|NULL|253102600┤
+808000111|NULL|天使之賜(I)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|30|NULL|mission_004_Icon|330202|null|10|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000112|NULL|天使之賜(II)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|31|NULL|mission_004_Icon|330202|null|20|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000113|NULL|天使之賜(III)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|32|NULL|mission_004_Icon|330202|null|30|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000114|NULL|天使之賜(IV)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|33|NULL|mission_004_Icon|330202|null|45|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000115|NULL|天使之賜(V)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|34|NULL|mission_004_Icon|330202|null|60|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000116|NULL|天使之賜(VI)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|35|NULL|mission_004_Icon|330202|null|80|1|NULL|NULL|200000124|12|0|0|NULL|-1┤
+808000117|NULL|特別限時任務|累績到 {0} 層數|36|NULL|mission_004_Icon|330102|null|10|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000118|NULL|特別限時任務|累績到 {0} 層數|37|NULL|mission_004_Icon|330102|null|20|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000119|NULL|特別限時任務|累績到 {0} 層數|38|NULL|mission_004_Icon|330102|null|30|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000120|NULL|特別限時任務|累績到 {0} 層數|39|NULL|mission_004_Icon|330102|null|40|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000121|NULL|特別限時任務|累績到 {0} 層數|40|NULL|mission_004_Icon|330102|null|50|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000122|NULL|特別限時任務|累績到 {0} 層數|41|NULL|mission_004_Icon|330102|null|75|1|NULL|NULL|200000127|3|0|0|NULL|-1┤
+808000123|NULL|特別限時任務|累績到 {0} 層數|42|NULL|mission_004_Icon|330102|null|100|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000124|NULL|特別限時任務|累績到 {0} 層數|43|NULL|mission_004_Icon|330102|null|150|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000125|NULL|特別限時任務|累績到 {0} 層數|44|NULL|mission_004_Icon|330102|null|200|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000126|NULL|特別限時任務|累績到 {0} 層數|45|NULL|mission_004_Icon|330102|null|250|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000127|NULL|特別限時任務|累績到 {0} 層數|46|NULL|mission_004_Icon|330102|null|300|1|NULL|NULL|200000127|10|0|0|NULL|-1┤
+808000128|NULL|百煉成鋼(I)|通關<color=#D28B27> {0} </color>次。|1|NULL|mission_004_Icon|060101|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000129|NULL|百煉成鋼(II)|通關<color=#D28B27> {0} </color>次。|2|NULL|mission_004_Icon|060101|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000130|NULL|百煉成鋼(III)|通關<color=#D28B27> {0} </color>次。|3|NULL|mission_004_Icon|060101|null|50|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000131|NULL|百煉成鋼(IV)|通關<color=#D28B27> {0} </color>次。|4|NULL|mission_004_Icon|060101|null|80|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000132|NULL|百煉成鋼(V)|通關<color=#D28B27> {0} </color>次。|5|NULL|mission_004_Icon|060101|null|100|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000133|NULL|百煉成鋼(VI)|通關<color=#D28B27> {0} </color>次。|6|NULL|mission_004_Icon|060101|null|150|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000134|NULL|百煉成鋼(VII)|通關<color=#D28B27> {0} </color>次。|7|NULL|mission_004_Icon|060101|null|200|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000135|NULL|牛刀小試(I)|競技場挑戰<color=#D28B27> {0} </color>次。|8|NULL|mission_004_Icon|130103|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000136|NULL|牛刀小試(II)|競技場挑戰<color=#D28B27> {0} </color>次。|9|NULL|mission_004_Icon|130103|null|10|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000137|NULL|牛刀小試(III)|競技場挑戰<color=#D28B27> {0} </color>次。|10|NULL|mission_004_Icon|130103|null|15|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000138|NULL|牛刀小試(IV)|競技場挑戰<color=#D28B27> {0} </color>次。|11|NULL|mission_004_Icon|130103|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000139|NULL|牛刀小試(V)|競技場挑戰<color=#D28B27> {0} </color>次。|12|NULL|mission_004_Icon|130103|null|25|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000140|NULL|牛刀小試(VI)|競技場挑戰<color=#D28B27> {0} </color>次。|13|NULL|mission_004_Icon|130103|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000141|NULL|精力充沛(I)|用鑽石購買體力<color=#D28B27> {0} </color>次。|14|NULL|mission_004_Icon|090201|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000142|NULL|精力充沛(II)|用鑽石購買體力<color=#D28B27> {0} </color>次。|15|NULL|mission_004_Icon|090201|null|10|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000143|NULL|精力充沛(III)|用鑽石購買體力<color=#D28B27> {0} </color>次。|16|NULL|mission_004_Icon|090201|null|20|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000144|NULL|精力充沛(IV)|用鑽石購買體力<color=#D28B27> {0} </color>次。|17|NULL|mission_004_Icon|090201|null|30|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000145|NULL|精力充沛(V)|用鑽石購買體力<color=#D28B27> {0} </color>次。|18|NULL|mission_004_Icon|090201|null|40|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000146|NULL|精力充沛(VI)|用鑽石購買體力<color=#D28B27> {0} </color>次。|19|NULL|mission_004_Icon|090201|null|50|1|NULL|NULL|200000124|15|0|0|NULL|-1┤
+808000147|NULL|閃耀的星(I)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|20|NULL|mission_004_Icon|070101|id:253408100|10|1|NULL|NULL|200000124|3|0|0|NULL|253102100┤
+808000148|NULL|閃耀的星(II)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|21|NULL|mission_004_Icon|070101|id:253408100|20|1|NULL|NULL|200000124|5|0|0|NULL|253102100┤
+808000149|NULL|閃耀的星(III)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|22|NULL|mission_004_Icon|070101|id:253408100|30|1|NULL|NULL|200000124|5|0|0|NULL|253102100┤
+808000150|NULL|閃耀的星(IV)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|23|NULL|mission_004_Icon|070101|id:253408100|40|1|NULL|NULL|200000124|10|0|0|NULL|253102100┤
+808000151|NULL|閃耀的星(V)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|24|NULL|mission_004_Icon|070101|id:253408100|50|1|NULL|NULL|200000124|10|0|0|NULL|253102100┤
+808000152|NULL|閃耀的星(VI)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|25|NULL|mission_004_Icon|070101|id:253408100|80|1|NULL|NULL|200000124|12|0|0|NULL|253102100┤
+808000153|NULL|閃耀的星(VII)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|26|NULL|mission_004_Icon|070101|id:253408100|90|1|NULL|NULL|200000124|12|0|0|NULL|253102100┤
+808000154|NULL|閃耀的星(VIII)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|27|NULL|mission_004_Icon|070101|id:253408100|100|1|NULL|NULL|200000124|12|0|0|NULL|253102100┤
+808000155|NULL|閃耀的星(IX)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|28|NULL|mission_004_Icon|070101|id:253408100|110|1|NULL|NULL|200000124|15|0|0|NULL|253102100┤
+808000156|NULL|閃耀的星(X)|進行『蜜兒 特殊召喚』<color=#D28B27> {0} </color>次。|29|NULL|mission_004_Icon|070101|id:253408100|150|1|NULL|NULL|200000124|25|0|0|NULL|253102100┤
+808000157|NULL|天使之賜(I)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|30|NULL|mission_004_Icon|330202|null|10|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000158|NULL|天使之賜(II)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|31|NULL|mission_004_Icon|330202|null|20|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000159|NULL|天使之賜(III)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|32|NULL|mission_004_Icon|330202|null|30|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000160|NULL|天使之賜(IV)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|33|NULL|mission_004_Icon|330202|null|45|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000161|NULL|天使之賜(V)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|34|NULL|mission_004_Icon|330202|null|60|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000162|NULL|天使之賜(VI)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|35|NULL|mission_004_Icon|330202|null|80|1|NULL|NULL|200000124|12|0|0|NULL|-1┤
+808000163|NULL|百煉成鋼(I)|通關<color=#D28B27> {0} </color>次。|1|NULL|mission_004_Icon|060101|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000164|NULL|百煉成鋼(II)|通關<color=#D28B27> {0} </color>次。|2|NULL|mission_004_Icon|060101|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000165|NULL|百煉成鋼(III)|通關<color=#D28B27> {0} </color>次。|3|NULL|mission_004_Icon|060101|null|50|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000166|NULL|百煉成鋼(IV)|通關<color=#D28B27> {0} </color>次。|4|NULL|mission_004_Icon|060101|null|80|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000167|NULL|百煉成鋼(V)|通關<color=#D28B27> {0} </color>次。|5|NULL|mission_004_Icon|060101|null|100|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000168|NULL|百煉成鋼(VI)|通關<color=#D28B27> {0} </color>次。|6|NULL|mission_004_Icon|060101|null|150|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000169|NULL|百煉成鋼(VII)|通關<color=#D28B27> {0} </color>次。|7|NULL|mission_004_Icon|060101|null|200|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000170|NULL|牛刀小試(I)|競技場挑戰<color=#D28B27> {0} </color>次。|8|NULL|mission_004_Icon|130103|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000171|NULL|牛刀小試(II)|競技場挑戰<color=#D28B27> {0} </color>次。|9|NULL|mission_004_Icon|130103|null|10|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000172|NULL|牛刀小試(III)|競技場挑戰<color=#D28B27> {0} </color>次。|10|NULL|mission_004_Icon|130103|null|15|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000173|NULL|牛刀小試(IV)|競技場挑戰<color=#D28B27> {0} </color>次。|11|NULL|mission_004_Icon|130103|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000174|NULL|牛刀小試(V)|競技場挑戰<color=#D28B27> {0} </color>次。|12|NULL|mission_004_Icon|130103|null|25|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000175|NULL|牛刀小試(VI)|競技場挑戰<color=#D28B27> {0} </color>次。|13|NULL|mission_004_Icon|130103|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000176|NULL|精力充沛(I)|用鑽石購買體力<color=#D28B27> {0} </color>次。|14|NULL|mission_004_Icon|090201|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000177|NULL|精力充沛(II)|用鑽石購買體力<color=#D28B27> {0} </color>次。|15|NULL|mission_004_Icon|090201|null|10|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000178|NULL|精力充沛(III)|用鑽石購買體力<color=#D28B27> {0} </color>次。|16|NULL|mission_004_Icon|090201|null|20|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000179|NULL|精力充沛(IV)|用鑽石購買體力<color=#D28B27> {0} </color>次。|17|NULL|mission_004_Icon|090201|null|30|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000180|NULL|精力充沛(V)|用鑽石購買體力<color=#D28B27> {0} </color>次。|18|NULL|mission_004_Icon|090201|null|40|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000181|NULL|精力充沛(VI)|用鑽石購買體力<color=#D28B27> {0} </color>次。|19|NULL|mission_004_Icon|090201|null|50|1|NULL|NULL|200000124|15|0|0|NULL|-1┤
+808000182|NULL|閃耀的星(I)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|20|NULL|mission_004_Icon|070101|id:253102400|10|1|NULL|NULL|200000124|3|0|0|NULL|253102400┤
+808000183|NULL|閃耀的星(II)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|21|NULL|mission_004_Icon|070101|id:253102400|20|1|NULL|NULL|200000124|5|0|0|NULL|253102400┤
+808000184|NULL|閃耀的星(III)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|22|NULL|mission_004_Icon|070101|id:253102400|30|1|NULL|NULL|200000124|5|0|0|NULL|253102400┤
+808000185|NULL|閃耀的星(IV)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|23|NULL|mission_004_Icon|070101|id:253102400|40|1|NULL|NULL|200000124|10|0|0|NULL|253102400┤
+808000186|NULL|閃耀的星(V)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|24|NULL|mission_004_Icon|070101|id:253102400|50|1|NULL|NULL|200000124|10|0|0|NULL|253102400┤
+808000187|NULL|閃耀的星(VI)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|25|NULL|mission_004_Icon|070101|id:253102400|80|1|NULL|NULL|200000124|12|0|0|NULL|253102400┤
+808000188|NULL|閃耀的星(VII)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|26|NULL|mission_004_Icon|070101|id:253102400|90|1|NULL|NULL|200000124|12|0|0|NULL|253102400┤
+808000189|NULL|閃耀的星(VIII)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|27|NULL|mission_004_Icon|070101|id:253102400|100|1|NULL|NULL|200000124|12|0|0|NULL|253102400┤
+808000190|NULL|閃耀的星(IX)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|28|NULL|mission_004_Icon|070101|id:253102400|110|1|NULL|NULL|200000124|15|0|0|NULL|253102400┤
+808000191|NULL|閃耀的星(X)|進行『眾神集會 主題召喚』<color=#D28B27> {0} </color>次。|29|NULL|mission_004_Icon|070101|id:253102400|150|1|NULL|NULL|200000124|25|0|0|NULL|253102400┤
+808000192|NULL|天使之賜(I)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|30|NULL|mission_004_Icon|330202|null|10|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000193|NULL|天使之賜(II)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|31|NULL|mission_004_Icon|330202|null|20|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000194|NULL|天使之賜(III)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|32|NULL|mission_004_Icon|330202|null|30|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000195|NULL|天使之賜(IV)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|33|NULL|mission_004_Icon|330202|null|45|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000196|NULL|天使之賜(V)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|34|NULL|mission_004_Icon|330202|null|60|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000197|NULL|天使之賜(VI)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|35|NULL|mission_004_Icon|330202|null|80|1|NULL|NULL|200000124|12|0|0|NULL|-1┤
+808000198|NULL|特別限時任務|累績到 {0} 層數|36|NULL|mission_004_Icon|330102|null|10|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000199|NULL|特別限時任務|累績到 {0} 層數|37|NULL|mission_004_Icon|330102|null|20|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000200|NULL|特別限時任務|累績到 {0} 層數|38|NULL|mission_004_Icon|330102|null|30|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000201|NULL|特別限時任務|累績到 {0} 層數|39|NULL|mission_004_Icon|330102|null|40|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000202|NULL|特別限時任務|累績到 {0} 層數|40|NULL|mission_004_Icon|330102|null|50|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000203|NULL|特別限時任務|累績到 {0} 層數|41|NULL|mission_004_Icon|330102|null|75|1|NULL|NULL|200000127|3|0|0|NULL|-1┤
+808000204|NULL|特別限時任務|累績到 {0} 層數|42|NULL|mission_004_Icon|330102|null|100|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000205|NULL|特別限時任務|累績到 {0} 層數|43|NULL|mission_004_Icon|330102|null|150|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000206|NULL|特別限時任務|累績到 {0} 層數|44|NULL|mission_004_Icon|330102|null|200|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000207|NULL|特別限時任務|累績到 {0} 層數|45|NULL|mission_004_Icon|330102|null|250|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000208|NULL|特別限時任務|累績到 {0} 層數|46|NULL|mission_004_Icon|330102|null|300|1|NULL|NULL|200000127|10|0|0|NULL|-1┤
+808000209|NULL|百煉成鋼(I)|通關<color=#D28B27> {0} </color>次。|1|NULL|mission_004_Icon|060101|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000210|NULL|百煉成鋼(II)|通關<color=#D28B27> {0} </color>次。|2|NULL|mission_004_Icon|060101|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000211|NULL|百煉成鋼(III)|通關<color=#D28B27> {0} </color>次。|3|NULL|mission_004_Icon|060101|null|50|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000212|NULL|百煉成鋼(IV)|通關<color=#D28B27> {0} </color>次。|4|NULL|mission_004_Icon|060101|null|80|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000213|NULL|百煉成鋼(V)|通關<color=#D28B27> {0} </color>次。|5|NULL|mission_004_Icon|060101|null|100|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000214|NULL|百煉成鋼(VI)|通關<color=#D28B27> {0} </color>次。|6|NULL|mission_004_Icon|060101|null|150|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000215|NULL|百煉成鋼(VII)|通關<color=#D28B27> {0} </color>次。|7|NULL|mission_004_Icon|060101|null|200|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000216|NULL|牛刀小試(I)|競技場挑戰<color=#D28B27> {0} </color>次。|8|NULL|mission_004_Icon|130103|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000217|NULL|牛刀小試(II)|競技場挑戰<color=#D28B27> {0} </color>次。|9|NULL|mission_004_Icon|130103|null|10|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000218|NULL|牛刀小試(III)|競技場挑戰<color=#D28B27> {0} </color>次。|10|NULL|mission_004_Icon|130103|null|15|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000219|NULL|牛刀小試(IV)|競技場挑戰<color=#D28B27> {0} </color>次。|11|NULL|mission_004_Icon|130103|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000220|NULL|牛刀小試(V)|競技場挑戰<color=#D28B27> {0} </color>次。|12|NULL|mission_004_Icon|130103|null|25|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000221|NULL|牛刀小試(VI)|競技場挑戰<color=#D28B27> {0} </color>次。|13|NULL|mission_004_Icon|130103|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000222|NULL|精力充沛(I)|用鑽石購買體力<color=#D28B27> {0} </color>次。|14|NULL|mission_004_Icon|090201|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000223|NULL|精力充沛(II)|用鑽石購買體力<color=#D28B27> {0} </color>次。|15|NULL|mission_004_Icon|090201|null|10|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000224|NULL|精力充沛(III)|用鑽石購買體力<color=#D28B27> {0} </color>次。|16|NULL|mission_004_Icon|090201|null|20|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000225|NULL|精力充沛(IV)|用鑽石購買體力<color=#D28B27> {0} </color>次。|17|NULL|mission_004_Icon|090201|null|30|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000226|NULL|精力充沛(V)|用鑽石購買體力<color=#D28B27> {0} </color>次。|18|NULL|mission_004_Icon|090201|null|40|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000227|NULL|精力充沛(VI)|用鑽石購買體力<color=#D28B27> {0} </color>次。|19|NULL|mission_004_Icon|090201|null|50|1|NULL|NULL|200000124|15|0|0|NULL|-1┤
+808000228|NULL|閃耀的星(I)|進行『狐影酒香之夜 主題召喚』<color=#D28B27> {0} </color>次。|20|NULL|mission_004_Icon|070101|id:253101900|10|1|NULL|NULL|200000124|3|0|0|NULL|253101900┤
+808000229|NULL|閃耀的星(II)|進行『狐影酒香之夜 主題召喚』<color=#D28B27> {0} </color>次。|21|NULL|mission_004_Icon|070101|id:253101900|20|1|NULL|NULL|200000124|5|0|0|NULL|253101900┤
+808000230|NULL|閃耀的星(III)|進行『狐影酒香之夜 主題召喚』<color=#D28B27> {0} </color>次。|22|NULL|mission_004_Icon|070101|id:253101900|30|1|NULL|NULL|200000124|5|0|0|NULL|253101900┤
+808000231|NULL|閃耀的星(IV)|進行『狐影酒香之夜 主題召喚』<color=#D28B27> {0} </color>次。|23|NULL|mission_004_Icon|070101|id:253101900|40|1|NULL|NULL|200000124|10|0|0|NULL|253101900┤
+808000232|NULL|閃耀的星(V)|進行『狐影酒香之夜 主題召喚』<color=#D28B27> {0} </color>次。|24|NULL|mission_004_Icon|070101|id:253101900|50|1|NULL|NULL|200000124|10|0|0|NULL|253101900┤
+808000233|NULL|閃耀的星(VI)|進行『狐影酒香之夜 主題召喚』<color=#D28B27> {0} </color>次。|25|NULL|mission_004_Icon|070101|id:253101900|80|1|NULL|NULL|200000124|12|0|0|NULL|253101900┤
+808000234|NULL|閃耀的星(VII)|進行『狐影酒香之夜 主題召喚』<color=#D28B27> {0} </color>次。|26|NULL|mission_004_Icon|070101|id:253101900|90|1|NULL|NULL|200000124|12|0|0|NULL|253101900┤
+808000235|NULL|閃耀的星(VIII)|進行『狐影酒香之夜 主題召喚』<color=#D28B27> {0} </color>次。|27|NULL|mission_004_Icon|070101|id:253101900|100|1|NULL|NULL|200000124|12|0|0|NULL|253101900┤
+808000236|NULL|閃耀的星(IX)|進行『狐影酒香之夜 主題召喚』<color=#D28B27> {0} </color>次。|28|NULL|mission_004_Icon|070101|id:253101900|110|1|NULL|NULL|200000124|15|0|0|NULL|253101900┤
+808000237|NULL|閃耀的星(X)|進行『狐影酒香之夜 主題召喚』<color=#D28B27> {0} </color>次。|29|NULL|mission_004_Icon|070101|id:253101900|150|1|NULL|NULL|200000124|25|0|0|NULL|253101900┤
+808000238|NULL|天使之賜(I)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|30|NULL|mission_004_Icon|330202|null|10|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000239|NULL|天使之賜(II)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|31|NULL|mission_004_Icon|330202|null|20|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000240|NULL|天使之賜(III)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|32|NULL|mission_004_Icon|330202|null|30|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000241|NULL|天使之賜(IV)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|33|NULL|mission_004_Icon|330202|null|45|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000242|NULL|天使之賜(V)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|34|NULL|mission_004_Icon|330202|null|60|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000243|NULL|天使之賜(VI)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|35|NULL|mission_004_Icon|330202|null|80|1|NULL|NULL|200000124|12|0|0|NULL|-1┤
+808000244|NULL|特別限時任務|累績到 {0} 層數|36|NULL|mission_004_Icon|330102|null|10|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000245|NULL|特別限時任務|累績到 {0} 層數|37|NULL|mission_004_Icon|330102|null|20|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000246|NULL|特別限時任務|累績到 {0} 層數|38|NULL|mission_004_Icon|330102|null|30|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000247|NULL|特別限時任務|累績到 {0} 層數|39|NULL|mission_004_Icon|330102|null|40|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000248|NULL|特別限時任務|累績到 {0} 層數|40|NULL|mission_004_Icon|330102|null|50|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000249|NULL|特別限時任務|累績到 {0} 層數|41|NULL|mission_004_Icon|330102|null|75|1|NULL|NULL|200000127|3|0|0|NULL|-1┤
+808000250|NULL|特別限時任務|累績到 {0} 層數|42|NULL|mission_004_Icon|330102|null|100|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000251|NULL|特別限時任務|累績到 {0} 層數|43|NULL|mission_004_Icon|330102|null|150|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000252|NULL|特別限時任務|累績到 {0} 層數|44|NULL|mission_004_Icon|330102|null|200|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000253|NULL|特別限時任務|累績到 {0} 層數|45|NULL|mission_004_Icon|330102|null|250|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000254|NULL|特別限時任務|累績到 {0} 層數|46|NULL|mission_004_Icon|330102|null|300|1|NULL|NULL|200000127|10|0|0|NULL|-1┤
+808000255|NULL|百煉成鋼(I)|通關<color=#D28B27> {0} </color>次。|1|NULL|mission_004_Icon|060101|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000256|NULL|百煉成鋼(II)|通關<color=#D28B27> {0} </color>次。|2|NULL|mission_004_Icon|060101|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000257|NULL|百煉成鋼(III)|通關<color=#D28B27> {0} </color>次。|3|NULL|mission_004_Icon|060101|null|50|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000258|NULL|百煉成鋼(IV)|通關<color=#D28B27> {0} </color>次。|4|NULL|mission_004_Icon|060101|null|80|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000259|NULL|百煉成鋼(V)|通關<color=#D28B27> {0} </color>次。|5|NULL|mission_004_Icon|060101|null|100|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000260|NULL|百煉成鋼(VI)|通關<color=#D28B27> {0} </color>次。|6|NULL|mission_004_Icon|060101|null|150|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000261|NULL|百煉成鋼(VII)|通關<color=#D28B27> {0} </color>次。|7|NULL|mission_004_Icon|060101|null|200|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000262|NULL|牛刀小試(I)|競技場挑戰<color=#D28B27> {0} </color>次。|8|NULL|mission_004_Icon|130103|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000263|NULL|牛刀小試(II)|競技場挑戰<color=#D28B27> {0} </color>次。|9|NULL|mission_004_Icon|130103|null|10|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000264|NULL|牛刀小試(III)|競技場挑戰<color=#D28B27> {0} </color>次。|10|NULL|mission_004_Icon|130103|null|15|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000265|NULL|牛刀小試(IV)|競技場挑戰<color=#D28B27> {0} </color>次。|11|NULL|mission_004_Icon|130103|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000266|NULL|牛刀小試(V)|競技場挑戰<color=#D28B27> {0} </color>次。|12|NULL|mission_004_Icon|130103|null|25|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000267|NULL|牛刀小試(VI)|競技場挑戰<color=#D28B27> {0} </color>次。|13|NULL|mission_004_Icon|130103|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000268|NULL|精力充沛(I)|用鑽石購買體力<color=#D28B27> {0} </color>次。|14|NULL|mission_004_Icon|090201|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000269|NULL|精力充沛(II)|用鑽石購買體力<color=#D28B27> {0} </color>次。|15|NULL|mission_004_Icon|090201|null|10|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000270|NULL|精力充沛(III)|用鑽石購買體力<color=#D28B27> {0} </color>次。|16|NULL|mission_004_Icon|090201|null|20|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000271|NULL|精力充沛(IV)|用鑽石購買體力<color=#D28B27> {0} </color>次。|17|NULL|mission_004_Icon|090201|null|30|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000272|NULL|精力充沛(V)|用鑽石購買體力<color=#D28B27> {0} </color>次。|18|NULL|mission_004_Icon|090201|null|40|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000273|NULL|精力充沛(VI)|用鑽石購買體力<color=#D28B27> {0} </color>次。|19|NULL|mission_004_Icon|090201|null|50|1|NULL|NULL|200000124|15|0|0|NULL|-1┤
+808000274|NULL|閃耀的星(I)|進行『法老與神官 主題召喚』<color=#D28B27> {0} </color>次。|20|NULL|mission_004_Icon|070101|id:253102000|10|1|NULL|NULL|200000124|3|0|0|NULL|253102000┤
+808000275|NULL|閃耀的星(II)|進行『法老與神官 主題召喚』<color=#D28B27> {0} </color>次。|21|NULL|mission_004_Icon|070101|id:253102000|20|1|NULL|NULL|200000124|5|0|0|NULL|253102000┤
+808000276|NULL|閃耀的星(III)|進行『法老與神官 主題召喚』<color=#D28B27> {0} </color>次。|22|NULL|mission_004_Icon|070101|id:253102000|30|1|NULL|NULL|200000124|5|0|0|NULL|253102000┤
+808000277|NULL|閃耀的星(IV)|進行『法老與神官 主題召喚』<color=#D28B27> {0} </color>次。|23|NULL|mission_004_Icon|070101|id:253102000|40|1|NULL|NULL|200000124|10|0|0|NULL|253102000┤
+808000278|NULL|閃耀的星(V)|進行『法老與神官 主題召喚』<color=#D28B27> {0} </color>次。|24|NULL|mission_004_Icon|070101|id:253102000|50|1|NULL|NULL|200000124|10|0|0|NULL|253102000┤
+808000279|NULL|閃耀的星(VI)|進行『法老與神官 主題召喚』<color=#D28B27> {0} </color>次。|25|NULL|mission_004_Icon|070101|id:253102000|80|1|NULL|NULL|200000124|12|0|0|NULL|253102000┤
+808000280|NULL|閃耀的星(VII)|進行『法老與神官 主題召喚』<color=#D28B27> {0} </color>次。|26|NULL|mission_004_Icon|070101|id:253102000|90|1|NULL|NULL|200000124|12|0|0|NULL|253102000┤
+808000281|NULL|閃耀的星(VIII)|進行『法老與神官 主題召喚』<color=#D28B27> {0} </color>次。|27|NULL|mission_004_Icon|070101|id:253102000|100|1|NULL|NULL|200000124|12|0|0|NULL|253102000┤
+808000282|NULL|閃耀的星(IX)|進行『法老與神官 主題召喚』<color=#D28B27> {0} </color>次。|28|NULL|mission_004_Icon|070101|id:253102000|110|1|NULL|NULL|200000124|15|0|0|NULL|253102000┤
+808000283|NULL|閃耀的星(X)|進行『法老與神官 主題召喚』<color=#D28B27> {0} </color>次。|29|NULL|mission_004_Icon|070101|id:253102000|150|1|NULL|NULL|200000124|25|0|0|NULL|253102000┤
+808000284|NULL|天使之賜(I)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|30|NULL|mission_004_Icon|330202|null|10|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000285|NULL|天使之賜(II)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|31|NULL|mission_004_Icon|330202|null|20|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000286|NULL|天使之賜(III)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|32|NULL|mission_004_Icon|330202|null|30|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000287|NULL|天使之賜(IV)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|33|NULL|mission_004_Icon|330202|null|45|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000288|NULL|天使之賜(V)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|34|NULL|mission_004_Icon|330202|null|60|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000289|NULL|天使之賜(VI)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|35|NULL|mission_004_Icon|330202|null|80|1|NULL|NULL|200000124|12|0|0|NULL|-1┤
+808000290|NULL|特別限時任務|累績到 {0} 層數|36|NULL|mission_004_Icon|330102|null|10|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000291|NULL|特別限時任務|累績到 {0} 層數|37|NULL|mission_004_Icon|330102|null|20|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000292|NULL|特別限時任務|累績到 {0} 層數|38|NULL|mission_004_Icon|330102|null|30|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000293|NULL|特別限時任務|累績到 {0} 層數|39|NULL|mission_004_Icon|330102|null|40|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000294|NULL|特別限時任務|累績到 {0} 層數|40|NULL|mission_004_Icon|330102|null|50|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000295|NULL|特別限時任務|累績到 {0} 層數|41|NULL|mission_004_Icon|330102|null|75|1|NULL|NULL|200000127|3|0|0|NULL|-1┤
+808000296|NULL|特別限時任務|累績到 {0} 層數|42|NULL|mission_004_Icon|330102|null|100|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000297|NULL|特別限時任務|累績到 {0} 層數|43|NULL|mission_004_Icon|330102|null|150|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000298|NULL|特別限時任務|累績到 {0} 層數|44|NULL|mission_004_Icon|330102|null|200|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000299|NULL|特別限時任務|累績到 {0} 層數|45|NULL|mission_004_Icon|330102|null|250|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000300|NULL|特別限時任務|累績到 {0} 層數|46|NULL|mission_004_Icon|330102|null|300|1|NULL|NULL|200000127|10|0|0|NULL|-1┤
+808000301|NULL|百煉成鋼(I)|通關<color=#D28B27> {0} </color>次。|1|NULL|mission_004_Icon|060101|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000302|NULL|百煉成鋼(II)|通關<color=#D28B27> {0} </color>次。|2|NULL|mission_004_Icon|060101|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000303|NULL|百煉成鋼(III)|通關<color=#D28B27> {0} </color>次。|3|NULL|mission_004_Icon|060101|null|50|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000304|NULL|百煉成鋼(IV)|通關<color=#D28B27> {0} </color>次。|4|NULL|mission_004_Icon|060101|null|80|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000305|NULL|百煉成鋼(V)|通關<color=#D28B27> {0} </color>次。|5|NULL|mission_004_Icon|060101|null|100|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000306|NULL|百煉成鋼(VI)|通關<color=#D28B27> {0} </color>次。|6|NULL|mission_004_Icon|060101|null|150|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000307|NULL|百煉成鋼(VII)|通關<color=#D28B27> {0} </color>次。|7|NULL|mission_004_Icon|060101|null|200|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000308|NULL|牛刀小試(I)|競技場挑戰<color=#D28B27> {0} </color>次。|8|NULL|mission_004_Icon|130103|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000309|NULL|牛刀小試(II)|競技場挑戰<color=#D28B27> {0} </color>次。|9|NULL|mission_004_Icon|130103|null|10|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000310|NULL|牛刀小試(III)|競技場挑戰<color=#D28B27> {0} </color>次。|10|NULL|mission_004_Icon|130103|null|15|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000311|NULL|牛刀小試(IV)|競技場挑戰<color=#D28B27> {0} </color>次。|11|NULL|mission_004_Icon|130103|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000312|NULL|牛刀小試(V)|競技場挑戰<color=#D28B27> {0} </color>次。|12|NULL|mission_004_Icon|130103|null|25|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000313|NULL|牛刀小試(VI)|競技場挑戰<color=#D28B27> {0} </color>次。|13|NULL|mission_004_Icon|130103|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000314|NULL|精力充沛(I)|用鑽石購買體力<color=#D28B27> {0} </color>次。|14|NULL|mission_004_Icon|090201|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000315|NULL|精力充沛(II)|用鑽石購買體力<color=#D28B27> {0} </color>次。|15|NULL|mission_004_Icon|090201|null|10|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000316|NULL|精力充沛(III)|用鑽石購買體力<color=#D28B27> {0} </color>次。|16|NULL|mission_004_Icon|090201|null|20|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000317|NULL|精力充沛(IV)|用鑽石購買體力<color=#D28B27> {0} </color>次。|17|NULL|mission_004_Icon|090201|null|30|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000318|NULL|精力充沛(V)|用鑽石購買體力<color=#D28B27> {0} </color>次。|18|NULL|mission_004_Icon|090201|null|40|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000319|NULL|精力充沛(VI)|用鑽石購買體力<color=#D28B27> {0} </color>次。|19|NULL|mission_004_Icon|090201|null|50|1|NULL|NULL|200000124|15|0|0|NULL|-1┤
+808000320|NULL|閃耀的星(I)|進行『時之螺旋 主題召喚』<color=#D28B27> {0} </color>次。|20|NULL|mission_004_Icon|070101|id:253102800|10|1|NULL|NULL|200000124|3|0|0|NULL|253102800┤
+808000321|NULL|閃耀的星(II)|進行『時之螺旋 主題召喚』<color=#D28B27> {0} </color>次。|21|NULL|mission_004_Icon|070101|id:253102800|20|1|NULL|NULL|200000124|5|0|0|NULL|253102800┤
+808000322|NULL|閃耀的星(III)|進行『時之螺旋 主題召喚』<color=#D28B27> {0} </color>次。|22|NULL|mission_004_Icon|070101|id:253102800|30|1|NULL|NULL|200000124|5|0|0|NULL|253102800┤
+808000323|NULL|閃耀的星(IV)|進行『時之螺旋 主題召喚』<color=#D28B27> {0} </color>次。|23|NULL|mission_004_Icon|070101|id:253102800|40|1|NULL|NULL|200000124|10|0|0|NULL|253102800┤
+808000324|NULL|閃耀的星(V)|進行『時之螺旋 主題召喚』<color=#D28B27> {0} </color>次。|24|NULL|mission_004_Icon|070101|id:253102800|50|1|NULL|NULL|200000124|10|0|0|NULL|253102800┤
+808000325|NULL|閃耀的星(VI)|進行『時之螺旋 主題召喚』<color=#D28B27> {0} </color>次。|25|NULL|mission_004_Icon|070101|id:253102800|80|1|NULL|NULL|200000124|12|0|0|NULL|253102800┤
+808000326|NULL|閃耀的星(VII)|進行『時之螺旋 主題召喚』<color=#D28B27> {0} </color>次。|26|NULL|mission_004_Icon|070101|id:253102800|90|1|NULL|NULL|200000124|12|0|0|NULL|253102800┤
+808000327|NULL|閃耀的星(VIII)|進行『時之螺旋 主題召喚』<color=#D28B27> {0} </color>次。|27|NULL|mission_004_Icon|070101|id:253102800|100|1|NULL|NULL|200000124|12|0|0|NULL|253102800┤
+808000328|NULL|閃耀的星(IX)|進行『時之螺旋 主題召喚』<color=#D28B27> {0} </color>次。|28|NULL|mission_004_Icon|070101|id:253102800|110|1|NULL|NULL|200000124|15|0|0|NULL|253102800┤
+808000329|NULL|閃耀的星(X)|進行『時之螺旋 主題召喚』<color=#D28B27> {0} </color>次。|29|NULL|mission_004_Icon|070101|id:253102800|150|1|NULL|NULL|200000124|25|0|0|NULL|253102800┤
+808000330|NULL|天使之賜(I)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|30|NULL|mission_004_Icon|330202|null|10|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000331|NULL|天使之賜(II)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|31|NULL|mission_004_Icon|330202|null|20|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000332|NULL|天使之賜(III)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|32|NULL|mission_004_Icon|330202|null|30|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000333|NULL|天使之賜(IV)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|33|NULL|mission_004_Icon|330202|null|45|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000334|NULL|天使之賜(V)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|34|NULL|mission_004_Icon|330202|null|60|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000335|NULL|天使之賜(VI)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|35|NULL|mission_004_Icon|330202|null|80|1|NULL|NULL|200000124|12|0|0|NULL|-1┤
+808000336|NULL|特別限時任務|累績到 {0} 層數|36|NULL|mission_004_Icon|330102|null|10|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000337|NULL|特別限時任務|累績到 {0} 層數|37|NULL|mission_004_Icon|330102|null|20|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000338|NULL|特別限時任務|累績到 {0} 層數|38|NULL|mission_004_Icon|330102|null|30|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000339|NULL|特別限時任務|累績到 {0} 層數|39|NULL|mission_004_Icon|330102|null|40|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000340|NULL|特別限時任務|累績到 {0} 層數|40|NULL|mission_004_Icon|330102|null|50|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000341|NULL|特別限時任務|累績到 {0} 層數|41|NULL|mission_004_Icon|330102|null|75|1|NULL|NULL|200000127|3|0|0|NULL|-1┤
+808000342|NULL|特別限時任務|累績到 {0} 層數|42|NULL|mission_004_Icon|330102|null|100|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000343|NULL|特別限時任務|累績到 {0} 層數|43|NULL|mission_004_Icon|330102|null|150|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000344|NULL|特別限時任務|累績到 {0} 層數|44|NULL|mission_004_Icon|330102|null|200|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000345|NULL|特別限時任務|累績到 {0} 層數|45|NULL|mission_004_Icon|330102|null|250|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000346|NULL|特別限時任務|累績到 {0} 層數|46|NULL|mission_004_Icon|330102|null|300|1|NULL|NULL|200000127|10|0|0|NULL|-1┤
+808000347|NULL|百煉成鋼(I)|通關<color=#D28B27> {0} </color>次。|1|NULL|mission_004_Icon|060101|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000348|NULL|百煉成鋼(II)|通關<color=#D28B27> {0} </color>次。|2|NULL|mission_004_Icon|060101|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000349|NULL|百煉成鋼(III)|通關<color=#D28B27> {0} </color>次。|3|NULL|mission_004_Icon|060101|null|50|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000350|NULL|百煉成鋼(IV)|通關<color=#D28B27> {0} </color>次。|4|NULL|mission_004_Icon|060101|null|80|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000351|NULL|百煉成鋼(V)|通關<color=#D28B27> {0} </color>次。|5|NULL|mission_004_Icon|060101|null|100|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000352|NULL|百煉成鋼(VI)|通關<color=#D28B27> {0} </color>次。|6|NULL|mission_004_Icon|060101|null|150|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000353|NULL|百煉成鋼(VII)|通關<color=#D28B27> {0} </color>次。|7|NULL|mission_004_Icon|060101|null|200|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000354|NULL|牛刀小試(I)|競技場挑戰<color=#D28B27> {0} </color>次。|8|NULL|mission_004_Icon|130103|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000355|NULL|牛刀小試(II)|競技場挑戰<color=#D28B27> {0} </color>次。|9|NULL|mission_004_Icon|130103|null|10|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000356|NULL|牛刀小試(III)|競技場挑戰<color=#D28B27> {0} </color>次。|10|NULL|mission_004_Icon|130103|null|15|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000357|NULL|牛刀小試(IV)|競技場挑戰<color=#D28B27> {0} </color>次。|11|NULL|mission_004_Icon|130103|null|20|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000358|NULL|牛刀小試(V)|競技場挑戰<color=#D28B27> {0} </color>次。|12|NULL|mission_004_Icon|130103|null|25|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000359|NULL|牛刀小試(VI)|競技場挑戰<color=#D28B27> {0} </color>次。|13|NULL|mission_004_Icon|130103|null|30|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000360|NULL|精力充沛(I)|用鑽石購買體力<color=#D28B27> {0} </color>次。|14|NULL|mission_004_Icon|090201|null|5|1|NULL|NULL|200000124|3|0|0|NULL|-1┤
+808000361|NULL|精力充沛(II)|用鑽石購買體力<color=#D28B27> {0} </color>次。|15|NULL|mission_004_Icon|090201|null|10|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000362|NULL|精力充沛(III)|用鑽石購買體力<color=#D28B27> {0} </color>次。|16|NULL|mission_004_Icon|090201|null|20|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000363|NULL|精力充沛(IV)|用鑽石購買體力<color=#D28B27> {0} </color>次。|17|NULL|mission_004_Icon|090201|null|30|1|NULL|NULL|200000124|5|0|0|NULL|-1┤
+808000364|NULL|精力充沛(V)|用鑽石購買體力<color=#D28B27> {0} </color>次。|18|NULL|mission_004_Icon|090201|null|40|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000365|NULL|精力充沛(VI)|用鑽石購買體力<color=#D28B27> {0} </color>次。|19|NULL|mission_004_Icon|090201|null|50|1|NULL|NULL|200000124|15|0|0|NULL|-1┤
+808000366|NULL|閃耀的星(I)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|20|NULL|mission_004_Icon|070101|id:253102600|10|1|NULL|NULL|200000124|3|0|0|NULL|253102600┤
+808000367|NULL|閃耀的星(II)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|21|NULL|mission_004_Icon|070101|id:253102600|20|1|NULL|NULL|200000124|5|0|0|NULL|253102600┤
+808000368|NULL|閃耀的星(III)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|22|NULL|mission_004_Icon|070101|id:253102600|30|1|NULL|NULL|200000124|5|0|0|NULL|253102600┤
+808000369|NULL|閃耀的星(IV)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|23|NULL|mission_004_Icon|070101|id:253102600|40|1|NULL|NULL|200000124|10|0|0|NULL|253102600┤
+808000370|NULL|閃耀的星(V)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|24|NULL|mission_004_Icon|070101|id:253102600|50|1|NULL|NULL|200000124|10|0|0|NULL|253102600┤
+808000371|NULL|閃耀的星(VI)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|25|NULL|mission_004_Icon|070101|id:253102600|80|1|NULL|NULL|200000124|12|0|0|NULL|253102600┤
+808000372|NULL|閃耀的星(VII)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|26|NULL|mission_004_Icon|070101|id:253102600|90|1|NULL|NULL|200000124|12|0|0|NULL|253102600┤
+808000373|NULL|閃耀的星(VIII)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|27|NULL|mission_004_Icon|070101|id:253102600|100|1|NULL|NULL|200000124|12|0|0|NULL|253102600┤
+808000374|NULL|閃耀的星(IX)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|28|NULL|mission_004_Icon|070101|id:253102600|110|1|NULL|NULL|200000124|15|0|0|NULL|253102600┤
+808000375|NULL|閃耀的星(X)|進行『誓約聖劍 主題召喚』<color=#D28B27> {0} </color>次。|29|NULL|mission_004_Icon|070101|id:253102600|150|1|NULL|NULL|200000124|25|0|0|NULL|253102600┤
+808000376|NULL|天使之賜(I)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|30|NULL|mission_004_Icon|330202|null|10|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000377|NULL|天使之賜(II)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|31|NULL|mission_004_Icon|330202|null|20|1|NULL|NULL|200000124|6|0|0|NULL|-1┤
+808000378|NULL|天使之賜(III)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|32|NULL|mission_004_Icon|330202|null|30|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000379|NULL|天使之賜(IV)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|33|NULL|mission_004_Icon|330202|null|45|1|NULL|NULL|200000124|8|0|0|NULL|-1┤
+808000380|NULL|天使之賜(V)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|34|NULL|mission_004_Icon|330202|null|60|1|NULL|NULL|200000124|10|0|0|NULL|-1┤
+808000381|NULL|天使之賜(VI)|消耗鑽石購買鋤頭<color=#D28B27> {0} </color>次。|35|NULL|mission_004_Icon|330202|null|80|1|NULL|NULL|200000124|12|0|0|NULL|-1┤
+808000382|NULL|特別限時任務|累績到 {0} 層數|36|NULL|mission_004_Icon|330102|null|10|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000383|NULL|特別限時任務|累績到 {0} 層數|37|NULL|mission_004_Icon|330102|null|20|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000384|NULL|特別限時任務|累績到 {0} 層數|38|NULL|mission_004_Icon|330102|null|30|1|NULL|NULL|200000127|1|0|0|NULL|-1┤
+808000385|NULL|特別限時任務|累績到 {0} 層數|39|NULL|mission_004_Icon|330102|null|40|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000386|NULL|特別限時任務|累績到 {0} 層數|40|NULL|mission_004_Icon|330102|null|50|1|NULL|NULL|200000127|2|0|0|NULL|-1┤
+808000387|NULL|特別限時任務|累績到 {0} 層數|41|NULL|mission_004_Icon|330102|null|75|1|NULL|NULL|200000127|3|0|0|NULL|-1┤
+808000388|NULL|特別限時任務|累績到 {0} 層數|42|NULL|mission_004_Icon|330102|null|100|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000389|NULL|特別限時任務|累績到 {0} 層數|43|NULL|mission_004_Icon|330102|null|150|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000390|NULL|特別限時任務|累績到 {0} 層數|44|NULL|mission_004_Icon|330102|null|200|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000391|NULL|特別限時任務|累績到 {0} 層數|45|NULL|mission_004_Icon|330102|null|250|1|NULL|NULL|200000127|5|0|0|NULL|-1┤
+808000392|NULL|特別限時任務|累績到 {0} 層數|46|NULL|mission_004_Icon|330102|null|300|1|NULL|NULL|200000127|10|0|0|NULL|-1┤

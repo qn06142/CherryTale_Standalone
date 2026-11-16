@@ -1,0 +1,97 @@
+chineseStr_Key|vivn┤
+※新玩家或是已綁定的帳號請選擇工口登入，遊戲帳號僅提供未綁定玩家使用。|※Đối với người chơi mới hoặc Tài khoản đã được liên kết, vui lòng chọn Đăng nhập ERO, Tài khoản trò chơi chỉ khả dụng cho người chơi chưa được liên kết.┤
+4G/Wifi連線不穩，請勇者大人確認一下連線噢！|Kết nối 4G/Wifi không ổn định, Dũng sỹ vui lòng xác nhận kết nối.┤
+DLsite帳號|Tài khoản DLsite┤
+DLsite登入|Đăng nhập DLsite┤
+Email格式不符|Định dạng Email không hợp lệ┤
+Email帳號|Tài khoản Email┤
+EROLABS登入失敗，請再試一次。|Đăng nhập EROLABS thất bại, vui lòng thử lại┤
+Touch To Start|Chạm để bắt đầu┤
+Unzipping....|Đang giải nén....┤
+プライバシーポリシー|Chính sách bảo mật┤
+下載逾時，請重新請求|Đã hết thời gian tải xuống, vui lòng thử lại┤
+工口登入|Đăng nhập ERO┤
+不同意|Không đồng ý┤
+切換帳號|Chuyển đổi Tài khoản┤
+切換語系|Chuyển đổi#ngôn ngữ┤
+正在努力準備檔案，請稍等一下~|Đang cố gắng tải dữ liệu, vui lòng đợi trong giây lát~┤
+用戶ID：{0}#用戶名：{1}#端末信息：{2}#軟件版本：{3}#-請不要刪除上見面的信息-#正文:#|ID người dùng: {0}#Tên người dùng: {1}#Thông tin thiết bị: {2}#Phiên bản phần mềm: {3}#-Vui lòng không xóa thông tin về lần gặp mặt trước-#Văn bản:#┤
+目前奇幻旅程人潮眾多，請耐心等候。|Hiện tại, có rất nhiều người trong Chuyến phiêu lưu kỳ ảo, hãy kiên nhẫn chờ đợi┤
+目前奇幻旅程排隊進入中，已幫您優先排隊。#請按「確認」重新嘗試連線。|Hiện tại, Chuyến phiêu lưu kỳ ảo đang tiến hành xếp hàng, bạn đã được ưu tiên xếp hàng. #Vui lòng nhấp vào "Xác nhận" để thử kết nối lại┤
+目前網路不穩斷線了，請按「確認」重新連線。|Mạng hiện tại không ổn định và bị ngắt kết nối. Vui lòng nhấp vào "Xác nhận" để kết nối lại┤
+立即下載|Tải ngay┤
+同意|Đồng ý┤
+同意利用規約|Đồng ý với Điều khoản sử dụng┤
+有進度|Có tiến độ┤
+自動關閉|Tự động tắt┤
+伺服器關機進入維運，將回到登入畫面。|Máy chủ tắt để tiến hành bảo trì, quay lại màn hình Đăng nhập┤
+利用規約|Điều khoản sử dụng┤
+我已閱讀所有條款|Tôi đã đọc tất cả các điều khoản┤
+沒有帳號|Không có Tài khoản┤
+沒有輸入密碼|Chưa nhập mật khẩu┤
+沒有輸入帳號|Chưa nhập Tài khoản┤
+系統資訊|Thông tin hệ thống┤
+取消|Hủy bỏ┤
+返回|Quay lại┤
+前後密碼不符|Mật khẩu không khớp┤
+客服中心|CSKH┤
+是否已有遊戲進度？|Đã có tiến độ trò chơi?┤
+是否確定「綁定」{0}帳號？|Bạn có chắc chắn "liên kết" Tài khoản {0} không?┤
+要使用此遊戲，您必須同意服務條款和隱私政策。|Để sử dụng trò chơi này, bạn phải đồng ý với Điều khoản dịch vụ và Chính sách quyền riêng tư.┤
+重新連線|Kết nối lại┤
+重複登入，將回到登入畫面。|Đăng nhập lại và quay lại màn hình Đăng nhập┤
+特別提醒！此{0}帳號已有進度，無法執行榜定動作|Nhắc nhở đặc biệt! Tài khoản {0} này đã được xử lý và không thể thực hiện hành động được chỉ định┤
+特定商取引法に基づく表記|Ký hiệu dựa trên luật giao dịch thương mại đặc biệt┤
+密碼|Mật khẩu┤
+密碼確認|Xác nhận mật khẩu┤
+將會刪除所有已下載的遊戲資源|Sẽ xóa tất cả nội dung trò chơi đã tải xuống┤
+帳號已綁定，將使用工口帳號登入。|Tài khoản đã được liên kết và sẽ được Đăng nhập bằng Tài khoản ERO┤
+帳號密碼不符|Mật khẩu không khớp┤
+帳號權限被暫停|Tạm ngưng Quyền Tài Khoản┤
+您在的區域不支援此服務。|Dịch vụ này không được hỗ trợ tại khu vực của bạn┤
+清除暫存|Xóa bộ nhớ tạm┤
+清除暫存警告|Xóa cảnh báo tạm thời┤
+訪客登入|Đăng nhập của khách┤
+軟更新資訊|Thông tin cập nhật phần mềm┤
+連線中...請稍候|Đang kết nối... vui lòng đợi┤
+最新|Mới nhất┤
+無法使用已綁定過的遊戲帳號登入。|Không thể Đăng nhập bằng Tài khoản trò chơi được liên kết.┤
+無法取得資源，遊戲將重新登入。|Không thể nhận tài nguyên, Trò chơi sẽ tự động Đăng nhập lại┤
+無法連線，將重新登入。|Không thể kết nối, hãy Đăng nhập lại┤
+登入|Đăng nhập┤
+登入失敗|Đăng nhập Thất bại┤
+登入帳號|Tài khoản Đăng nhập┤
+發生錯誤，請再試一次。|Có lỗi xảy ra. Vui lòng thử lại┤
+稍後|Để sau┤
+註冊|Đăng ký┤
+註冊新帳號|Đăng ký Tài khoản mới┤
+進入遊戲|Vào trò chơi┤
+會員條款與管理規章|Điều khoản Thành viên và quy chế quản lý┤
+綁定|Liên kết┤
+綁定失敗|Liên kết Thất bại┤
+該社群帳號已經綁定過，綁定失敗|Tài khoản cộng đồng đã liên kết rồi, liên kết Thất bại┤
+資金決済法に基づく表記|Ký hiệu dựa trên luật thanh toán tài chính┤
+資料更新，是否回到登入畫面重新下載？|Đã cập nhật dữ liệu, quay lại màn hình Đăng nhập để tải xuống dữ liệu?┤
+資料更新，將回到登入畫面。|Thông tin được cập nhật, quay lại màn hình Đăng nhập┤
+資料更新中，請按「確認」重新連線。|Đang cập nhật dữ liệu, nhấn "Xác nhận" để kết nối lại┤
+資源取得失敗，請點選【確認】嘗試重新取得。|Không thể nhận tài nguyên, vui lòng nhấp vào [Xác nhận] để thử lại┤
+遊戲公告|Thông báo trò chơi┤
+遊戲帳號登入|Đăng nhập Tài khoản trò chơi┤
+遊戲資源有新版本#當前使用WIFI不造成流量費用#是否下載遊戲檔案?#<color=red>檔案大小：{0}</color>|Trò chơi đã ra mắt phiên bản mới #Sử dụng WIFI không gây ra phí lưu lượng#Bạn có muốn tải xuống tệp trò chơi không?#<color=red>Kích thước tệp: {0}</color>┤
+遊戲資源有新版本#當前使用行動網路可能會需要支付流量費用#是否下載遊戲檔案?#<color=red>檔案大小：{0}</color>|Đã có phiên bản mới của tài nguyên trò chơi #Mạng di động hiện đang sử dụng có thể phải trả phí lưu lượng#Bạn có muốn tải xuống tệp trò chơi không?#<color=red>Kích thước tệp: {0}</color>┤
+網路不太穩定|Mạng không ổn định┤
+網路不太穩定，現在為您進行重新連線！|Mạng không ổn định, chúng tôi đang kết nối lại cho bạn!┤
+網路異常，請嘗試重新連接網路|Mạng không ổn định, vui lòng kết nối lại mạng┤
+數據引繼|Định tuyến dữ liệu┤
+確定刪除訪客帳號?|Bạn có chắc chắn muốn xóa Tài khoản khách không?┤
+確認|Xác nhận┤
+請輸入信箱|Vui lòng nhập hộp thư của bạn┤
+請輸入密碼|Vui lòng nhập mật khẩu┤
+請選擇要切換的帳號|Vui lòng chọn Tài khoản bạn muốn chuyển đổi┤
+檔案下載中  總進度： {0} / {1}|Đang tải xuống    Tổng tiến độ: {0} / {1}┤
+獲得免費ECoin|Nhận ECoin miễn phí┤
+點擊前往註冊|Bấm để Đăng ký┤
+斷線，確認後重新登入遊戲。|Đã ngắt kết nối, Đăng nhập lại vào trò chơi sau khi xác nhận.┤
+舊玩家請確認已在遊戲內綁定工口帳號，否則將開始全新進度。|Những người chơi cũ, vui lòng xác nhận rằng Tài khoản ERO đã được liên kết trong trò chơi, nếu không một tiến trình mới sẽ bắt đầu.┤
+關於女神コネクトX的咨詢事項|Thắc mắc về MegamiconnectX┤
+關閉遊戲|Đóng trò chơi┤

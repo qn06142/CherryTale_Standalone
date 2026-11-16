@@ -1,0 +1,2 @@
+ID|groupID|targetScore|voice┤
+1|918000101|-1|-1┤

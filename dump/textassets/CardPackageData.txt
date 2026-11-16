@@ -1,0 +1,6 @@
+cardPackageID|cardPackageName|rare|showOder|drawCardTimes|itemID|animationStatus|animationPrefab┤
+911000000|仙度瑞拉教學用卡包|1|-1|1|200610001|CardAnimation_White|CardPackage_Big_01┤
+911000001|一般卡包|1|4|1|200610001|CardAnimation_White|CardPackage_Big_01┤
+911000002|高級卡包|2|3|1|200610002|CardAnimation_Green|CardPackage_Big_02┤
+911000003|稀有卡包|3|2|1|200610003|CardAnimation_Blue|CardPackage_Big_03┤
+911000004|超稀有卡包|4|1|1|200610004|CardAnimation_Purple|CardPackage_Big_04┤

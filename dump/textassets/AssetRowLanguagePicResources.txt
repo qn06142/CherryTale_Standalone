@@ -1,0 +1,5 @@
+assetID|assetPath┤
+battle_078|battle┤
+checkin_7day_4|checkin┤
+fight_30|fight┤
+logo_01|login┤

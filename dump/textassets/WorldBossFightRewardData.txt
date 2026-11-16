@@ -1,0 +1,3 @@
+otherRewardID|itemID|modelId┤
+688000001|NULL|WorldBox01┤
+688000002|NULL|WorldBox01┤

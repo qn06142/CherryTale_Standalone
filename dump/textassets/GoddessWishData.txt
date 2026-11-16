@@ -1,0 +1,2 @@
+goddessID|type|createStartDay|createShowDay|startDate|endDate|goddessStoreID|goddessRewardID|goddessRewardGroup|goddessTxt┤
+1|2|0|0|2000-01-01 00:00:00|2000-01-11 00:00:00|570000010|NULL|NULL|新創冒險團限定！！快對魔鏡許願獲得更優渥的獎勵吧！！┤

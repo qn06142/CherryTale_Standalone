@@ -1,0 +1,2 @@
+groupID|startDate|endDate|bannerName|restrainDesc|roleInfoIDs|sex|attributeType|element|special_EnemyType┤
+1|2018-03-01 06:00:00|2018-03-25 14:00:00|FightBanner_02.png|傑克斯&阿基里斯於時空戰中能量取得一倍|133000100$133000300|-1|-1|-1|NULL┤

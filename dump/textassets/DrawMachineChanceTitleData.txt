@@ -1,0 +1,30 @@
+groupId|titleAssetID|title|order┤
+1|Role_Rarity_1|N|99┤
+2|Role_Rarity_2|<color=#9a9798>R</color>|98┤
+3|Role_Rarity_3|<color=#55a2ee>SR</color>|97┤
+4|Role_Rarity_4|<color=#d155ea>SSR</color>|96┤
+5|Role_Rarity_5|<color=#d96b00>Pick UP SSR</color>|95┤
+6|Role_Rarity_6|<color=#fa41cb>Pick UP SSR</color>|94┤
+7|Role_Rarity_6|<color=#fa41cb>Wish SSR➀</color>|91┤
+8|Role_Rarity_6|<color=#fa41cb>Wish SSR</color>|92┤
+9|Role_Rarity_6|<color=#fa41cb>Wish SSR➁</color>|93┤
+11|Quality_2|普通品質裝備|45┤
+12|Quality_3|<color=#45a678>優良品質裝備</color>|44┤
+13|Quality_4|<color=#569cdb>稀有品質裝備</color>|43┤
+14|Quality_5|<color=#c061b7>史詩品質裝備</color>|42┤
+15|Quality_6|<color=#CE0000>傳說品質裝備</color>|40┤
+16|Quality_7|<color=#d96b00>限定SSR史詩品質裝備</color>|41┤
+21|Quality_2|道具資源|61┤
+22|Quality_3|<color=#45a678>道具資源</color>|60┤
+23|Quality_4|<color=#569cdb>道具資源</color>|59┤
+24|Quality_5|<color=#c061b7>道具資源</color>|56┤
+25|Quality_6|<color=#d96b00>道具資源</color>|55┤
+26|Quality_2|裝備碎片|52┤
+27|Quality_5|<color=#c061b7>道具資源</color>|57┤
+28|Quality_5|<color=#c061b7>道具資源</color>|58┤
+29|Quality_6|<color=#d96b00>道具資源</color>|54┤
+30|Quality_6|<color=#d96b00>道具資源</color>|53┤
+31|Mirror_Classes_C|C|4┤
+32|Mirror_Classes_B|B|3┤
+33|Mirror_Classes_A|A|2┤
+34|Mirror_Classes_S|S|1┤

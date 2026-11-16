@@ -1,0 +1,12 @@
+rankID|worldBossRankLV|worldBossRankName|worldBossRankExp|worldBossFriBuff|attachReward|rankBuffDesc┤
+682000001|0|新兵|600|NULL|NULL|時空攻擊1%┤
+682000002|1|一階兵|900|NULL|NULL|時空攻擊2%┤
+682000003|2|上階兵|1200|NULL|NULL|時空攻擊3%┤
+682000004|3|騎士|2000|NULL|NULL|時空攻擊4%┤
+682000005|4|一階騎士|2800|NULL|NULL|時空攻擊5%┤
+682000006|5|上階騎士|3600|NULL|NULL|時空攻擊7%┤
+682000007|6|白銀騎士|4400|NULL|NULL|時空攻擊9%┤
+682000008|7|黃金騎士|5200|NULL|NULL|時空攻擊11%┤
+682000009|8|白金騎士|7500|NULL|NULL|時空攻擊13%┤
+682000010|9|騎士團長|8000|NULL|NULL|時空攻擊15%┤
+682000011|10|大騎士長|-1|NULL|NULL|時空攻擊16%┤

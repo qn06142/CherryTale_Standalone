@@ -1,0 +1,3 @@
+experimentID|quantity|fallBackQuantity|sectionGroup|startTime|endTime|url┤
+670000001|7|0|NULL|0 00 5 ? * MON|0 55 4 ? * MON|-1┤
+670000002|42|0|NULL|0 00 5 ? * MON|0 55 4 ? * MON|-1┤

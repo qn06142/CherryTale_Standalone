@@ -1,0 +1,3 @@
+bossID|bossType|description|bossDesc1|bossDesc2|timeLimit|baseScore|boss1_LimitLv|boss1_LvDesc|boss1_Info|boss1_StarRank|boss1_Lv|boss1_EnemyType|bossBuff|battleStage|battleRoomInCamera|bgm┤
+688000001|1|觸電超載、單體降防|風之霸主降臨|時空之龍．風元素|180000|100|20|防禦戰|NULL|5|25|NULL|NULL|s010_01|Boss_BattleRoomInCamera_1|b02_bpm131┤
+688000002|0|觸電超載、全體降傷|風之霸主降臨|時空之龍．風元素|180000|1|15|攻擊戰|NULL|4|15|NULL|NULL|s010_01|Boss_BattleRoomInCamera_1|b02_bpm131┤

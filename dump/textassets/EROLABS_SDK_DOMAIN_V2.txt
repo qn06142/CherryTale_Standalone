@@ -1,0 +1,9 @@
+{
+	"config": [
+		"https://ocf.ebuajk.com/conf/v2/config",
+		"https://ocf.tujauto.com/conf/v2/config"
+	],
+	"login": [
+		"https://sadpki-portal-v2.ebuajk.com"
+	]
+}

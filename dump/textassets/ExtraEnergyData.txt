@@ -1,0 +1,6 @@
+menuID|number|assetID|selfReward|friendReward|useItemID|itemAmount┤
+500000001|1|Activity_Eat_food1|NULL|NULL|NULL|0┤
+500000002|2|Activity_Eat_food2|NULL|NULL|NULL|5┤
+500000003|3|Activity_Eat_food3|NULL|NULL|NULL|10┤
+500000004|4|Activity_Eat_food4|NULL|NULL|NULL|16┤
+500000005|5|Activity_Eat_food5|NULL|NULL|NULL|21┤

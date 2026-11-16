@@ -1,0 +1,28 @@
+# =============================================================================
+# CherryTale Standalone WebViewer & Datamine Pipeline - Production Requirements
+# Environment: Python 3.11 (Windows x86_64)
+# =============================================================================
+
+# --- Core Runtime & Asset Pipeline ---
+UnityPy==1.25.3
+pillow==12.3.0
+lz4==4.4.5
+tqdm==4.70.0
+pycryptodome==3.23.0
+
+# --- UnityPy Binary Acceleration & Native Texture Decoders ---
+texture2ddecoder==1.0.6
+etcpak==0.9.15
+astc-encoder-py==0.1.12
+brotli==1.2.0
+tpk_ar==0.2.4
+archspec==0.2.6
+
+# --- Audio Extraction & Subsystem Support ---
+fmod_toolkit==0.1.3
+pyfmodex==0.7.2
+
+# --- Streaming Filesystem & Process Management ---
+fsspec==2026.7.0
+psutil==7.2.2
+attrs==26.1.0
